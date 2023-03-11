@@ -23,7 +23,7 @@ These notes hopefully cover a large range of subjects, from your common core sub
 
 I also included some parts of my personal "timetable" to show how I manage my time.
 
-[test](https://Shan-Mei.github.io/shanmeis-notes/trial/)
+[test](https://shan-mei.github.io/shanmeis-notes/trial/)
 
 
 ## Background and Inspo
