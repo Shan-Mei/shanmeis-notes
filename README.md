@@ -12,6 +12,7 @@
   <p>I no longer know how frequently this will be updated. <a href="https://shanmeisnotes.wixsite.com/shanmeis-notes/journels">Journalling</a> will be updated almost every day, notes will be updated when I have the time.</p>
   <p>These notes hopefully cover a large range of subjects, from your common core subjects to music theory to notes from sermons (Christianity based things) to tips with studying, cramming and managing stress.</p>
   <p>I also included some parts of my personal "timetable" to show how I manage my time.</p>
+  <a href="https://shan-mei.github.io/shanmeis-notes/trial.html">test</a>
 
   <h3>
     Background and Inspo
