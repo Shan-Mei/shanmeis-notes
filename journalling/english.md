@@ -2,7 +2,6 @@
   <h2>
     English Journal
   </h2>
-  <h2></h2>
   <h4>T1W4L1 - 21/2</h4>
   <p>- We are continuing doing our speeches.</p>
   <p>- Nothing new, just got my speech checked by my teacher and got new things to improve on.</p>

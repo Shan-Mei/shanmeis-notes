@@ -1,8 +1,7 @@
 <body>
-  <h1>
+  <h2>
   Math Journal
-  </h1>
-  <h4></h4>
+  </h2>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Learning about financial math - econs lesson??</p>
   <p>- I was searching up some of the vocab Ms Liu was using so I wasn't concentrating, then I got picked on :'( I'm glad it was an easy question and that it was straightforward</p>
