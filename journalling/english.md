@@ -29,5 +29,6 @@
   <p>- We are now comparing the Bible to Ovid's story. We also had to choose another myth to compare to, I picked the Japanese one.</p>
   <h4>T1W6L3 - 9/3</h4>
   <p>- We read the Age of Mankind by Ovid. Then we had to illustatrate it as a comic strip.</p>
-  <h4>T1W6L4 - 10/3</p4>
+  <h4>T1W6L4 - 10/3</h4>
   <p>- Continued the comic.</p>
+</body>
