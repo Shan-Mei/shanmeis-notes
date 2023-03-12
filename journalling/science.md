@@ -19,10 +19,10 @@
   <p>- We worked on Sound 1 in Stile</p>
   <p>- Unfortunately I was late because there was an accident in Cockburn and our relief teacher was Ms Enslin... and she didn't give my friend and I the easiest time explaining why the kiosk doesn't print out a note.</p>
   <h4>T1W6L1 - 7/3</h4>
-  <p>- Worked on Stile, Sound 2</h4>
+  <p>- Worked on Stile, Sound 2</p>
   <p>- Mr Mort came back!</p>
   <h4>T1W6L2 - 9/3</h4>
   <p>- We did a light practical for the period, my friend and I made some rainbows with light and prisms. Very fun. The main focus was angles of incidence and reflection.</p>
-  <h4>T1W6L3 - 10/3<h4>
+  <h4>T1W6L3 - 10/3</h4>
   <p>- Did the science inquiry practice test. Don't think I'll manage to finish the real test in time unfortunately. Gotta write faster.
   </p>
