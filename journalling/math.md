@@ -39,3 +39,5 @@
   <h4>T1W6L3 - 9/3</h4>
   <p>- We learnt a little on factorising, and worked on 2.06 mathspace</p>
   <p>- Also did coding for the last 30 minutes.</p>
+  <h4>T1W7L1</h4>
+  <p>- Practised expanding and factorising. Did a little bit of extention work. Half the class is desperately studying for their languages tests, it's really quite funny to see all the screens on EP.</p>
