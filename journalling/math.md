@@ -41,3 +41,6 @@
   <p>- Also did coding for the last 30 minutes.</p>
   <h4>T1W7L1</h4>
   <p>- Practised expanding and factorising. Did a little bit of extention work. Half the class is desperately studying for their languages tests, it's really quite funny to see all the screens on EP.</p>
+  <p>- Got picked on. Argh. There are some people that are still yet to be picked on. Hmph.</p>
+  <p>- Did textbook questions.</p>
+</body>
