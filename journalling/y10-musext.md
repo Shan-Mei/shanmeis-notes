@@ -11,7 +11,7 @@
   <p>- We started working through movement 1 of spring by Vivaldi.<br>- Had a little look through IMSLP. I am glad that they do Urtext editions as well. No longer need to pay Henle :D<br>- Homework: find out the story of the first movement of spring.</p>
   <h4>T1W5L3 - 2/3</h4>
   <p>- Mr Rogers fell sick and we had an English teacher as relief. Mrs Roy came to visit our class to check on us and it seems as if the two are quite fond of each other.<br>- We did the worksheet that was sent to us through email. Some funny wording in the worksheets.</p>
-  <h4>T1W6L1 - 7/3</p>
+  <h4>T1W6L1 - 7/3</h4>
   <p>- Mr Rogers is still sick so our class joined up with Ms Banyard's class. It appears as though she actually teaches her class though, which honestly, I didn't expect.<br>- We got our first composition task - which myself including many many other really really HATE. It's a very not fun melody arrangement task, and we have to basically arrange a given melody for an ensemble. The options are WAM string quartet (I highly doubt the teachers understand how hard it actually is to write for string quartet), Jazz ensemble with no kit and an improvised solo with pre defined "licks." Another option is to do a contemporary band with no kit and we have to make up lyrics for it. It must be in ternary form, with the given melody as the A section, and it must be STUPID HOMOPHONIC. Arghh that's the part I really despise. Oh well.</p>
   <h4>T1W6L2 - 9/3</h4>
   <p>- Mr Rogers still away, we just finished off the Vivaldi booklet. It wasn't fun but I did some stuff. However, half the class (including me) just sung through the Anzac day repertoire for half the period.</p>
