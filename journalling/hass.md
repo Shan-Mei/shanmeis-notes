@@ -18,6 +18,8 @@
   <p>- Started topic 4 in HaSS. First task is to create a flow chart of sorts on what the events to the lead-up to the Tent Embassy.</p>
   <h4>T1W6L3 - 9/3</h4>
   <p>- We got relief (Ms Carter - the HaSS one not the english one) and we just worked on 4.1 and 4.2. My tablemates did some rather strange things through this period.</p>
-  <h4>T1W7L3 - 13/3</h4>
+  <h4>T1W7L1 - 13/3</h4>
   <p>-We watched the Mabo vid while I finished Mabo 2. Very chill session. Very good.<br>- We are getting our tests back on probably Friday.</p>
+  <h4>T1W7L2 - 14/3</h4>
+  <p>- Continued with 4.2. When Ms Pyper went around checking what everyone had done, my TEAMS OPENED SOMEHOW AND SHE THOUGHT I WAS TEXTING EVEN THOUGH I HADN'T OPENED TEAMS SINCE THAT MORNING. I was so frustrated arghhh.<br>- I also seriously thought I had aquatic rec that period (because Ms Gunzberg said we had it 5th period and I thought she got the periods wrong) so I was like 5 minutes late.</p>
 </body>

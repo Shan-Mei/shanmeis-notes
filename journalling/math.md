@@ -22,6 +22,10 @@
   <p>- Basically just practised.<br>- Ms Liu assigned us 2.03 twice .0.</p>
   <h4>T1W6L3 - 9/3</h4>
   <p>- We learnt a little on factorising, and worked on 2.06 mathspace<br>- Also did coding for the last 30 minutes.</p>
-  <h4>T1W7L1</h4>
+  <h4>T1W7L1 - 13/3</h4>
   <p>- Practised expanding and factorising. Did a little bit of extention work. Half the class is desperately studying for their languages tests, it's really quite funny to see all the screens on EP.<br>- Got picked on. Argh. There are some people that are still yet to be picked on. Hmph.<br>- Did textbook questions.</p>
+  <h4>T1W7L2 - 14/3</h4>
+  <p>- Learnt about specific factoring techniques. Got picked on again but it was alright.</p>
+  <h4>T1W7L3 - 15/3</h4>
+  <p>- Started with factoring trinomial monic equations.<br>- Did practice on Mathspace.</p>
 </body>

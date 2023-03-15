@@ -10,4 +10,6 @@
   <p>- We finished our assignments, and my group had half a period of free time :D because we used our time wisely in class unlike the other groups. Which was very nice since my other two group members had their hass test the next period, and I just got to continue working on my Quartz.<br>- I know I said that it was due today but I didn't know we were supping last Tuesday. So it's due idek when.</p>
   <h4>T1W6L2 - 24/2</h4>
   <p>- We went supping and kayaking again today, very fun. We rowed over 3 km, starting rowing from Wesley College and across the river to Elizabeth Quay :D Unfortuantely, that was our last supping section we get. Very fun though, I got surprise photo'd by Ms Gunzberg as well.</p>
+  <h4>T1W7L1 - 14/3</h4>
+  <p>- We learnt some snorkelling basics today, and put our theory techniques into action at Beatty Pool park. Very fun.</p>
 </body>

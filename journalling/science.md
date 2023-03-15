@@ -19,4 +19,6 @@
   </p>
   <h4>T1W7L1 - 13/3</h4>
   <p>- Went through the science cat. The notes on it can be found<a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/t1-cat-task.html"> here</a>. Please do not copy off my notes if you are in my year group :')</p>
+  <h4>T1W7L2 - 14/3</h4>
+  <p>- Continued with the CAT task.</p>
 </body>

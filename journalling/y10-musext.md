@@ -19,4 +19,6 @@
   <p>- We were meant to have the prac today, but unfortunately Mr Rogers still sick. Literally just worked on the composition the whole period.</p>
   <h4>T1W7L1 - 13/3</h4>
   <p>- We listened to Mr Rogers the whole time, we analysed the first movement of Spring. Some of my classmates may have low-key offended Mr Rogers during class.<br>- We argued that Enrico was the hottest guy in the class. I am not gonna comment on that.</p>
+  <h4>T1W7L2 - 14/3</h4>
+  <p>- Another normal music class. We discussed some general knowledge and did some melodic dictation.<br>- I ended up moving back to the other table.</p>
 </body>
