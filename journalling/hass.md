@@ -22,4 +22,6 @@
   <p>-We watched the Mabo vid while I finished Mabo 2. Very chill session. Very good.<br>- We are getting our tests back on probably Friday.</p>
   <h4>T1W7L2 - 14/3</h4>
   <p>- Continued with 4.2. When Ms Pyper went around checking what everyone had done, my TEAMS OPENED SOMEHOW AND SHE THOUGHT I WAS TEXTING EVEN THOUGH I HADN'T OPENED TEAMS SINCE THAT MORNING. I was so frustrated arghhh.<br>- I also seriously thought I had aquatic rec that period (because Ms Gunzberg said we had it 5th period and I thought she got the periods wrong) so I was like 5 minutes late.</p>
+  <h4>T1W7L3 - 16/3</h4>
+  <p>- Did 4.3 and 5.1. We had a relief teacher and basically I just spedran my work.</p>
 </body>

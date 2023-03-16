@@ -28,4 +28,6 @@
   <p>- We read through Narcissus and Echo. Interesting story and surprisingly, one I've heard before. We have to adapt it into a <a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/english/t1w7l2-narcissus-and-echo.html">drama</a> of sorts. Mine isn't nearly complete.</p>
   <h4>T1W7L2 - 15/3</h4>
   <p>- After Naplan, we continued with the adaptations.</p>
+  <h4>T1W7L3 - 16/3</h4>
+  <p>- Read this really cursed Ovid story. I'm gonna defenestrate myself out of the Beasley windows.</p>
 </body>

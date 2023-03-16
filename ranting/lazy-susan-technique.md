@@ -7,5 +7,5 @@
   <p>And this is how I did it in my busy schedules.</p>
   <p>Mr Barclay would say "surely you can fit in 5 minutes of practice while you study, if 5 minutes makes a difference to your mark then I am seriously concerned." The technique is where you split your study session in half (or in chunks. I do chunks but this is how you fit 5 minutes of practice in), and as a "break" you practice for 5 minutes. And when you practice, don't run through a piece, but run through a small section where you really really need to practice.</p>
   <p>I use an adopted method to this, where I have 20 minutes of study and 5 minutes of instrument. Playing both oboe and violin, I find this very helpful. I study for 20 minutes and I practice for 5 minutes, and I keep doing this until I finish studying.</p>
-  <p>It's really worth a try, I recommend it :)<p>
+  <p>It's really worth a try, I recommend it :)</p>
 </body>

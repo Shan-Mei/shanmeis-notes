@@ -21,4 +21,6 @@
   <p>- Went through the science cat. The notes on it can be found<a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/t1-cat-task.html"> here</a>. Please do not copy off my notes if you are in my year group :')</p>
   <h4>T1W7L2 - 14/3</h4>
   <p>- Continued with the CAT task.</p>
+  <h4>T1W7L3 - 16/3</h4>
+  <p>- Got questions answered about Cat Validation and started with Sound Experiment Stile.<br>- I still think this whole science cat is so stupid like we legit got three dependant variables...</p>
 </body>
