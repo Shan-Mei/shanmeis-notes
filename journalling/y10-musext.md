@@ -23,4 +23,6 @@
   <p>- Another normal music class. We discussed some general knowledge and did some melodic dictation.<br>- I ended up moving back to the other table.</p>
   <h4>T1W7L3 - 16/3</h4>
   <p>- The norm happened. We discussed tomorrow and listened to some F#.</p>
+  <h4>T1W7L4 - 17/3</h4>
+  <p>- Played through the ritornello of Spring by Vivaldi. Mr Rogers made us do a really sacrilege version of it by him putting a kit beneath it...</p>
 </body>

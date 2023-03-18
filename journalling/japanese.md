@@ -6,4 +6,6 @@
   <p>- Learnt more words and grammar again today. I really want my 3rd period of languages back. Now every lesson is learning a new set of words and we have no way to consolidate our knowledge while in class.<br>- We found out the assessment is 2 Fridays later, and we found that we ALSO haven't learnt all of the material required for the assessment... so my class and myself are pretty screwed.</p>
   <h4>T1W7L1 - 13/3</h4>
   <p>- I had the test today. It was very stressful. My heart was beating like crazy because I had just played two intense games of touch rugby the period before and I was trying to fan myself down and couldn't concentrate properly during the listening section.<br>- Yes I know I said it was gonna be on Friday but Karasavas Sensei emailed us last week and told us that it was gonna be today.</p>
+  <h4>T1W7L2 - 17/3</h4>
+  <p>- Learnt about different festivals and celebrations in Japan. Went over some vocab and the giving and receiving structure.</p>
 </body>

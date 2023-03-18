@@ -12,4 +12,6 @@
   <p>- We went supping and kayaking again today, very fun. We rowed over 3 km, starting rowing from Wesley College and across the river to Elizabeth Quay :D Unfortuantely, that was our last supping section we get. Very fun though, I got surprise photo'd by Ms Gunzberg as well.</p>
   <h4>T1W7L1 - 14/3</h4>
   <p>- We learnt some snorkelling basics today, and put our theory techniques into action at Beatty Pool park. Very fun.</p>
+  <h4>T1W7L2 - 17/3</h4>
+  <p>- Got more updates on what we were gonna do in Rottnest. We will be catching the ferry at B-Shed at 9:00 and arriving at 9:30. We will also be doing some swimming and "hanging out" on the different coasts, and we'll also be visiting different places. Finishing the day at 2:00. I almost thought it was gonna be on Tuesday and went oh dangit that's when I have ensembles both before and after school.<br>- We handed in our assignments, and sorted out the snorkelling gear, fins etc. Ms Gunzberg hard yelled at the guys in our class for swearing and not behaving appropriately.</p>
 </body>

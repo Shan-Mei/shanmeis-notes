@@ -30,4 +30,6 @@
   <p>- After Naplan, we continued with the adaptations.</p>
   <h4>T1W7L3 - 16/3</h4>
   <p>- Read this really cursed Ovid story. I'm gonna defenestrate myself out of the Beasley windows.</p>
+  <h4>T1W7L4 - 17/3</h4>
+  <p>- Looks like I actually didn't defenestrate myself.<br>- We wrote some analytical paragraphs about the Pygmalion.<br>- You might know how I don't read fiction and I literally read textbooks as my leisure. I almost thought I was gonna get yelled at by Ms James during the reading times because she stood behind me for a good 30 seconds.</p>
 </body>
