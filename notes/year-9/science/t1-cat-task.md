@@ -11,7 +11,7 @@
   <p>Non-Ohmic resistance is resistance that doesn't follow Ohm's law (V = I/R), such as temperature.</p>
   <h5>3. How can we tell if a material has ohmic or non-ohmic resistance?</h5>
   <p>ERm<br>When the current and voltage is graphed, the lines are not straight and are not proportianate to one another.</p>
-  <h5>4. What is the difference between ohmic resistance and non-ohmic resistance?
+  <h5>4. What is the difference between ohmic resistance and non-ohmic resistance?</h5>
   <p>Ohmic resistance follows Ohm's law (V = IR), whereas non-Ohmic resistance does not.</p>
   <h5>5. How is the graphing of voltage vs current used to determine ohmic resistance?</h5>
   <p>When you graph ohmic current and voltage, they will move in similar motion. If one goes diagonally down, the other will also go diagonally down, and vice versa. However, when you graph non-ohmic resistance, the direction and gradiant of the lines will fluctuate.</p>
