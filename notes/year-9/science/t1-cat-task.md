@@ -9,9 +9,9 @@
   <h5>2. What is non-Ohmic resistance?</h5>
   <p>Non-Ohmic resistance is resistance that doesn't follow Ohm's law (V = I/R), such as temperature.</p>
   <h5>3. How can we tell if a material has ohmic or non-ohmic resistance?</h5>
+  <p>ERm<br>When the current and voltage is graphed, the lines are not straight and are not proportianate to one another.</p>
+  <h5>4. What is the difference between ohmic resistance and non-ohmic resistance?
   <p>A resistor is ohmic if when the voltage is increased with it across the circuit, and when graphed, the line is straight, then it is ohmic. If the line is not straight, but has curves, then the resistor is non-ohmic.</p>
-  <h5>4. What is the difference between ohmic resistance and non-ohmic resistance?</h5>
-  <p>
   <h4>References</h4>
   <p><a href="https://www.sciencedirect.com/topics/engineering/ohmic-resistance#:~:text=The%20ohmic%20resistance%20RB,current%20according%20to%20Ohm's%20law.">https://www.sciencedirect.com/topics/engineering/ohmic-resistance#:~:text=The%20ohmic%20resistance%20RB,current%20according%20to%20Ohm's%20law.</a><br><a href="https://byjus.com/question-answer/what-are-non-ohmic-resistance-give-two-examples/">https://byjus.com/question-answer/what-are-non-ohmic-resistance-give-two-examples/</a><br><a href="https://www.webassign.net/question_assets/ucfcolphyseml1/lab_4/manual.html#:~:text=A%20resistor%20is%20'Ohmic'%20if,is%20not%20a%20straight%20line.">https://www.webassign.net/question_assets/ucfcolphyseml1/lab_4/manual.html#:~:text=A%20resistor%20is%20'Ohmic'%20if,is%20not%20a%20straight%20line.</a></p>
 </body>
