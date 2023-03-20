@@ -23,4 +23,6 @@
   <p>- Continued with the CAT task.</p>
   <h4>T1W7L3 - 16/3</h4>
   <p>- Got questions answered about Cat Validation and started with Sound Experiment Stile.<br>- I still think this whole science cat is so stupid like we legit got three dependant variables...</p>
+  <h4>T1W8L1 - 20/3</h4>
+  <p>- Continued with editing the cat task.</p>
 </body>
