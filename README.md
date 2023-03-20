@@ -12,6 +12,9 @@
   <p>I live in the <a href="https://shan-mei.github.io/shanmeis-notes/ranting/the-town.html">town</a>.</p>
   <p>I also write about other things <a href="https://shan-mei.github.io/shanmeis-notes/ranting.html">here</a>.</p>
 
+  <h3>Development Status</h3>
+  <p>Behold the new development status. This is a fresh new status log. Still, everything is chicken bones, and a CSS and icon are yet to exist. However, these will be gotten to when I come around to it and have time. Probably not gonna happen until like 2 months later though.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here</a>.</p>
+
   <h3>
     Background and Inspo
   </h3>
