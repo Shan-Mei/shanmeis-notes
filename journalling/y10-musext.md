@@ -26,5 +26,5 @@
   <h4>T1W7L4 - 17/3</h4>
   <p>- Played through the ritornello of Spring by Vivaldi. Mr Rogers made us do a really sacrilege version of it by him putting a kit beneath it...</p>
   <h4>T1W8L1 - 20/3</h4>
-  <p>- Sang though Deep River. I had to conduct XP. Don't want to do that again.<br>- We also have a test.<br>- Aural content:<br>   - All intervals within the octave, including aug 4th. Going up and down.<br>   - 4 kinds of triads: Major, minor, diminished, augmented. Note: There are only 2 augmented triads<br>   - Chord progrssions major: 1, 4, 5, 5^7, 6.<br>   - Chord progressions minor: 1, 4, 5, 5^7<br>   - Rhythmic and melodic dictation. 4 bars in length. First 2 bars of melodic will include rhythm, the second two will be proper dictation. Heard 5 times
+  <p>- Sang though Deep River. I had to conduct XP. Don't want to do that again.<br>- We also have a test.<br>- Aural content:<br>   - All intervals within the octave, including aug 4th. Going up and down.<br>   - 4 kinds of triads: Major, minor, diminished, augmented. Note: There are only 2 augmented triads<br>   - Chord progrssions major: 1, 4, 5, 5^7, 6.<br>   - Chord progressions minor: 1, 4, 5, 5^7<br>   - Rhythmic and melodic dictation. 4 bars in length. First 2 bars of melodic will include rhythm, the second two will be proper dictation. Heard 5 times</p>
 </body>
