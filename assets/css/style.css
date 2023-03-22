@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+iframe {
+  width: 50%;
+  height: 400px;
+}
