@@ -26,4 +26,8 @@
   <p>- Did 4.3 and 5.1. We had a relief teacher and basically I just spedran my work.</p>
   <h4>T1W8L1 - 20/3</h4>
   <p>- Got the tests and our rankings back<br>- We sang over the rainbow as a memorium of our sad grades.<br>- Continued with 4.3 and 5.1.</p>
+  <h4>T1W8L2 - 21/3</h4>
+  <p>- Watched the two speeches from the Prime Minister, and we worked through 5.2.</p>
+  <h4>T1W8L3 - 22/3</h4>
+  <p>- Continued doing 5.2 doing the Point Evidence Explain structure.</p>
 </body>

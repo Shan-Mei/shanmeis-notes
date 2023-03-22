@@ -28,4 +28,8 @@
   <p>- Learnt about specific factoring techniques. Got picked on again but it was alright.</p>
   <h4>T1W7L3 - 15/3</h4>
   <p>- Started with factoring trinomial monic equations.<br>- Did practice on Mathspace.</p>
+  <h4>T1W8L1 - 21/3</h4>
+  <p>- We went through completing expanded equations and learnt an extention to factoring perfect squares.</p>
+  <h4>T1W8L2 - 22/3</h4>
+  <p>- Got a relief, we did Mathspace.</p>
 </body>

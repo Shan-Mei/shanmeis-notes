@@ -25,4 +25,6 @@
   <p>- Got questions answered about Cat Validation and started with Sound Experiment Stile.<br>- I still think this whole science cat is so stupid like we legit got three dependant variables...</p>
   <h4>T1W8L1 - 20/3</h4>
   <p>- Continued with editing the cat task.</p>
+  <h4>T1W8L2 - 21/3</h4>
+  <p>- We did the validation assessment. I'm surprised I manage to finish it. However, I forgot to convert the units from m/s to l/s. Big mistake but oh well.</p>
 </body>
