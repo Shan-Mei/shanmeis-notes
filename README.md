@@ -1,6 +1,7 @@
 <head>
   <title>
     Shan-Mei's Notes!
+    <link href="style.css" rel="stylesheet" type="text/css">
   </title>
 </head>
 <body>
