@@ -32,4 +32,6 @@
   <p>- We went through completing expanded equations and learnt an extention to factoring perfect squares.</p>
   <h4>T1W8L2 - 22/3</h4>
   <p>- Got a relief, we did Mathspace.</p>
+  <h4>T1W8L3 - 23/3</h4>
+  <p>- Did some practice questions and looked at simplifying fractions.<br>- This is the first time ever I have a good grasp on algebra and not falling behind :D<br>- Doing 1.11 Mathspace in class, 1.10 for homework.</p>
 </body>

@@ -27,4 +27,6 @@
   <p>- Continued with editing the cat task.</p>
   <h4>T1W8L2 - 21/3</h4>
   <p>- We did the validation assessment. I'm surprised I manage to finish it. However, I forgot to convert the units from m/s to l/s. Big mistake but oh well.</p>
+  <h4>T1W8L3 - 23/3</h4>
+  <p>- Went through the anatomy of the ear and did some practice questions for lead up to test.</p>
 </body>
