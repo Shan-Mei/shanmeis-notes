@@ -1,5 +1,3 @@
----
----
 <head>
   <title>
     Shan-Mei's Notes!
