@@ -17,5 +17,5 @@
   <p>Literally connect a non-reactice object to the ground. Preferably earth, carpet will probably not work. If you don't ground and the static charge keeps building and building there will be a spark created. I literally screamed when I put the metal ball at the Vann de Graaf.</p>
   <h3>Circuits</h3>
   <h4>Batteries</h4>
-  <p>┏━━━━━━━━━━━━━━━━━━━━━━━┓<br>|- - - - - - - - - - - - - - - - - -|<br>|- - - - - - - - - - - - - - - - - -|<br>| ━━━━━━━━━━━━━━━━━━━━━━ |<br>|  + + + + + + + + + + + +  |<br>|  + + + + + + + + + + + +  |<br>┗━━━━━━━━━━━━━━━━━━━━━━━┛<br>This is a battery. But very funny looking. </p>
+  <p>┏━━━━━━━━━━━━━━━━━━━━━━━┓<br>|- - - - - - - - - - - - - - - - - -|<br>|- - - - - - - - - - - - - - - - - -|<br>|━━━━━━━━━━━━━━━━━━━━━━━|<br>|  + + + + + + + + + + + +  |<br>|  + + + + + + + + + + + +  |<br>┗━━━━━━━━━━━━━━━━━━━━━━━┛<br>This is a battery. But very funny looking. </p>
 </body>
