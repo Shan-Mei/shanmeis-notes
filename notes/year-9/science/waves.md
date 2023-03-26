@@ -28,7 +28,7 @@
   <p>The "control" line between the incident and reflection rays. It runs from the centre of the mirror to 0 angle.</p>
   <h4>Incident ray</h4>
   <p>The incident ray is the light that is shone onto a reflective surface.</p>
-  <h4>Reflection ray<h4>
+  <h4>Reflection ray</h4>
   <p>The reflection ray is the ray that is reflected. The angle is the same as the angle of the incident ray to the normal.</p>
   <h3>Sound</h3>
   <h4>Graphing sound</h4>
