@@ -1,5 +1,11 @@
 ---
 ---
+<head>
+  <title>
+    Shan-Mei's Notes!
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+  </title>
+</head>
 <body>
   <h1>Shan-Mei's Notes</h1>
   <p>Hi, I'm Shan-Mei, a high school year 9 student from Perth, Australia.</p>

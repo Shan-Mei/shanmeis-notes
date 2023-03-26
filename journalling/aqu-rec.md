@@ -14,4 +14,6 @@
   <p>- We learnt some snorkelling basics today, and put our theory techniques into action at Beatty Pool park. Very fun.</p>
   <h4>T1W7L2 - 17/3</h4>
   <p>- Got more updates on what we were gonna do in Rottnest. We will be catching the ferry at B-Shed at 9:00 and arriving at 9:30. We will also be doing some swimming and "hanging out" on the different coasts, and we'll also be visiting different places. Finishing the day at 2:00. I almost thought it was gonna be on Tuesday and went oh dangit that's when I have ensembles both before and after school.<br>- We handed in our assignments, and sorted out the snorkelling gear, fins etc. Ms Gunzberg hard yelled at the guys in our class for swearing and not behaving appropriately.</p>
+  <h4>T1W8L2</h4>
+  <p>- Continued with the original workbooks.</p>
 </body>

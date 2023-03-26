@@ -32,6 +32,12 @@
   <p>- Read this really cursed Ovid story. I'm gonna defenestrate myself out of the Beasley windows.</p>
   <h4>T1W7L4 - 17/3</h4>
   <p>- Looks like I actually didn't defenestrate myself.<br>- We wrote some analytical paragraphs about the Pygmalion.<br>- You might know how I don't read fiction and I literally read textbooks as my leisure. I almost thought I was gonna get yelled at by Ms James during the reading times because she stood behind me for a good 30 seconds.</p>
-  <h4>T1W8L1</h4>
+  <h4>T1W8L1 - 21/3</h4>
   <p>- Got a relief. Mr Jarosek.<br>- Did a venn diagram on our chosen Pygmalion adaptation and the Pygmalion story. I did My Fair Lady as the adaptation.<br>- "Unfortunately boys, your anime wives won't come to life and love you." - Mr Jarosek</p>
+  <h4>T1W8L2 - 22/3</h4>
+  <p>- Started reading Medea</p>
+  <h4>T1W8L3 - 23/3</h4>
+  <p>- Finished reading Medea</p>
+  <h4>T1W8L4 - 24/3</h4>
+  <p>- We started this worksheet on Medea.</p>
 </body>

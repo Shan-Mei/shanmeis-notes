@@ -8,6 +8,8 @@
   <p>- I had the test today. It was very stressful. My heart was beating like crazy because I had just played two intense games of touch rugby the period before and I was trying to fan myself down and couldn't concentrate properly during the listening section.<br>- Yes I know I said it was gonna be on Friday but Karasavas Sensei emailed us last week and told us that it was gonna be today.</p>
   <h4>T1W7L2 - 17/3</h4>
   <p>- Learnt about different festivals and celebrations in Japan. Went over some vocab and the giving and receiving structure.</p>
-  <h4>T1W7L1 - 21/3</h4>
+  <h4>T1W8L1 - 21/3</h4>
   <p>- Did a worksheet for a whole period.</p>
+  <h4>T1W8L2 - 24/3</h4>
+  <p>- Got our tests back. 61% class average :|. Didn't do well.<br>- We did some sentences practice.</p>
 </body>

@@ -31,4 +31,6 @@
   <p>- Normal music class. Boring.</p>
   <h4>T1W8L3 - 23/3</h4>
   <p>- Listened to a Schubert string quartet. Very fun.<br>- Theory test details:<br>- Scales, identifying keys, up to 3 sharps and flats. Transfer solfage - staff.<br>- Intervals in a context (in music) including augmented 2nd.<br>- Chords - maj, min, root pos. Roman numerals, with a key.<br>- Cadences - perfect. Perhaps there are supertonic-tonic cadences.<br>- Terminology - tempi, scale degrees</p>
+  <h4>T1W8L4 - 24/3</h4>
+  <p>- We did the composition task.</p>
 </body>
