@@ -24,7 +24,7 @@
   <p>A circuit must be closed for the electrons to flow around. The flow of electrons is called current (I). When there is a gap in circuitry, there needs a large potential difference for the electrons to make the jump. There also needs some sort of power station, like a battery or generator. To make the current useful, it needs to flow through different components, like filament for a lightbulb. </p>
   <h4>Old theories</h4>
   <p>Convential current ≠ normal current. Convential current was the theory that positive charges flowed to the negative charges.<p>
-  <h4>Resistance<h4>
+  <h4>Resistance</h4>
   <p>Resistance is how easily electrons can flow through the circuit. The lower the resistance, less voltage and energy is used to transfer the electrons, whereas if the resistance is higher, the higher the voltage needs to be. Voltage and resistance are directly proportionate to one another and resistance is measure in Ohms (Ω).</p>
   <h4>Types of Circuits</h4>
   <p>Series circuits: Where everything is connected by one circuit. To work out the voltage across each receiver, divide the voltage supplied with the number of receivers.<br>Parralel circuits: Where it is like two circuits joined together. Each receiver receives the amount of voltage supplied by the power supply.<br>Combination circuits: has some stuff in series and some stuff in parralel. We use this when using a voltmeter. Each extention receives the amount of voltage supplied, and the calculate the amount of voltage receivers in parralel receive, divide the voltage in the extention by the number of receivers.</p>
