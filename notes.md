@@ -1,7 +1,7 @@
 <body>
   <h2>My Notes!</h2>
   <p>The main contents page of my notes. Individual notes can be found in the subject links.</p>
-  <p>Disclaimer: I am doing my very best to upload my notes. They will come out periodically. Quality and accuracy not guranteed. I hope these are somewhat helpful to you.</p>
+  <p>Disclaimer: I am doing my very best to upload my notes. They will come out periodically. Quality and accuracy not guranteed, and usually wont cover all objectives and course content. I hope these are somewhat helpful to you.</p>
   <h3>Year 7</h3>
   <p><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-7.html">Year 7 Homepage</a></p>
   <h4>Subjects</h4>

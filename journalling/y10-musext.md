@@ -33,4 +33,6 @@
   <p>- Listened to a Schubert string quartet. Very fun.<br>- Theory test details:<br>- Scales, identifying keys, up to 3 sharps and flats. Transfer solfage - staff.<br>- Intervals in a context (in music) including augmented 2nd.<br>- Chords - maj, min, root pos. Roman numerals, with a key.<br>- Cadences - perfect. Perhaps there are supertonic-tonic cadences.<br>- Terminology - tempi, scale degrees</p>
   <h4>T1W8L4 - 24/3</h4>
   <p>- We did the composition task.</p>
+  <h4>T1W9L1 - 27/3</h4>
+  <p>- Did the music tests with the other class of year 9s. It was very easy ¯\_(ツ)_/¯ finished like 20 minutes early. I feel bad for the classmate that didn't know we had the test today.</p>
 </body>

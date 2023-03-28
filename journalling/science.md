@@ -31,4 +31,6 @@
   <p>- Went through the anatomy of the ear and did some practice questions for lead up to test.</p>
   <h4>T1W8L4 - 24/3</h4>
   <p>- Went through anatomy of the eye.</p>
+  <h4>T1W9L1 - 27/3</h4>
+  <p>- Completed the physics topic test. I completely forgot how to do all the equations...</p>
 </body>
