@@ -34,4 +34,6 @@
   <p>- Continued with 5.2 and started watching a documentary about Adam Goodes, the footy player.</p>
   <h4>T1W9L1 - 27/3</h4>
   <p>- Continued watching the documentary</p>
+  <h4>T1W9L2 - 29/3</h4>
+  <p>- Finished the documentary and started civics. I have to take notes on the pptx.</p>
 </body>
