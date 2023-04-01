@@ -31,5 +31,4 @@
   </h3>
 
   <p>Beatrice: <a href="https://beatricesychong.wixsite.com/notes">https://beatricesychong.wixsite.com/notes</a></p>
-  <p>Edward: <a href="https://eddietheed.github.io/obsidiannotes-v.3/">https://eddietheed.github.io/obsidiannotes-v.3/</a></p>
 </body>
