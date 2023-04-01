@@ -40,4 +40,6 @@
   <p>- Finished reading Medea</p>
   <h4>T1W8L4 - 24/3</h4>
   <p>- We started this worksheet on Medea.</p>
+  <h4>T1W9L1 - 31/3</h4>
+  <p>- We had a relief who was Ms Rogersson the music teacher. We just continued doing the assignment.</p>
 </body>

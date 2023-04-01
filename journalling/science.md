@@ -33,4 +33,6 @@
   <p>- Went through anatomy of the eye.</p>
   <h4>T1W9L1 - 27/3</h4>
   <p>- Completed the physics topic test. I completely forgot how to do all the equations...</p>
+  <h4>T1W9L2 - 31/3</h4>
+  <p>- I got my CAT test back. Some funny things I must have done in it.<br>- We went back through year 7 biology and did some revision.</p>
 </body>

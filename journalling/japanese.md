@@ -14,4 +14,6 @@
   <p>- Got our tests back. 61% class average :|. Didn't do well.<br>- We did some sentences practice.</p>
   <h4>T1W9L1 - 27/3</h4>
   <p>- Did some revision together as a class</p>
+  <h4>T1W9L2 - 31/3</h4>
+  <p>- Did a practice test.</p>
 </body>
