@@ -42,4 +42,6 @@
   <p>- We started this worksheet on Medea.</p>
   <h4>T1W9L1 - 31/3</h4>
   <p>- We had a relief who was Ms Rogersson the music teacher. We just continued doing the assignment.</p>
+  <h4>T1W10L2 - 4/4</h4>
+  <p>- I did the timed draft of the adaptation. Had to leave early because of the Chorale practice.</p>
 </body>

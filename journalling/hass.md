@@ -36,4 +36,6 @@
   <p>- Continued watching the documentary</p>
   <h4>T1W9L2 - 29/3</h4>
   <p>- Finished the documentary and started civics. I have to take notes on the pptx.</p>
+  <h4>T1W10L2 - 4/4</h4>
+  <p>- I joined a group and I got assigned a podcast to work on. We're doing the Love and Thoms vs Commonwealth case.</p>
 </body>
