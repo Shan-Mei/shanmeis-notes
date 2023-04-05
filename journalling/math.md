@@ -40,4 +40,6 @@
   <p>- Doing 3.1 and 3.2 on Mathspace<br>- Ms Liu's not here so we got Burnett instead :/<br>- I need to finish 3.01</p>
   <h4>T1W10L2 - 4/4</h4>
   <p>- Did more stuff on linear equations as added to last year, and put the equations into scenarios.<br>- Doing 3.05 mathspace</p>
+  <h4>T1W10L3 - 5/4</h4>
+  <p>- Learnt about formulas and subjects in formulas. We also revised and expanded on solving equations. Doing "Week 10 Formulas" mathspace<br>- Gosh I just looked at my mathspace and I have lots to finish :'(</p>
 </body>
