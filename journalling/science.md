@@ -1,5 +1,7 @@
 <body>
   <h2>Science Journal</h2>
+  <h3>Term 2</h3>
+  <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Started learning about the power equation.<br>- Did stile for most of the class, and we revised graphing skills. I'm so glad I revised chem over the hols otherwise I would have forgotten about the line of best fit.<br>- Hw - finish the graph</p>
   <h4>T1W4L3 - 23/2</h4>

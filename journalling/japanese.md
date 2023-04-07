@@ -1,5 +1,7 @@
 <body>
   <h2>Japanese Journal</h2>
+  <h3>Term 2</h3>
+  <h3>Term 1</h3>
   <h4>T1W4L2 - 24/2</h4>
   <p>- Learnt new kanji and vocab, and grammar points. We are on the topic of body parts and describing the physical appearance of people.<br>- We still don't have those booklets that we were meant to get. I hope I get them soon so i can catch up on materal.</p>
   <h4>T1W5L1 - 27/2</h4>

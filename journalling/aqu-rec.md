@@ -1,5 +1,7 @@
 <body>
   <h2>Aquatic Recreation Journal</h2>
+  <h3>Term 2</h3>
+  <h3>Term 1</h3>
   <h4>T1W4L1 - 21/2</h4>
   <p>- Our assignment got handed to us. It's about Rottnest Island and safety stuff<br>- I didn't do much, I did section two as my friend did section one (it's a pair assignment if you're wondering)<br>- This is due on the 7th of March.</p>
   <h4>T1W4L2 - 24/2</h4>

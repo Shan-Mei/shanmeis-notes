@@ -2,6 +2,8 @@
   <h2>
     English Journal
   </h2>
+  <h3>Term 2</h3>
+  <h3>Term 1</h3>
   <h4>T1W4L1 - 21/2</h4>
   <p>- We are continuing doing our speeches.<br>- Nothing new, just got my speech checked by my teacher and got new things to improve on.<br>- No homework, just finish editing my speech</p>
   <h4>T1W4L2 - 22/2</h4>

@@ -2,6 +2,8 @@
   <h2>
   Math Journal
   </h2>
+  <h3>Term 2</h3>
+  <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Learning about financial math - econs lesson??<br>- I was searching up some of the vocab Ms Liu was using so I wasn't concentrating, then I got picked on :'( I'm glad it was an easy question and that it was straightforward<br>- Turns out theres this thing on Mathspace that gives you stars instead of grading your questions<br>- Working on 7.03 and 7.04 on Mathspace<br>- Was just announced that the Term 1 test is next week Monday. Time to enslave myself to my grades once again.</p>
   <h4>T1W4L3 - 22/2</h4>
