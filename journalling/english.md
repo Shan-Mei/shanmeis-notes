@@ -46,4 +46,6 @@
   <p>- I did the timed draft of the adaptation. Had to leave early because of the Chorale practice.</p>
   <h4>T1W10L2 - 5/4</h4>
   <p>- We continued with our english projects, I am mildly screwed because I wasn't allowed to draft until yesterday...</p>
+  <h4>T1W10L3 - 6/4</h4>
+  <p>- Handed in our English assignments, don't think I did well but its uh... fine?<br>- We decided on our Shakespear text, which is going to be "Merchant of Venice."<br>- We watched a video on Shakespear.</p>
 </body>

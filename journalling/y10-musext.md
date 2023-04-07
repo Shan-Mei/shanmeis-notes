@@ -37,4 +37,6 @@
   <p>- Did the music tests with the other class of year 9s. It was very easy ¯\_(ツ)_/¯ finished like 20 minutes early. I feel bad for the classmate that didn't know we had the test today.</p>
   <h4>T1W9L2 - 31/3</h4>
   <p>- We submitted our assignments. A bit of kurfuffle with the hard copies and such but it was fine for me.<br>- We started Billie's Blues and he talked us through about why we do set works<br>- We got our tests back.</p>
+  <h4>T1W10L3 - 6/4</h4>
+  <p>- We found that now we have to write an analysis on our piece we composed. I am not looking forward to this.<br>- We got given our sing and sign assessment, due in week 3. It's two parts, one is in a group and one is by yourself.<br>- We got a Jazz pdf, turns out our class is falling behind :/<br>- We had a little look at Jazz and had a discussion on racism and black influence on white culture.</p>
 </body>

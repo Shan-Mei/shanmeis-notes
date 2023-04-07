@@ -40,4 +40,6 @@
   <p>- I joined a group and I got assigned a podcast to work on. We're doing the Love and Thoms vs Commonwealth case.</p>
   <h4>T1W10L3 - 5/4</h4>
   <p>- We continued with our podcasts and group tasks, and the whole group managed to finish our project 1 minute early. Woohoo.</p>
+  <h4>T1W10L4 - 6/4</h4>
+  <p>- Since we finished early, my group just messed around for the whole period. It was so great</p>
 </body>
