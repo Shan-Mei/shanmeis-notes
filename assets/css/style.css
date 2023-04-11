@@ -1,14 +1,14 @@
 @font-face {
     font-family: Brandon;
-    src: url("https://shan-mei.github.io/Brandon-thin.ttf");
+    src: url("/shanmeis-notes/Brandon-thin.ttf");
 }
 @font-face {
     font-family: Yeseva One;
-    src: url("https://shan-mei.github.io/YesevaOne-Regular.ttf");
+    src: url("/shanmeis-notes/YesevaOne-Regular.ttf");
 }
 @font-face {
     font-family: Brightwall;
-    src: url("https://shan-mei.github.io/Brightwall.ttf");
+    src: url("/shanmeis-notes/Brightwall.ttf");
 }
 body {
     padding-left: 50px;
