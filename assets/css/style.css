@@ -1,18 +1,24 @@
 @font-face {
     font-family: Brandon;
-    src: url("Brandon-thin.ttf");
+    src: url("https://shan-mei.github.io/Brandon-thin.ttf");
 }
 @font-face {
     font-family: Yeseva One;
-    src: url("YesevaOne-Regular.ttf");
+    src: url("https://shan-mei.github.io/YesevaOne-Regular.ttf");
 }
 @font-face {
     font-family: Brightwall;
-    src: url("Brightwall.ttf");
+    src: url("https://shan-mei.github.io/Brightwall.ttf");
+}
+body {
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 h1 {
     font-family: 'Brightwall';
+    text-align: center;
+    color: #28007D
 }
 
 h2, h3, h4, h5, h6 {
@@ -26,4 +32,9 @@ p {
 iframe {
     width: 900px;
     height: 500px;
+}
+
+a {
+    background-color: #FFEDFF;
+    color: #DC1D53
 }
