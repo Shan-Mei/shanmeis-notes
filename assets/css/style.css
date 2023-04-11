@@ -1,24 +1,25 @@
 @font-face {
     font-family: Brandon;
-    src: url("/shanmeis-notes/Brandon-thin.ttf");
+    src: url("/shanmeis-notes/assets/Brandon.ttf");
 }
 @font-face {
     font-family: Yeseva One;
-    src: url("/shanmeis-notes/YesevaOne-Regular.ttf");
+    src: url("/shanmeis-notes/assets/YesevaOne-Regular.ttf");
 }
 @font-face {
     font-family: Brightwall;
-    src: url("/shanmeis-notes/Brightwall.ttf");
+    src: url("/shanmeis-notes/assets/Brightwall.ttf");
 }
 body {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 h1 {
     font-family: 'Brightwall';
     text-align: center;
-    color: #28007D
+    color: #28007D;
+    font-size: 70px;
 }
 
 h2, h3, h4, h5, h6 {
