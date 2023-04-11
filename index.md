@@ -31,4 +31,7 @@
     Brother and Sister Sites
   </h3>
   <p>Beatrice: <a href="https://beatricesychong.wixsite.com/notes"><span class="button">https://beatricesychong.wixsite.com/notes</span></a><br>Donal: <a href="https://yuki-private-site.notion.site/yuki-private-site/2023-Dashboard-1ae90b0e39104f71b081a40cba9f4aaf"><span class="button">https://yuki-private-site.notion.site/yuki-private-site/2023-Dashboard-1ae90b0e39104f71b081a40cba9f4aaf</span></a></p>
+  
+  [see here for latex](https://eddietheed.github.io/shanmeis-notes/latex%20guide.html) see how easy that is in mark down! you dont even need to write the whole blah blah blah blah blah, use relative links!
+
 </body>
