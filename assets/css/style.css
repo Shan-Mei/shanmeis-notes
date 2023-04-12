@@ -48,9 +48,13 @@ a:hover {
 .footer {
     font-size: smaller;
     background: #f7f7f7;
+    text-align: center;
 }
 .home {
     background-color: #ffffff;
     color:#28007D;
     font-weight: bold;
+}
+.home:hover{
+    color: #23006e;
 }
