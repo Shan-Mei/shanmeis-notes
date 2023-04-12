@@ -7,7 +7,6 @@
   </title>
 </head>
 <body>
-  <img src="/shanmeis-notes/assets/Notes logo.png" width="100">
   <h1>Shan-Mei's Notes</h1>
   <p>Hi, I'm <a href="https://shan-mei.github.io/shanmeis-notes/about-me.html">Shan-Mei</a>, a high school year 9 student from Perth, Australia.</p>
   <p>The purpose of these notes is to:<br>1. Help classmates and the junior years in catching up with work when they don't pay attention :)<br>2. Publicise my music theory courses and provide the free extra theory and lit content to anyone who doesn't want to pay for a course.<br>3. "Make education free and accessible" - Edward (don't you worry, I follow the same principle)</p>
