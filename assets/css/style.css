@@ -63,7 +63,7 @@ a:hover {
 
 img {
     width: 100px;
-    margin-top: 20px;
     display: block;
-    margin-left: 470px;
-}
+    margin: auto;
+    padding: 20px;
+  }
