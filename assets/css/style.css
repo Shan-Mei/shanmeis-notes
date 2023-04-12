@@ -58,3 +58,10 @@ a:hover {
 .home:hover{
     color: #23006e;
 }
+
+img {
+    width: 150px;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+}
