@@ -45,3 +45,12 @@ a:hover {
     background-color: #fae1fa;
     color: #bf1b49;
 }
+.footer {
+    font-size: smaller;
+    background: #f7f7f7;
+}
+.home {
+    background-color: #ffffff;
+    color:#28007D;
+    font-weight: bold;
+}
