@@ -10,5 +10,5 @@
   <h4>Incomplete ones</h4>
   <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/parents.html">Parental Greed and Hypocricy</a></p>
   <h4>Lists of Pieces</h4>
-  <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/angels-pieces.html">Chorus Angelics pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/cantori-pieces.html">Schola Cantori pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/chorale-pieces.html">Chorale pieces</a></p>
+  <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/angels-pieces.html">Chorus Angelicus pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/cantori-pieces.html">Schola Cantori pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/chorale-pieces.html">Chorale pieces</a></p>
 </body>

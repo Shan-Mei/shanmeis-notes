@@ -13,7 +13,7 @@
   <p>Gipsy Lament arr Zoltan Kodaly - Soprano 1<br>I'll Give my Love an Apple arr Betty Bertaux - Soprano 1</p>
   <h4>Discontinued Pieces</h4>
   <p>The Song of Varmland arr Jan-Ake Hillerud</p>
-  <h3>2023</h4>
+  <h3>2023</h3>
   <h4>Anzac gig</h4>
   <p>O valient hearts<br>Abide with me - eventide<br>In memorium<br>My country<br>God defend New Zealand<br>Advanced Australia Fair<br>Soldier songs</p>
   <h4>Learning</h4>
