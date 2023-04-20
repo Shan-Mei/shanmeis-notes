@@ -3,8 +3,8 @@
 <head>
   <title>
     Shan-Mei's Notes!
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
   </title>
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <h1>Shan-Mei's Notes</h1>
