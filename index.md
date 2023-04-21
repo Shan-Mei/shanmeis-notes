@@ -18,7 +18,7 @@
   <p>I like to <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">quote my fellow colleagues and teachers</a>.</p>
 
   <h3>Development Status</h3>
-  <p>I have a CSS now! Thanks Spicata.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here</a>.</p>
+  <p>Added the footer, finally understanding copyright laws around published works :D. Edward added Latex for me, and I (hopefully) now have an icon!<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here</a>.</p>
 
   <h3>
     Background and Inspo
