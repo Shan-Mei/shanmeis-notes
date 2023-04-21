@@ -1,3 +1,6 @@
+<head>
+  <title>Year 9 Notes</title>
+</head>
 <body>
   <h2>Year 9 Notes</h2>
   <h4>Subjects</h4>

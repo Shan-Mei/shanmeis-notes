@@ -1,3 +1,6 @@
+<head>
+  <title>Year 7 Notes</title>
+</head>
 <body>
   <h2>Year 7 Notes</h2>
   <h4>List of subjects</h4>

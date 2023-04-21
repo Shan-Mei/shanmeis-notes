@@ -1,3 +1,6 @@
+<head>
+  <title>Year 9 English Assignment 2</title>
+</head>
 <body>
   <h2>English Assessment 2 - Adapt an Ancient Text</h2>
   <h3>The Story</h3>

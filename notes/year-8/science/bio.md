@@ -1,3 +1,6 @@
+<head>
+  <title>Year 8 Science - Biology Notes</title>
+</head>
 <body>
   <h2>Year 8 Biology Notes</h2>
   <p>Made on the request of the 2023 year 8s.</p>

@@ -1,3 +1,6 @@
+<head>
+  <title>Year 8 Phys Waves</title>
+</head>
 <body>
   <h2>Waves</h2>
   <h3>Types of Waves</h3>

@@ -1,3 +1,6 @@
+<head>
+  <title>Year 9 Phys Objectives</title>
+</head>
 <body>
   <h2>Where I check if I know the objectives</h2>
   <h3>Structure of the atom & Electrostatics</h3>

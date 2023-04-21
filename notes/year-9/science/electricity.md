@@ -1,3 +1,6 @@
+<head>
+  <title>Year 9 Notes on Electricity</title>
+</head>
 <body>
   <h2>Notes on Electricity</h2>
   <h3>Introduction</h3>
