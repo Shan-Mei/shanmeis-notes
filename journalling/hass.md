@@ -1,6 +1,8 @@
 <body>
   <h2>HaSS Journal</h2>
   <h3>Term 2</h3>
+  <h4>T2W1L1 - 24/4</h4>
+  <p>- We didn't get to play the games as we were promised. We went through 8.1</p>
   <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- We got Ms Pyper back. I'm happy gurl. Turns out she got a migraine :( and that it was quite bad<br>- We continued researching about the Wave Hill walk-off.<br>- Didn't do much overall, I finished the assigned task, got separated because I had to charge :/</p>
