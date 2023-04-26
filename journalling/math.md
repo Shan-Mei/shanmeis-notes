@@ -3,6 +3,8 @@
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Continued with solving linear equations. Doing the next Mathspace "taks"</p>
+  <h4>T2W1L3 - 26/2</h4>
+  <p>- Doing the elimination method of simultaneous equations. Boy I'm starting to hate simultaneous equations.<br>- Doing T2W1 Task 2 on Mathspace</p>
   <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Learning about financial math - econs lesson??<br>- I was searching up some of the vocab Ms Liu was using so I wasn't concentrating, then I got picked on :'( I'm glad it was an easy question and that it was straightforward<br>- Turns out theres this thing on Mathspace that gives you stars instead of grading your questions<br>- Working on 7.03 and 7.04 on Mathspace<br>- Was just announced that the Term 1 test is next week Monday. Time to enslave myself to my grades once again.</p>
