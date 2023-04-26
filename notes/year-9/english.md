@@ -6,6 +6,6 @@
   <h3>Curriculum</h3>
   <p>Curriculum is yet to be uploaded</p>
   <h3>Notes</h3>
-  <h4>Physics</h4>
-  <p><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/t1-cat-task.html">Physics Cat</a><br><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/waves.html">Waves</a><br><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/electricity.html">Electricity</a><br><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/science/obj-check-phys.html">Objectives Check</a></p>
+  <h4>Term 1</h4>
+  <p><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/english/eng-speech.html">Assessment 1: Persuasive Speech</a><br><a href="https://shan-mei.github.io/shanmeis-notes/notes/year-9/english/eng-adaption.html">Assessment 2: Adaptation of an Ancient Text</a></p>
 </body>
