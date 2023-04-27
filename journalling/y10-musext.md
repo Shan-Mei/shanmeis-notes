@@ -4,6 +4,14 @@
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Dang I was meant to miss this lesson because of the Anzac rehearsal. However we went to the rehearsal and Ms Christmass told us there was no point in rehearsing because the sound crew wasn't there.<br>- In class, we sang through the sing and sign assessment and Mr Rogers told us about our concert prac stuff. I have been allowed to do piano :D. Thinking of playing Prelude from Suite Bergamasque.</p>
+  <h4>T2W1L3 - 27/4</h4>
+  <p>- We spent the period working on an analysis of our composition. It is due tomorrow night.</p>
+
+
+
+
+
+
   <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Finally received the course ouline. I am happy :D<br>- Did literally nothing. Just remember the bring manuscript next time so I don't have to walk up to the wall of shame with Max.<br>- Oh and if I'm going to write down aug 4th then don't write the interval in a lazy way, and write the FLAT SIGN IN FRONT OF THE EEE</p>

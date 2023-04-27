@@ -3,6 +3,16 @@
     English Journal
   </h2>
   <h3>Term 2</h3>
+  <h4>T2W1L2 - 26/2</h4>
+  <p>- We did an introduction to Shakespeare with lots of different activities including a party sim... it was most definitely a sad party</p>
+  <h4>T2W1L3 - 27/4</h4>
+  <p>- We took notes on Greek theatre. At the beginning of the period, we went through everyone's Shakespeareified songs.</p>
+
+
+
+
+
+
   <h3>Term 1</h3>
   <h4>T1W4L1 - 21/2</h4>
   <p>- We are continuing doing our speeches.<br>- Nothing new, just got my speech checked by my teacher and got new things to improve on.<br>- No homework, just finish editing my speech</p>

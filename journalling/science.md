@@ -3,6 +3,12 @@
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Worked through osmosis and diffusion. Just took notes the whole of the class</p>
+  <h4>T2W1L3 - 27/4</h4>
+  <p>- Finished off with osmosis<br>- Got our CAT, turns out we're doing potato cores :D</p>
+
+
+
+
   <h3>Term 1</h3>
   <h4>T1W4L2 - 21/2</h4>
   <p>- Started learning about the power equation.<br>- Did stile for most of the class, and we revised graphing skills. I'm so glad I revised chem over the hols otherwise I would have forgotten about the line of best fit.<br>- Hw - finish the graph</p>
