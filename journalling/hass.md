@@ -6,7 +6,7 @@
   <h4>T2W1L3 - 26/4</h4>
   <p>- We got Ms Murphy relief again<br>- Doing 8.1.1 and supposedly 8.1.2, but 8.1.2 has not synced :( so can't do it</p>
   <h4>T2W1L4 - 27/4</h4>
-  <p>- Ms Pyper decided to go through 8.1.1 anyway even though it should have been done. I just spent the period catching up on journals and doing the music assignment</p>
+  <p>- Ms Pyper decided to go through 8.1.1 anyway even though it should have been done. I just spent the period catching up on journals and doing the music assignment until teacher asked us to start on 3.1.2</p>
 
 
 
