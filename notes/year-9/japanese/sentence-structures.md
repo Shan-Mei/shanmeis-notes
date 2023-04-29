@@ -28,4 +28,6 @@
   <p>When is your birthday?<br>たんじょう日はいつですか。<br>My birthday is on DATE.<br>たんじょう日は八月いつかであす。<br>What do you want for your birthday?<br>たんじょう日に何がほうしですか。<br>What did you do at EVENT<br>EVENTに何をしましたか。</p>
   <h6>Giving and receiving</h6>
   <p>People in larger group giving to a smaller group<br>GIVERはRECEIVERにTHINGをくれます。<br>People in a smaller group giving to larger group<br>GIVERはRECEIVERにTHINGをあげます。<br>Receiving something<br>RECEIVERはGIVERにTHINGをもらいます。</p>
+  <h6>Starting things</h6>
+  <p>I VERB SUBJECT for the first time<br>はじめてSUBJECTを/にVERB or SUBJECTを/に はじめてVERB<br>わたしははじめてケーキを食べました。<br>I started SUBJECT<br>SUBJECTをはじめました<br>ゲームをはじめました。</p>
 </body>
