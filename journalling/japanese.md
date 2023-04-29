@@ -3,6 +3,16 @@
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- I did the test I was meant to do last term. I- did not quite finish, unfortunately.<br>- I overheard my class talking about a speaking assessment, I will need to find out about it.</p>
+  <h4>T2W1L2 - 28/4</h4>
+  <p>- Learnt the はじめて and はじめました forms. Did a worksheet on that and I started working on my speaking assessmnet<br>- The speaking assessment is a recorded speech with powerpoint and is on milestones</p>
+
+
+
+
+
+
+
+
   <h3>Term 1</h3>
   <h4>T1W4L2 - 24/2</h4>
   <p>- Learnt new kanji and vocab, and grammar points. We are on the topic of body parts and describing the physical appearance of people.<br>- We still don't have those booklets that we were meant to get. I hope I get them soon so i can catch up on materal.</p>

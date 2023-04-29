@@ -6,6 +6,8 @@
   <p>- Dang I was meant to miss this lesson because of the Anzac rehearsal. However we went to the rehearsal and Ms Christmass told us there was no point in rehearsing because the sound crew wasn't there.<br>- In class, we sang through the sing and sign assessment and Mr Rogers told us about our concert prac stuff. I have been allowed to do piano :D. Thinking of playing Prelude from Suite Bergamasque.</p>
   <h4>T2W1L3 - 27/4</h4>
   <p>- We spent the period working on an analysis of our composition. It is due tomorrow night.</p>
+  <h4>T2W1L4 - 28/4</h4>
+  <p>- We started the Jazz unit, revised blues form and we improvised over the blues.</p>
 
 
 

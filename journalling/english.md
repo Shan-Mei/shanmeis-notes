@@ -7,6 +7,7 @@
   <p>- We did an introduction to Shakespeare with lots of different activities including a party sim... it was most definitely a sad party</p>
   <h4>T2W1L3 - 27/4</h4>
   <p>- We took notes on Greek theatre. At the beginning of the period, we went through everyone's Shakespeareified songs.</p>
+  <p>- We started on background of the Merchant of Venice. We then got asked to research something and I somehow... didn't do any work.</p>
 
 
 

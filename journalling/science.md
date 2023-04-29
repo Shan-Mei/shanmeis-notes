@@ -5,6 +5,8 @@
   <p>- Worked through osmosis and diffusion. Just took notes the whole of the class</p>
   <h4>T2W1L3 - 27/4</h4>
   <p>- Finished off with osmosis<br>- Got our CAT, turns out we're doing potato cores :D</p>
+  <h4>T2W1L4 - 28/4</h4>
+  <p>- Got a relief teacher and we worked on our CAT for that whole period.</p>
 
 
 
