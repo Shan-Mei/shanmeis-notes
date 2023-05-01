@@ -7,6 +7,8 @@
   <p>- Finished off with osmosis<br>- Got our CAT, turns out we're doing potato cores :D</p>
   <h4>T2W1L4 - 28/4</h4>
   <p>- Got a relief teacher and we worked on our CAT for that whole period.</p>
+  <h4>T2W2L1 - 1/5</h4>
+  <p>- Did part one of the CAT. There was a little bit of a fiasco, and please check out <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">Quotes</a> for the funny thing Mr Mort said.</p>
 
 
 

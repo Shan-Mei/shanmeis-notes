@@ -7,6 +7,8 @@
   <p>- Doing the elimination method of simultaneous equations. Boy I'm starting to hate simultaneous equations.<br>- Doing T2W1 Task 2 on Mathspace</p>
   <h4>T2W1L4 - 27/4</h4>
   <p>- We went through word problems. Then we worked on the math investigation</p>
+  <h4>T2W2L1 - 1/5</h4>
+  <p>- We did some practice for word problems. Learnt direct proportion.<br>- Direct proportion is the Mathspace task to do.<br>- Ms Liu has changed the due date of investigation for my class to I don't know what (didn't quite understand her, I will get it clarified). I'm not sure about other classes.</p>
 
 
 

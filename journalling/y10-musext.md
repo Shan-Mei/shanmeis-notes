@@ -8,6 +8,8 @@
   <p>- We spent the period working on an analysis of our composition. It is due tomorrow night.</p>
   <h4>T2W1L4 - 28/4</h4>
   <p>- We started the Jazz unit, revised blues form and we improvised over the blues.</p>
+  <h4>T2W2L1 - 1/5</h4>
+  <p>- Continuing learning about blues form and chords. Mr Rogers promised at the beginning of the period he would give out concert prac sheets... but he didn't.<br>- Like usual, Luvenia and Crystal harrassed me during class. This time James agreed to sit between them :D</p>
 
 
 

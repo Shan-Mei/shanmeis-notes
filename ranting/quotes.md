@@ -8,4 +8,5 @@
   <p>Miss Christmass wanted us to extend our F's at the beginning of the word "Fuerte" in Sililiza<br>"Extend the F like you're swearing at me!"<br>- Miss Christmass</p>
   <p>Miss Christmass was reminding the choirs to practice our pieces<br>"Practise singing lots of dull hymns very beautifully from memory this week."<br>- Miss Christmass</p>
   <p>Ms Liu is walking us through a math question<br>"One pig has one head. One chicken has one head. One pig has FOUR leg. One chicken has TWO leg."<br>- Ms Liu</p>
+  <p>We were getting the CAT Task explained to us in Science<br>"Then, fill your containers with the pork. *Class laughs* Sorry, potato cores.<br>- Mr Mort</p>
 </body>
