@@ -1,3 +1,6 @@
+<head>
+  <title>Angelicus Pieces</title>
+</head>
 <body>
   <h2>Chorus Angelicus Piece Library</h2>
   <h3>2022</h3>

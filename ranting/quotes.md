@@ -1,3 +1,6 @@
+<head>
+  <title>Quotes</title>
+</head>
 <body>
   <h2>Quotes!</h2>
   <h4>Info</h4>

@@ -1,3 +1,6 @@
+<head>
+  <title>HaSS Journal</title>
+</head>
 <body>
   <h2>HaSS Journal</h2>
   <h3>Term 2</h3>

@@ -1,3 +1,6 @@
+<head>
+  <title>Journalling</title>
+</head>
 <body>
   <h3>
       Journalling Info

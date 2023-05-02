@@ -1,3 +1,6 @@
+<head>
+  <title>How to survive the wilderness</title>
+</head>
 <body>
   <h2>How to survive the wilderness. A set of plays.</h2>
   <h4>Note:</h4>

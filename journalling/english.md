@@ -1,3 +1,6 @@
+<head>
+  <title>English Journal</title>
+</head>
 <body>
   <h2>
     English Journal

@@ -1,3 +1,6 @@
+<head>
+  <title>Japanese Journal</title>
+</head>
 <body>
   <h2>Japanese Journal</h2>
   <h3>Term 2</h3>

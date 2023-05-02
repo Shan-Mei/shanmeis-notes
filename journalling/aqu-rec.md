@@ -1,3 +1,6 @@
+<head>
+  <title>Aquatic Rec Journal</title>
+</head>
 <body>
   <h2>Aquatic Recreation Journal</h2>
   <h3>Term 2</h3>

@@ -1,3 +1,6 @@
+<head>
+  <title>The Town</title>
+</head>
 <body>
   <h2>The "Town"</h2>
   <p>In reference to <a href="https://spicata.github.io/theTown.html">Spicata</a>, <a href="https://eddietheed.github.io/obsidiannotes-v.3/04-03-2023-The-town-analogy/">Edward</a>, <a href="https://supaqwerty.github.io/notes-dump/Info/town/">Jonathan</a> and <a href="https://pi-thagoras.github.io/the-chicken-pen/The-Town.html">π-thagoras</a>'s "articles."</p>
@@ -9,7 +12,7 @@
   <p>I don't sell anything in my house. I don't have a stall. Instead, my house is like a library or a museum. My house is unlocked at almost all times, and almost all the rooms (except my bedroom) are unlocked. I have a lot of drawings and sketches and books displayed, and you're welcome to come and take a look.</p>
   <h4>The Community</h4>
   <p>I will draw up the community one day and put it here.</p>
-  <p>We are a fairly small community, yet we are flourishing. There are water spring and trees.There are small stalls set up, and a few houses. Some of our houses are still foundations (like mine) and some are fairly well developed houses, like Spicata and Edward's.</p>
+  <p>We are a fairly small community, yet we are flourishing. There are water springs and trees.There are small stalls set up, and a few houses. Some of our houses are still foundations, and some are fairly well developed houses, like Spicata and Edward's.</p>
   <p>Spicata is one of the most important members of the town. He is a very helpful and kind individual. He has a house, a garden, and his own stall. He doesn't sell, instead gives away the stuff he collects from his journey through the desert (souvenirs of sorts). This is his <a href="https://spicata.github.io/mint-fresh-notes/">garden </a>and this is his <a href="https://spicata.github.io/">stall</a>. He lives near the square, next to Jonathan.</p>
   <p>Edward is also an important member of the town, his house design being the inspiration of many others' (more on this later). He "sells" tea and spaghetti. He has a relatively large house, which is very resourceful and interesting. I have been accused of dating him many a time because of this, I promise, I am not, I am a year 9 and he is year 11. It just doesn't work. Hmph.<br>His house is around the corner of Spicata's residence, right <a href="https://eddietheed.github.io/obsidiannotes-v.3/">here</a>, still next to the town square. He also lives next to Anon, Jonathan and me. I will not talk about how he has burnt down his house twice...</p>
   <p>Mace is also an important member of the town (at this point I'm just going to say everyone is important...). I don't visit him very much, because I do not know him very well. He also sets up a stall of souvenirs, but he allows us to steal them. He lives on a hill a little further from the town square, and his house is fairly large. It is <a href="https://macesnotes.netlify.app/">here</a>, next to Notmario</p>

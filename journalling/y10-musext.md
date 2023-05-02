@@ -1,3 +1,6 @@
+<head>
+  <title>Music Class Journal</title>
+</head>
 <body>
   <h2>Year Ten Music Ext Journal</h2>
   <p>Yes. I accelerated. I'm just that cool. (We don't talk about how I'm decelerating next year)</p>

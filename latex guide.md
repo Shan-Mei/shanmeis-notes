@@ -1,3 +1,6 @@
+---
+title: Latex Guide
+---
 ## Latex
 
 Block math works with two dollar signs `$$...$$`

@@ -1,5 +1,5 @@
 <head>
-  <title>Year 9 Enlish Notes</title>
+  <title>Year 9 English Notes</title>
 </head>
 <body>
   <h2>Year 9 English Notes</h2>

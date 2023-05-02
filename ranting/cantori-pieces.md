@@ -1,3 +1,6 @@
+<head>
+  <title>Schola Cantori Pieces</title>
+</head>
 <body>
   <h2>Schola Cantori Pieces List</h2>
   <h3>2023</h3>
