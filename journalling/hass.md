@@ -9,10 +9,11 @@
   <h4>T2W1L3 - 26/4</h4>
   <p>- We got Ms Murphy relief again<br>- Doing 8.1.1 and supposedly 8.1.2, but 8.1.2 has not synced :( so can't do it</p>
   <h4>T2W1L4 - 27/4</h4>
-  <p>- Ms Pyper decided to go through 8.1.1 anyway even though it should have been done. I just spent the period catching up on journals and doing the music assignment until teacher asked us to start on 3.1.2</p>
+  <p>- Ms Pyper decided to go through 8.1.1 anyway even though it should have been done. I just spent the period catching up on journals and doing the music assignment until teacher asked us to start on 8.1.2</p>
   <h4>T2W2L1 - 1/5</h4>
-  <p>- Continued to do 3.1.2. Except I don't know what "relevance to Justice" means</p>
-
+  <p>- Continued to do 8.1.2. Except I don't know what "relevance to Justice" means</p>
+  <h4>T2W2L2 - 2/5</h4>
+  <p>- Continued on 8.1.2 and we started on 8.2.1</p>
 
 
 

@@ -13,6 +13,8 @@
   <p>- We started the Jazz unit, revised blues form and we improvised over the blues.</p>
   <h4>T2W2L1 - 1/5</h4>
   <p>- Continuing learning about blues form and chords. Mr Rogers promised at the beginning of the period he would give out concert prac sheets... but he didn't.<br>- Like usual, Luvenia and Crystal harrassed me during class. This time James agreed to sit between them :D</p>
+  <h4>T2W2L2 - 2/5</h4>
+  <p>- We had a relief teacher for the period. We got a worksheet and we finished that in the first... 15 minutes. So, we just messed around for the rest of the period. Fun times.</p>
 
 
 
