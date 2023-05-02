@@ -24,7 +24,7 @@
     Background and Inspo
   </h3>
   <p>
-    I have a couple friends that first introduced and inspired me to make this :) Thanks to them, this thing exists. Some of you may know my friend Beatrice, she also has a note page on Wix. Her website will be linked below. Her note page was the first note page I was shown, and going over her website made me want to do it on Wix, but unfortunately the 100 pages limit made me swap to Github. The second notes page I was shared was by my friend Edward. His notes are on Github and he's part of the town. :)
+    I have a friend that first introduced and inspired me to make this :) Thanks to them, this thing exists. Some of you may know my friend Beatrice, she also has a note page on Wix. Her website will be linked below. Her note page was the first note page I was shown, and going over her website made me want to do it on Wix, but unfortunately the 100 pages limit made me swap to Github. The second notes page I was shared was by my friend Donal. His notes are on Notion. :)
   </p>
 
   <h3>
