@@ -18,7 +18,7 @@
   <p>I like to <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">quote my fellow colleagues and teachers</a>.</p>
 
   <h3>Development Status</h3>
-  <p>Added the footer, finally understanding copyright laws around published works :D. Edward added Latex for me, and I (hopefully) now have an icon!<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here</a>.</p>
+  <p>I don't have any major improvements, however Term 2 has kickstarted with lots of assessments, and some new notes on <a href="https://shan-mei.github.io/shanmeis-notes/notes.html">the notes page!</a><br>I intend on writing more stuff (since I haven't been writing for a little while) and producing some more useful content.<br>Also, pressing on the logo will also take you back to the home page.</p>
 
   <h3>
     Background and Inspo
