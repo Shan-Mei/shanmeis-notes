@@ -14,6 +14,8 @@
   <p>- Continued to do 8.1.2. Except I don't know what "relevance to Justice" means</p>
   <h4>T2W2L2 - 2/5</h4>
   <p>- Continued on 8.1.2 and we started on 8.2.1</p>
+  <h4>T2W2L3 = 3/5</h4>
+  <p>- Did 8.2.2</p>
 
 
 

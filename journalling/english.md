@@ -14,6 +14,8 @@
   <p>- We started on background of the Merchant of Venice. We then got asked to research something and I somehow... didn't do any work.</p>
   <h4>T2W2L1 - 2/5</h4>
   <p>- Ms James was away today, we did some venn diagram for the whole period</p>
+  <h4>T2W2L2 - 3/5</h4>
+  <p>- Turns out Ms James is not going to be here for the whole week.<br>- Started reading the Merchant of Venice</p>
 
 
 

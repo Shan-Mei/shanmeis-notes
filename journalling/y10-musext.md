@@ -15,6 +15,8 @@
   <p>- Continuing learning about blues form and chords. Mr Rogers promised at the beginning of the period he would give out concert prac sheets... but he didn't.<br>- Like usual, Luvenia and Crystal harrassed me during class. This time James agreed to sit between them :D</p>
   <h4>T2W2L2 - 2/5</h4>
   <p>- We had a relief teacher for the period. We got a worksheet and we finished that in the first... 15 minutes. So, we just messed around for the rest of the period. Fun times.</p>
+  <h4>T2W2L3 - 4/5</h4>
+  <p>- Finally got concert prac sheets.<br>- We also did a bit more on Jazz structure and famous people. Mr Rogers seriously doesn't really teach, I think I might fail the next test.<br>- My concert prac is on Monday, and we also gotta do something with our compositions. Sing and Sign is also next week, I need to find out what I need to do and start practicing.</p>
 
 
 

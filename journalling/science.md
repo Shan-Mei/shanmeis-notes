@@ -14,6 +14,8 @@
   <p>- Did part one of the CAT. There was a little bit of a fiasco, and please check out <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">Quotes</a> for the funny thing Mr Mort said.</p>
   <h4>T2W2L2 - 2/5</h4>
   <p>- We unjarred our potato chips and recorded our results. Then we shared data and messed around the rest of the period.</p>
+  <h4>T2W2L3 - 4/5</h4>
+  <p>- We finished of Osmosis unit. We took notes from the powerpoint as Mr Mort explained stuff to us</p>
 
 
 

@@ -13,7 +13,11 @@
   <h4>T2W2L1 - 1/5</h4>
   <p>- We did some practice for word problems. Learnt direct proportion.<br>- Direct proportion is the Mathspace task to do.<br>- Ms Liu has changed the due date of investigation for my class to I don't know what (didn't quite understand her, I will get it clarified). I'm not sure about other classes.</p>
   <h4>T2W2L2 - 2/5</h4>
-  <p>- Learnt inverse proportion. Then doing mathspace, and if time, investigation.<br>- I have had the investigation details cleared up. The <b>code</b> is due on <b>Friday night</b>. The <b>powerpoint</b> needs to b submitted by <b>Sunday night</b>. Code is to be submitted via <a href="https://codequiry.com/"><a>https://codequiry.com/</b></a> and powerpoint is to be submitted through <b>Connect submission</b>.</p>
+  <p>- Learnt inverse proportion. Then doing mathspace, and if time, investigation.<br>- I have had the investigation details cleared up. The <b>code</b> is due on <b>Friday night</b>. The <b>powerpoint</b> needs to be submitted by <b>Sunday night</b>. Code is to be submitted via <a href="https://codequiry.com/"><a>https://codequiry.com/</b></a> and powerpoint is to be submitted through <b>Connect submission</b>.</p>
+  <h4>T2W2L3 - 3/5</h4>
+  <p>- We got a whole session to do our coding. However, I used the session to finish my mathspace<br>- Investigation submission method got changed again, we now submit both on Connect</p>
+  <h4>T2W2L4 - 4/5</h4>
+  <p>- We got yet another lesson to do coding, still finishing mathspace<br>- Our method of submitting got changed YET AGAIN. We now have to submit code onto Grok and a Form, submit the powerpoint via a Form and a special word doc. We also have to fill in Forms on how we coded the project and why we thing Coding is important for us...</p>
 
 
 
