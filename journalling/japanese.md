@@ -8,6 +8,8 @@
   <p>- I did the test I was meant to do last term. I- did not quite finish, unfortunately.<br>- I overheard my class talking about a speaking assessment, I will need to find out about it.</p>
   <h4>T2W1L2 - 28/4</h4>
   <p>- Learnt the はじめて and はじめました forms. Did a worksheet on that and I started working on my speaking assessmnet<br>- The speaking assessment is a recorded speech with powerpoint and is on milestones</p>
+  <h4>T2W2L2 - 5/5</h4>
+  <p>- In pairs, we prepared a one minute speech on a Japanese festival<br>- Got tests back, still waiting for a 90% but I am certainly getting there.</p>
 
 
 

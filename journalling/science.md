@@ -16,6 +16,8 @@
   <p>- We unjarred our potato chips and recorded our results. Then we shared data and messed around the rest of the period.</p>
   <h4>T2W2L3 - 4/5</h4>
   <p>- We finished of Osmosis unit. We took notes from the powerpoint as Mr Mort explained stuff to us</p>
+  <h4>T2W2L4 - 5/5</h4>
+  <p>- Started on excretory system. Took notes.</p>
 
 
 

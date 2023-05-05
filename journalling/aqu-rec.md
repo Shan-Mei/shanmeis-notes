@@ -8,6 +8,8 @@
   <p>- Ms Gunzberg wasn't here again :(. Mr Bell and Ms Mackenzie took us for relief. We had to do a poster on wave formation in preparation for the surfing unit.</p>
   <h4>T2W2L1 - 2/5</h4>
   <p>- We were meant to play water polo today however most of our class forgot our swim stuff (including me).<br>- We did some extra stuff on waves an beach safety instead.</p>
+  <h4>T2W2L2 - 5/5</h4>
+  <p>- Did some stuff on BEN signs and surf lifesaving.</p>
 
 
 

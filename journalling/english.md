@@ -16,6 +16,10 @@
   <p>- Ms James was away today, we did some venn diagram for the whole period</p>
   <h4>T2W2L2 - 3/5</h4>
   <p>- Turns out Ms James is not going to be here for the whole week.<br>- Started reading the Merchant of Venice</p>
+  <h4>T2W2L3 - 4/5</h4>
+  <p>- Did act 1 scene 2 of merchant of venice and we had to write about Portia and Nerissa's traits and their relationship to each other.</p>
+  <h4>T2W2L4 - 5/5</h4>
+  <p>- Act 1 scene 3. Did the same thing but for Shylock and the relationship was Shylock and Antonio</p>
 
 
 
