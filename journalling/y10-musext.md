@@ -19,7 +19,8 @@
   <p>- Finally got concert prac sheets.<br>- We also did a bit more on Jazz structure and famous people. Mr Rogers seriously doesn't really teach, I think I might fail the next test.<br>- My concert prac is on Monday, and we also gotta do something with our compositions. Sing and Sign is also next week, I need to find out what I need to do and start practicing.</p>
   <h4>T2W2L4 - 5/5</h4>
   <p>- We spent the period practicing sing and sign. It was pretty fun and it's actually not that hard</p>
-
+  <h4>T2W3L1 - 8/5</h4>
+  <p>- We sung through Over the Rainbow and we debated in chatted for like 15 minutes.</p>
 
 
 

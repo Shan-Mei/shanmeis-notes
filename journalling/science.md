@@ -18,6 +18,8 @@
   <p>- We finished of Osmosis unit. We took notes from the powerpoint as Mr Mort explained stuff to us</p>
   <h4>T2W2L4 - 5/5</h4>
   <p>- Started on excretory system. Took notes.</p>
+  <h4>T2W3L1 - 8/5</h4>
+  <p>- Took notes on kidney and drew a kidney.<br>- Also played gimkit.</p>
 
 
 

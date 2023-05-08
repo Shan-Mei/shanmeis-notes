@@ -10,6 +10,8 @@
   <p>- Learnt the はじめて and はじめました forms. Did a worksheet on that and I started working on my speaking assessmnet<br>- The speaking assessment is a recorded speech with powerpoint and is on milestones</p>
   <h4>T2W2L2 - 5/5</h4>
   <p>- In pairs, we prepared a one minute speech on a Japanese festival<br>- Got tests back, still waiting for a 90% but I am certainly getting there.</p>
+  <h4>T2W3L1 - 8/5</h4>
+  <p>- We presented or presentations and since we got no more instructions, we worked on (assumably) our speeches for assessments</p>
 
 
 

@@ -18,6 +18,8 @@
   <p>- Did 8.2.2</p>
   <h4>T2W2L4 - 4/5</h4>
   <p>- We got homework tracker jumpscared, basically we just finished stuff off as Ms Pyper terrorised us with the homework tracker</p>
+  <h4>T2W3L1 - 8/5</h4>
+  <p>- Since test next week, we are finishing off and doing revision.</p>
 
 
 
