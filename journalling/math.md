@@ -18,6 +18,8 @@
   <p>- We got a whole session to do our coding. However, I used the session to finish my mathspace<br>- Investigation submission method got changed again, we now submit both on Connect</p>
   <h4>T2W2L4 - 4/5</h4>
   <p>- We got yet another lesson to do coding, still finishing mathspace<br>- Our method of submitting got changed YET AGAIN. We now have to submit code onto Grok and a Form, submit the powerpoint via a Form and a special word doc. We also have to fill in Forms on how we coded the project and why we thing Coding is important for us...</p>
+  <h4>T2W3L1 - 8/5</h4>
+  <p>- Learnt linear functions - parallel and perpendicular lines. Doing ms... but the ms task didn't sync.</p>
 
 
 
