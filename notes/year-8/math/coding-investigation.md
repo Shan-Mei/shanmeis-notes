@@ -5,6 +5,7 @@ title: Year 8 Coding Investigation
 The coding investigation was about congruency in triangles.  
 
 #### Task PDF
+<iframe src="assets/Year 8 Investigation - Mathematical Modelling and Congruent Triangles - FINAL.pdf"></iframe>
 
 #### Code
 
