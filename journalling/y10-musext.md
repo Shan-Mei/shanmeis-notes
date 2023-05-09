@@ -20,7 +20,9 @@
   <h4>T2W2L4 - 5/5</h4>
   <p>- We spent the period practicing sing and sign. It was pretty fun and it's actually not that hard</p>
   <h4>T2W3L1 - 8/5</h4>
-  <p>- We sung through Over the Rainbow and we debated in chatted for like 15 minutes.</p>
+  <p>- We sung through Over the Rainbow and we debated and chatted for like 15 minutes.</p>
+  <h4>T2W3L2 - 9/5</h4>
+  <p>- We listened to half of the compositions by our peers. We also gave them a score out of 10.<br>- Noah played us his concert prac on piano.</p>
 
 
 

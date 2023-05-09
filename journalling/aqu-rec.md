@@ -10,6 +10,8 @@
   <p>- We were meant to play water polo today however most of our class forgot our swim stuff (including me).<br>- We did some extra stuff on waves an beach safety instead.</p>
   <h4>T2W2L2 - 5/5</h4>
   <p>- Did some stuff on BEN signs and surf lifesaving.</p>
+  <h4>T2W3L1 - 9/5</h4>
+  <p>- We were meant to go water polo-ing... but the bus ended up getting sniped from us and we had to play netball instead :(</p>
 
 
 

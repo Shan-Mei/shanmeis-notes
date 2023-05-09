@@ -12,4 +12,5 @@
   <p>Miss Christmass was reminding the choirs to practice our pieces<br>"Practise singing lots of dull hymns very beautifully from memory this week."<br>- Miss Christmass</p>
   <p>Ms Liu is walking us through a math question<br>"One pig has one head. One chicken has one head. One pig has FOUR leg. One chicken has TWO leg."<br>- Ms Liu</p>
   <p>We were getting the CAT Task explained to us in Science<br>"Then, fill your containers with the pork. *Class laughs* Sorry, potato cores.<br>- Mr Mort</p>
+  <p>My English relief teacher was introducing herself.<br>"My name is Mrs Edwards. But as a teacher I don't get called that. I get called 'Eddie-sensei"<br>- Mrs Sue Edwards</p>
 </body>

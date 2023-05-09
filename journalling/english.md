@@ -20,6 +20,8 @@
   <p>- Did act 1 scene 2 of merchant of venice and we had to write about Portia and Nerissa's traits and their relationship to each other.</p>
   <h4>T2W2L4 - 5/5</h4>
   <p>- Act 1 scene 3. Did the same thing but for Shylock and the relationship was Shylock and Antonio</p>
+  <h4>T2W3L1 - 9/5</h4>
+  <p>- Doing some context research questions. We have a relief teacher that gave us the most hilarious introduction.</p>
 
 
 
