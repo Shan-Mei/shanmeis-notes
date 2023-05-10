@@ -22,6 +22,8 @@
   <p>- Act 1 scene 3. Did the same thing but for Shylock and the relationship was Shylock and Antonio</p>
   <h4>T2W3L1 - 9/5</h4>
   <p>- Doing some context research questions. We have a relief teacher that gave us the most hilarious introduction.</p>
+  <h4>T2W3L2 - 10/5</h4>
+  <p>- The teacher and students had absolutely no idea what we were meant to be doing so we kinda just messed around the whole period. I worked on other subject stuff and got started on Algebra and Calculus book.</p>
 
 
 

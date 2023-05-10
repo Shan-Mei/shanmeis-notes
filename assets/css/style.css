@@ -58,7 +58,7 @@ a:hover {
     background-color: #f7f7f7;
 }
 .home:hover{
-    color: #1e015c;
+    color: #3e08b1;
     background-color: #f7f7f7;
 }
 
@@ -67,4 +67,7 @@ img {
     display: block;
     margin: auto;
     padding: 20px;
-  }
+}
+ul {
+    font-family: 'Brandon';
+}

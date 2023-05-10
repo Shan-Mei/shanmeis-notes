@@ -1,6 +1,6 @@
----
-title: Civics and Citizenship Revision
----
+<head>
+  <title>Civics and Citizenship Revision Year 9</title>
+</head>
 ## Civics and Citizenship Revision
 #### The High Court of Australia
 This court is the highest court of appeal in Australia. It is also holds an important role in upholding the Constitution.  
