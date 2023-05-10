@@ -8,7 +8,7 @@
 3.  Parinika  
 4.  Suri  
 5.  Suri  
-6.  Parinika  
+6.  Parinika
 7.  Bethany  
 
 1.  Laws and social attitudes towards money lending during Shakespeare's time  
