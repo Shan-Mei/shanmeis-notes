@@ -68,6 +68,6 @@ img {
     margin: auto;
     padding: 20px;
 }
-ul {
+ul, ol {
     font-family: 'Brandon';
 }
