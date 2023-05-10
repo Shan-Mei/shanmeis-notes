@@ -22,6 +22,8 @@
   <p>- Since test next week, we are finishing off and doing revision.</p>
   <h4>T2W3L2 - 9/5</h4>
   <p>- Still doing revision (but I spent most of the period completing the town page).<br> We will do a prac test on Thursday in class.</p>
+  <h4>T2W3L3 - 10/5</h4>
+  <p>- Doing revision. Also did some Kahoot.</p>
 
 
 
