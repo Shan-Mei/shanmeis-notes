@@ -22,6 +22,8 @@
   <p>- Learnt linear functions - parallel and perpendicular lines. Doing ms... but the ms task didn't sync.</p>
   <h4>T2W3L2 - 9/5</h4>
   <p>- Doing parabolas... but no one is quite understanding them... so that's great. Doing MS Parabolas.</p>
+  <h4>T2W3L3 - 10/5</h4>
+  <p>- We did the math investigation presenting.</p>
 
 
 

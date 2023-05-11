@@ -1,7 +1,7 @@
 <head>
   <title>Merchant of Venice Context Year 9</title>
 </head>
-## Year 9 Context of Merchant of Venice 
+## Year 9 Context of Merchant of Venice
 
 1.  Shan-Mei  
 2.  Shan-Mei  
@@ -12,27 +12,27 @@
 7.  Bethany  
 
 1.  Laws and social attitudes towards money lending during Shakespeare's time  
-	-   To the early Elizabethans, the practice of borrowing money under controlled conditions was still offensive 
-	-   Perhaps the most widespread stereotype of Jews that survived in Shakespeare's time related to usury, the practice of lending money at interest. 
-	-   Both Christian and Jewish law did not approve of money lending at interest, which was called ‘usury’ 
-	-   Jewish law forbade usury among Jews, it did not do so between Jews and Christians 
-	-   Jews made a lot of money as they lend money but with interest 
-	-   Usury was regarded as unproductive—as the taking of something for nothing 
-	-   Christian prohibited for lending loans 
+	-   To the early Elizabethans, the practice of borrowing money under controlled conditions was still offensive
+	-   Perhaps the most widespread stereotype of Jews that survived in Shakespeare's time related to usury, the practice of lending money at interest.
+	-   Both Christian and Jewish law did not approve of money lending at interest, which was called 'usury'
+	-   Jewish law forbade usury among Jews, it did not do so between Jews and Christians
+	-   Jews made a lot of money as they lend money but with interest
+	-   Usury was regarded as unproductive-as the taking of something for nothing
+	-   Christian prohibited for lending loans
 
-2.  The treatment of Jews across Europe during the Renaissance era 
-	- Treatment towards Jewish people were negative during this period 
-	- Jews were often tried to be converted to Christianity by officials. 
-	- Many stories were written of Jewish criminality, such as killing. 
-	- They were mostly bullied by the Christian people for being Jewish, and they were highly dislike by everyone 
-	- They were sometimes punished for being Jewish, with punishments like death sentence 
-	- Jewish people who were suspected of being Jewish would be questioned, and if they were found to be Jewish, they would be burned to death 
-	- Jewish people were often sent away from England during that time 
-	- Jewish people (and Protestants) were treated as heretics 
-	- Considered to be aliens 
+2.  The treatment of Jews across Europe during the Renaissance era
+	- Treatment towards Jewish people were negative during this period
+	- Jews were often tried to be converted to Christianity by officials.
+	- Many stories were written of Jewish criminality, such as killing.
+	- They were mostly bullied by the Christian people for being Jewish, and they were highly dislike by everyone
+	- They were sometimes punished for being Jewish, with punishments like death sentence
+	- Jewish people who were suspected of being Jewish would be questioned, and if they were found to be Jewish, they would be burned to death
+	- Jewish people were often sent away from England during that time
+	- Jewish people (and Protestants) were treated as heretics
+	- Considered to be aliens
 
-3.  Trading networks in Venice during the 16th century 
-	- There were then basically two main trade routes:  
+3.  Trading networks in Venice during the 16th century
+	- There were then basically two main trade routes:
 	- Northern route, connecting Venice to Morea Constantinople and the Black Sea, up to Azov and the Crimea 
 	- Southern route, via Candia to Alessandria in Egypt or via Cyprus to the Syrian-Palestinian coastline (Alexandretta, Latachia, Beirut, Acre and Jaffa) 
 	- Venice traded gems, mineral dyes, peacock feathers, spices, and a profusion of textiles such as silks, cottons and brocades from Egypt, Asia Minor and the Far East all passed through the ports of Venice, and were taken on by Venetian merchants to Europe, where they were becoming highly desirable and valuable items 
