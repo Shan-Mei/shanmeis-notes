@@ -24,6 +24,8 @@
   <p>- Doing some context research questions. We have a relief teacher that gave us the most hilarious introduction.</p>
   <h4>T2W3L2 - 10/5</h4>
   <p>- The teacher and students had absolutely no idea what we were meant to be doing so we kinda just messed around the whole period. I worked on other subject stuff and got started on Algebra and Calculus book.</p>
+  <h4>T2W3L4 - 12/5</h4>
+  <p>- Turns out Ms James has gotten herself in an accident... poor Ms James.<br>- We continued reading Merchant of Venice. You need to be finished with Act 2.</p>
 
 
 

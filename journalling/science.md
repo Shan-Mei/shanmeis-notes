@@ -22,6 +22,8 @@
   <p>- Took notes on kidney and drew a kidney.<br>- Also played gimkit.</p>
   <h4>T2W3L2 - 9/5</h4>
   <p>- Took notes and drew diagrams on nephrons.</p>
+  <h4>T2W3L4 - 12/5</h4>
+  <p>- Played Gimkit and did some SIS practice.</p>
 
 
 

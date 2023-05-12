@@ -23,6 +23,8 @@
   <p>- We sung through Over the Rainbow and we debated and chatted for like 15 minutes.</p>
   <h4>T2W3L2 - 9/5</h4>
   <p>- We listened to half of the compositions by our peers. We also gave them a score out of 10.<br>- Noah played us his concert prac on piano.</p>
+  <h4>T2W3L4 - 12/5</h4>
+  <p>- We did our musicianship assessments and listened to Crystal James and Luvenia concert pracs.</p>
 
 
 
