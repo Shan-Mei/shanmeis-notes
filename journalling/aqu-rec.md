@@ -12,6 +12,8 @@
   <p>- Did some stuff on BEN signs and surf lifesaving.</p>
   <h4>T2W3L1 - 9/5</h4>
   <p>- We were meant to go water polo-ing... but the bus ended up getting sniped from us and we had to play netball instead :(</p>
+  <h4>T2W3L2 - 12/5</h4>
+  <p>- We got assignments back. I wasn't entirely happy with the mark but its aquatic rec and we still A'd so its ok.<br>- Started our next assignment, we have to work in different groups than last group :(</p>
 
 
 
