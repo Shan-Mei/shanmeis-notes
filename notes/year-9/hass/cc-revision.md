@@ -49,3 +49,9 @@ The Australian Constitution ensures that the Constitution is difficult to change
   5. 1 - 4 is repeated in the other house
   6. A referendum is held in Australia. A double majority is required for the Bill to pass.
   7. The Bill is given to the Governer General for royal assent, and if assent is given, the Bill becomes a Law.
+#### Representative Democracy
+Representative democracy is where citizens elect a member to act on their behalf  
+- Comprises of the House of Representatives and the Senate
+  - Senate is the upper house. There are 12 representatives per state and 2 representatives per territory. They keep the lower house in check and they also assist debate topics from the lower house. There are 72 senators.
+  - The House of Representatives is the lower house. They are also considered the people's house, as they are elected by the people of separate, even electorates. There are 151 house of reps.
+
