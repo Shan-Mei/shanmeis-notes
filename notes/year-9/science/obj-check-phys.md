@@ -43,7 +43,7 @@
   <h4>Follow an algorithm to perform simple calculations using power = energy use/time</h4>
   <p>Oh no we haven't learnt this</p>
   <h4>Follow an algorithm to perform simple calculations using power = current * voltage.</h4>
-  <p>Done</h4>
+  <p>Done</p>
   <h3>Wave energy and motion</h3>
   <h4>Explain the way energy is transferred through different mediums</h4>
   <p>Energy is transferred through different mediums by vibrations.<br>Needs revising</p>
