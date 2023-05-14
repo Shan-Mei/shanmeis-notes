@@ -53,8 +53,21 @@ Made of different courts
 They are ranked by the seriousness of matters they hear to - the higher the court, the more serious the matter  
 - Magistrates court -> District court -> Supreme Court of Western Australia -> High Court of Australia.  
 - They all attend to civil and criminal matters, but only the High Court of Australia deals with things outside of this.  
-#### Dual Citizeship
-
+#### Dual Citizenship
+The dual citizenship case is when 7 members of parliament were suspected to be dual citizens.  
+  - Members include:  
+  - Larissa Waters (Greens Senator)
+  - Scott Ludlam (Greens Senator) 
+  - Matt Canavan (Nationals Senator) 
+  - Malcolm Roberts (One Nation Senator) 
+  - Barnaby Joyce (Nationals Member of the House of Representatives and Deputy Prime Minister)
+  - Fiona Nash (Nationals Senator)
+  - Nick Xenophon (Nick Xenophon Team Senator) 
+- Waters and Ludlam resigned after the media coverage broke out
+- Other 5 went to the High Court for its decision making
+- Canavan and Xenophon were found to not be dual citizens
+- The other three had to give up their dual citizenship and win back their seat by announcing that they were no longer dual citizens.
+- This shows the power of the high court and that no one is above the law - the Government was hoping that the High Court would allow Joyce especially to continue with a dual citizenship but the High Court simply followed the constitution.
 #### Love and Thoms v Commonwealth - Landmark Case
 The issue  
 - They wanted to change section 51 of the constitution so Aboriginal people could not be classified as aliens.
@@ -68,3 +81,75 @@ Outcome
 Decision  
 - Has specific implications on how the Government can treat Indigenous Australians who have been born overseas and have dual citizenship
 - It demonstrates the power of the high court and their role in interpreting the constitution and decision making.
+### Frameworks of a Liberal Democracy
+#### Liberal Democracy
+A liberal democracy is a democracy organised in such a way to define and limit powers and promote a legitimate government. There are four frameworks - legitimacy, freedom, justice and power.  
+#### Legitimacy
+A legitimate government is a government with the appropriate authority to rule. This usually means having popular support.  
+To uphold legitimacy in a representative democracy, there must be:  
+- Equal vote
+- Free vote
+- Independent oversight
+  - Overseen by the Australian Electoral Commission. They are not influenced by the Government or other parties.
+    - They organise elections and referendums
+    - They manage the electoral roll, boundaries and registration of political parties
+    - They must follow the Commonwealth Electoral Act 1918
+- Right to stand for office
+- Predictable pattern of elections
+- Frequent elections
+  - House of representative elections are every 3 years
+  - Senators are every 6, with split elections of half the senators every 3 years.
+  - In WA, Legislative Assembly and Legislative Council are elected every 4 years on the 2nd Saturday of March.
+In the house of representatives, each representative is elected through preferential voting. Each member needs more than 50% of the votes to win.  
+- Electorates of around 100k people
+- 151 electorates, and these electorates are adjusted as populations numbers increase/decline
+In the senate, representatives are elected through proportional voting. There are 12 senators a state and 2 per territory.  
+Voters vote through a secret ballot, where voters' votes remain completely anonymous. This means there should be no fear in voting.  
+Enrolling to vote and voting is compulsory in Australia. To vote, you must be over 18 years old and be an Australian citizen.  
+People also have the right to stand for office as well as vote. To stand for office, you must:  
+- Be 18+ years old
+- Be on the electoral roll
+#### Freedom
+Freedom is where citizens can:
+- Make decisions
+- Learn
+- Accept responsibility
+- Capacity to choose alternatives
+- Do anything within law
+- Have political and civil liberties
+  - Freedom in religion, etc
+#### Justice
+Justice is where all citizens are treated equally, and with dignity and respect.  
+- Can be seen when merits and hard work are rewarded, rather than social status
+- Also applies in terms of questioning
+  - Everyone is treated equally
+  - Innocent before proven guilty
+#### Power
+Power is limited and defined by the constitution. The power is also split between three arms of government: legislative, executive and judiciary.  
+#### Upholding of frameworks
+Legitimacy:  
+- Frequent elections -> makes sure that people are always happy with the government
+- Equal vote -> everyone gets equal say so there is no bias in the government
+Freedom:  
+- Freedom of speech -> people can protest peacefully
+- Freedom of religion -> Churches can choose to wed certain couples
+Justice:  
+- No one is above the law -> Former PM Malcom turnbull was fined $300 for failing to wear a life jacket
+- Respect for all citizens -> Racism and other kinds of bias are not tolerated
+Power:  
+- Splitting of power -> limiting and defining power - 3 arms of government
+- Opposition -> limiting corruption
+#### Threats to frameworks
+Legitimacy:  
+- Unequal voting
+- Not everyone voting
+- Incompetence of AEC
+Freedom:  
+- Barring of protests
+Justice:  
+- Social influence on courts
+- Bias/favouritism
+- Poor legal representation
+Power:  
+- Corruption
+- Incompetence of one of the government arms.
