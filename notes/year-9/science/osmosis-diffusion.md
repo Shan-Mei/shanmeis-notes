@@ -13,11 +13,12 @@ Terminology include Phobic- and Phillic-.
 - Phillic means attraction to
 - Hydrophobic and hydrophillic
 The cell membrane is made of the phospholipid bilayer.  
-![Phospholipid Bilayer](https://shan-mei.github.io/shanmeis-notes/assets/science/phospholipid-bilayar-1.jpeg)
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/phospholipid-bilayar-1.jpeg"></div>
 Things have hydrophillic if they have a polar charge  
 - Water has a slight charge (the oxygen atom has a slight negative charge and the hydrogens have a slight positive charge.)
 Things are hydrophobic if they have no charge.  
-![Cell membrane structure](https://shan-mei.github.io/shanmeis-notes/assets/science/cell-membrane-structure.jpeg)
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/cell-membrane-structure.jpeg"></div>
+
 Cell membranes are differencially permeable  
 - Let some things pass through the membrane
   - Generally based on size.
@@ -40,7 +41,8 @@ Gradient
   - This requires energy
 #### Diffusion
 Diffusion is when molecules diffuse through the cell membrane  
-![Diffusion](https://shan-mei.github.io/shanmeis-notes/assets/science/diffusion.jpeg)
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/diffusion.jpeg"></div>
+
 - After fully diffusing, there is still diffusion (due to kinetic energy) but there is no net change in particles
 #### Osmosis
 Osmosis is a special kind of diffusion in cell membranes which involves diffusion of water.  
@@ -59,36 +61,42 @@ Solutions have lower water potential
 Water potential is how we determine net movement of water by osmosis.  
 #### Hypertonic
 More concentration of solute (than another solution)  
-!(Hypertonic plant cell)[https://shan-mei.github.io/shanmeis-notes/assets/science/hypertonic.jpeg]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/hypertonic.jpeg"></div>
+
   - More water coming out than into the cell
   - Cell is shrivelled on the inside :(
   - Net movement of water out of the cell
   - Hypertonic to solution outside of cell
 #### Isotonic
 Has same concentration of solutes  
-!(Isotonic plant cell)[https://shan-mei.github.io/shanmeis-notes/assets/science/isotonic.jpeg]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/isotonic.jpeg"></div>
+
   - Equal rate of H~2~O going in and out of cell
   - No net movement of solute
   - Isotonic to rest of solution outside of cell
   - Healthy cell
 #### Hypotonic
 Lower concentration of solute  
-!(Hypotonic plant cell)[https://shan-mei.github.io/shanmeis-notes/assets/science/hypotonic.jpeg]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/hypotonic.jpeg"></div>
+
   - More water going into cell than out of cell
   - Cell wall has expenaded and under lots of strain and pressure, and could explode
   - Net movement of water into the cell
   - Hypotonic to the outside of the cell
 #### Simple diffusion  
-!(Simple diffusion)[https://shan-mei.github.io/shanmeis-notes/assets/science/simple-diffusion]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/simple-diffusion.jpeg"></div>
+
   - What happens for particles that are big enough to fit through the protein carrier
   - You can't choose what can go through the cell - anything of the size
 #### Facilitated diffusion  
-!(Facilitated diffusion)[https://shan-mei.github.io/shanmeis-notes/assets/science/facilitated-diffusion]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/facilitate-diffusion.jpeg"></div>
+
   - What happens for slighty bigger particles
   - Carrier protein changes shape to allow substance into cell
   - Facilitated diffusion can pick and choose what can go through
 #### Active Transport  
-!(Active transport)[https://shan-mei.github.io/shanmeis-notes/assets/science/active-transport]
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/active-transport.jpeg"></div>
+
   - ATP is required
     - Made from mitochondria :D
   - From low concentration -> high concentration
