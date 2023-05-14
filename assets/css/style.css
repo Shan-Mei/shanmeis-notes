@@ -71,3 +71,8 @@ img {
 ul, ol {
     font-family: 'Brandon';
 }
+
+.osmosis {
+    text-align: left;
+    width: 60%;
+}
