@@ -89,7 +89,7 @@ Lower concentration of solute
   - What happens for particles that are big enough to fit through the protein carrier
   - You can't choose what can go through the cell - anything of the size
 #### Facilitated diffusion  
-<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/facilitate-diffusion.jpeg"></div>
+<div class="osmosis"><img src="https://shan-mei.github.io/shanmeis-notes/assets/science/facilitated-diffusion.jpeg"></div>
 
   - What happens for slighty bigger particles
   - Carrier protein changes shape to allow substance into cell
