@@ -24,6 +24,8 @@
   <p>- Still doing revision (but I spent most of the period completing the town page).<br> We will do a prac test on Thursday in class.</p>
   <h4>T2W3L3 - 10/5</h4>
   <p>- Doing revision. Also did some Kahoot.</p>
+  <h4>T2W4L1 - 15/5</h4>
+  <p>- I did a practice test.</p>
 
 
 

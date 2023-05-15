@@ -25,6 +25,8 @@
   <p>- We listened to half of the compositions by our peers. We also gave them a score out of 10.<br>- Noah played us his concert prac on piano.</p>
   <h4>T2W3L4 - 12/5</h4>
   <p>- We did our musicianship assessments and listened to Crystal James and Luvenia concert pracs.</p>
+  <h4>T2W4L1 - 15/5</h4>
+  <p>- We did a little more Jazz and talked about Elvis Presley. Listened to Ellie do her concert prac.</p>
 
 
 

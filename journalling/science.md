@@ -24,6 +24,8 @@
   <p>- Took notes and drew diagrams on nephrons.</p>
   <h4>T2W3L4 - 12/5</h4>
   <p>- Played Gimkit and did some SIS practice.</p>
+  <h4>T2W4L1 - 15/5</h4>
+  <p>- Did the validation assessment. Finished like... 20 minutes early</p>
 
 
 
