@@ -24,6 +24,8 @@
   <p>- Doing parabolas... but no one is quite understanding them... so that's great. Doing MS Parabolas.</p>
   <h4>T2W3L3 - 10/5</h4>
   <p>- We did the math investigation presenting.</p>
+  <h4>T2W4L2 - 16/5</h4>
+  <p>- Did more parabolas... but I have no idea how the hell to do them.</p>
 
 
 

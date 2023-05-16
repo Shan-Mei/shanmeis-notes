@@ -26,6 +26,8 @@
   <p>- The teacher and students had absolutely no idea what we were meant to be doing so we kinda just messed around the whole period. I worked on other subject stuff and got started on Algebra and Calculus book.</p>
   <h4>T2W3L4 - 12/5</h4>
   <p>- Turns out Ms James has gotten herself in an accident... poor Ms James.<br>- We continued reading Merchant of Venice. You need to be finished with Act 2.</p>
+  <h4>T2W4L1 - 16/5</h4>
+  <p>- We continued reading. My group managed to finish act 3 today. The play needs to be fully finished by Friday.</p>
 
 
 

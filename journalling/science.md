@@ -26,6 +26,8 @@
   <p>- Played Gimkit and did some SIS practice.</p>
   <h4>T2W4L1 - 15/5</h4>
   <p>- Did the validation assessment. Finished like... 20 minutes early</p>
+  <h4>T2W4L2 - 16/5</h4>
+  <p>- Did kidney dissection.</p>
 
 
 

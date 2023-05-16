@@ -26,6 +26,8 @@
   <p>- Doing revision. Also did some Kahoot.</p>
   <h4>T2W4L1 - 15/5</h4>
   <p>- I did a practice test.</p>
+  <h4>T2W4L2 - 16/5</h4>
+  <p>- Did the test... It was ok I guess?</p>
 
 
 

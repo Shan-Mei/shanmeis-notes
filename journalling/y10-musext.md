@@ -27,6 +27,10 @@
   <p>- We did our musicianship assessments and listened to Crystal James and Luvenia concert pracs.</p>
   <h4>T2W4L1 - 15/5</h4>
   <p>- We did a little more Jazz and talked about Elvis Presley. Listened to Ellie do her concert prac.</p>
+  <h4>T2W4L2 - 16/5</h4>
+  <p>- We did some chord identification. Then I practiced my concert prac for the rest of the period.</p>
+
+
 
 
 
