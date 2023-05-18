@@ -26,6 +26,10 @@
   <p>- We did the math investigation presenting.</p>
   <h4>T2W4L2 - 16/5</h4>
   <p>- Did more parabolas... but I have no idea how the hell to do them.</p>
+  <h4>T2W4L3 - 17/5</h4>
+  <p>- Got a relief and spent the whole period trying to do the work, but we did not know how to do it.</p>
+  <h4>T2W4L4 - 18/5</h4>
+  <p>- Ms Liu is back and we are now doing exponential graphs</p>
 
 
 

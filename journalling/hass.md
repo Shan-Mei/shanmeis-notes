@@ -28,6 +28,10 @@
   <p>- I did a practice test.</p>
   <h4>T2W4L2 - 16/5</h4>
   <p>- Did the test... It was ok I guess?</p>
+  <h4>T2W4L3 - 17/5</h4>
+  <p>- We did some stuff on Myanmar's democracy. I must say it is very interesting.</p>
+  <h4>T2W4L4 - 18/5</h4>
+  <p>- Doing more myanmar</p>
 
 
 

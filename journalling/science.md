@@ -28,6 +28,8 @@
   <p>- Did the validation assessment. Finished like... 20 minutes early</p>
   <h4>T2W4L2 - 16/5</h4>
   <p>- Did kidney dissection.</p>
+  <h4>T2W4L3 - 18/5</h4>
+  <p>- Handed in and marked people's kidneys. We drew the neuron.</p>
 
 
 

@@ -28,6 +28,10 @@
   <p>- Turns out Ms James has gotten herself in an accident... poor Ms James.<br>- We continued reading Merchant of Venice. You need to be finished with Act 2.</p>
   <h4>T2W4L1 - 16/5</h4>
   <p>- We continued reading. My group managed to finish act 3 today. The play needs to be fully finished by Friday.</p>
+  <h4>T2W4L2 - 17/5</h4>
+  <p>- Up to page 79 of merchant of Venice. We have been given a booklet to work on.</p>
+  <h4>T2W4L3 - 18/5</h4>
+  <p>- Finished the play and started on the booklet.</p>
 
 
 
