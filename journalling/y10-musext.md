@@ -31,6 +31,8 @@
   <p>- We did some chord identification. Then I practiced my concert prac for the rest of the period.</p>
   <h4>T2W4L3 - 18/5</h4>
   <p>- I don't know what the class did. All I did was practice piano for concert prac... that I didn't end up doing. I have to do it tomorrow though.</p>
+  <h4>T2W4L4 - 19/5</h4>
+  <p>- We did some more houndog, and I did my concert prac... and butchered it the worse I have in a while.</p>
 
 
 

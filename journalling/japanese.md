@@ -14,6 +14,8 @@
   <p>- We presented or presentations and since we got no more instructions, we worked on (assumably) our speeches for assessments</p>
   <h4>T2W3L2 - 12/5</h4>
   <p>- We did some talking practice and worked out our speeches.</p>
+  <h4>T2W4L2 - 19/5</h4>
+  <p>- We did some translating practice, and worked through more iiTomo.<br>The speaking task is due next Friday at 10pm.</p>
 
 
 

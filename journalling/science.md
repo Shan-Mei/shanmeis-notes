@@ -30,6 +30,8 @@
   <p>- Did kidney dissection.</p>
   <h4>T2W4L3 - 18/5</h4>
   <p>- Handed in and marked people's kidneys. We drew the neuron.</p>
+  <h4>T2W4L4 - 19/5</h4>
+  <p>- We did stuff about neurotransmitters, and Mr Mort went on a massive amount of tangents.</p>
 
 
 

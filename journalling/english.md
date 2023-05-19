@@ -32,6 +32,8 @@
   <p>- Up to page 79 of merchant of Venice. We have been given a booklet to work on.</p>
   <h4>T2W4L3 - 18/5</h4>
   <p>- Finished the play and started on the booklet.</p>
+  <h4>T2W4L2 - 19/5</h4>
+  <p>- Worked on the booklet for the play.</p>
 
 
 

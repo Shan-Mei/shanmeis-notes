@@ -16,6 +16,8 @@
   <p>- We got assignments back. I wasn't entirely happy with the mark but its aquatic rec and we still A'd so its ok.<br>- Started our next assignment, we have to work in different groups than last group :(</p>
   <h4>T2W4L1 - 16/5</h4>
   <p>- We played water polo!!! Ms Gunzberg did a wrong turn hahaha and I ended up doing lollypop girl while Ms Gunzberg tried to turn a sharp turn.</p>
+  <h4>T2W4L2 - 19/5</h4>
+  <p>- We continued with the assignment, it is due next Friday.</p>
 
 
 
