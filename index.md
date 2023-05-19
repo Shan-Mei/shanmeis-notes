@@ -30,5 +30,5 @@
   <h3>
     Brother and Sister Sites
   </h3>
-  <p>Beatrice: <a href="https://beatricesychong.wixsite.com/notes">https://beatricesychong.wixsite.com/notes</a><br>Donal: <a href="https://yuki-private-site.notion.site/yuki-private-site/2023-Dashboard-1ae90b0e39104f71b081a40cba9f4aaf">https://yuki-private-site.notion.site/yuki-private-site/2023-Dashboard-1ae90b0e39104f71b081a40cba9f4aaf</a><br>Kiefer: <a href="https://kazuha-school-notes.notion.site/School-551bf6d3382148678191175b1123296f">https://kazuha-school-notes.notion.site/School-551bf6d3382148678191175b1123296f</a></p>
+  <p>Beatrice: <a href="https://beatricesychong.wixsite.com/notes">https://beatricesychong.wixsite.com/notes</a></p>
 </body>
