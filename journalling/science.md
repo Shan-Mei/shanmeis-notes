@@ -32,6 +32,10 @@
   <p>- Handed in and marked people's kidneys. We drew the neuron.</p>
   <h4>T2W4L4 - 19/5</h4>
   <p>- We did stuff about neurotransmitters, and Mr Mort went on a massive amount of tangents.</p>
+  <h4>T2W5L1 - 22/5</h4>
+  <p>- We have Mr Webster for the rest of the week as Mr Mort is busy.<br>- We revised the neuron.</p>
+  <h4>T2W5L2 - 23/5</h4>
+  <p>- We did neuron worksheets</p>
 
 
 

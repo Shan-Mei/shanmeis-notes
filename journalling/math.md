@@ -30,6 +30,10 @@
   <p>- Got a relief and spent the whole period trying to do the work, but we did not know how to do it.</p>
   <h4>T2W4L4 - 18/5</h4>
   <p>- Ms Liu is back and we are now doing exponential graphs</p>
+  <h4>T2W5L1 - 22/5</h4>
+  <p>- Did mathspace, Ms Liu was away.</p>
+  <h4>T2W5L2 - 23/5</h4>
+  <p>- Learnt about circle formula on graphs.<br>- Turn out over half the class didn't finish their mathspace (I wasn't part of this, I crammed the night before) and they got detention.<br>- Mr White came and talked to us about subject solutions. Turns out semester 1 is year 11 methods unit 1, and semester 2 math is year 11 methods unit 2 and a taster to spec. He explained the significance of learning methods and methods prerequisites for uni, and how much we fall behind on if we don't do second sem methods.</p>
 
 
 
