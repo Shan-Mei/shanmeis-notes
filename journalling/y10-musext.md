@@ -35,6 +35,10 @@
   <p>- We did some more hounddog, and I did my concert prac... and butchered it the worse I have in a while.</p>
   <h4>T2W5L1 - 22/5</h4>
   <p>- We looked at Amy Winehouse, and discussed the affect of drug abuse on musicians.</p>
+  <h4>T2W5L2 - 23/5</h4>
+  <p>- Covered some lit stuff</p>
+  <h4>T2W5L3 - 25/5</h4>
+  <p>- Went through aural and theory component of exam.</p>
 
 
 

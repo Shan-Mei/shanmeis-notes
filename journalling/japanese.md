@@ -17,7 +17,7 @@
   <h4>T2W4L2 - 19/5</h4>
   <p>- We did some translating practice, and worked through more iiTomo.<br>The speaking task is due next Friday at 10pm.</p>
   <h4>T2W5L1 - 22/5</h4>
-  <p>- We are working through the vocab list for our semester assessment.<br>- Todd Sensei came in to talk to us about year 10. There will also be a tour of 40 students consisting of year 11s and 10s. We are going to Tokyo area and travelling around some smaller towns. We will also spend time in a host family in a sister school. People who go are depended on our behaviour and grades. Basically who Todd Sensei wants to travel with. Year 11s are also given priority, but there may be another tour in 2025 if lots of people want to go.</p>
+  <p>- We are working through the vocab list for our semester assessment.<br>- Head of languages came in to talk to us about year 10. There will also be a tour of 40 students consisting of year 11s and 10s. We are going to Tokyo area and travelling around some smaller towns. We will also spend time in a host family in a sister school. People who go are depended on our behaviour and grades. Basically who Todd Sensei wants to travel with. Year 11s are also given priority, but there may be another tour in 2025 if lots of people want to go.</p>
 
 
 
