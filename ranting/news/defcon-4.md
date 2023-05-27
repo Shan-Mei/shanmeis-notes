@@ -5,10 +5,10 @@ title: Town News 25/5/23
 ## The OOM Town moves to Defcon 4 as it is placed under war threats
 
 ### 25/5 Thursday
-Beatrice's house has been uncovered by the police of the city. Apparently, it was built illegally, and she is in court as of now. The police demolished her house and she is appealing to the higher courts in the city to have her case heard better.
+Beatrice's house has been uncovered by the police of the city. Apparently, it was built illegally, and she is in court as of now. The police had mercilessly demolished her house and she is desperately appealing to the higher courts in the city to have her case heard better.
 
 #### Affects on the town
-The desert is owned by the city. All our houses were built illegally, as we built our own houses. We are hoping that the fact that we live in the desert means that the police will not discover us. However, if the police finds any one of our houses, they will find all the houses together because we are a town where all the houses are decently close together.
+The desert is owned by the city. All our houses were built illegally, as we built our own houses. We are clinging onto the hopes that the fact that we live in the desert means that the police cannot raid our town. However, if the police finds any one of our houses, they will find all the houses together because we are a town where all the houses are decently close together. This is why all the town are so shaken by the discovery of Beatrice's house, as the officials may make an emphasis on discovering illegal housing.
 
 The town still prepares ourselves for the worst. Tom has drafted up a ranking of how close we are to war with the police. They are namely Defcon 1, 2, 3, 4 and 5, Defcon 5 being the least threatened and Defcon 1 being on the verge of war. At the moment, the town is at Defcon 4.
 
@@ -24,7 +24,7 @@ Defcon 4 is named "Double Take." We remove all explicit references to the city a
 Defcon 5 is named "Fade Out." This is where everything is normal and we break the above policies to our hearts' content.
 
 #### Concluding statements
-Beatrice will have her trial tomorrow. We will have to see how she goes.
+Beatrice will have her trial tomorrow. We will have to see how she goes - all the town is extremely nervous for the outcome.
 
 ### 26/5 Friday
 #### The Court's Judgement
