@@ -38,7 +38,7 @@ iframe {
 
 a {
     background-color: #FFEDFF;
-    color: #DC1D53
+    color: #DC1D53;
 }
 
 a:hover {
@@ -53,7 +53,7 @@ a:hover {
     margin: 0px;
 }
 .home {
-    color:#28007D;
+    color: #28007D;
     font-weight: bold;
     background-color: #f7f7f7;
 }
