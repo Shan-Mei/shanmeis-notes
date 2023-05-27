@@ -34,6 +34,12 @@
   <p>- Finished the play and started on the booklet.</p>
   <h4>T2W4L2 - 19/5</h4>
   <p>- Worked on the booklet for the play.</p>
+  <h4>T2W5L1 - 23/5</h4>
+  <p>- Ms James is back!! Turns out she got herself in quite the pickle...<br>- We are going to act out and analyse a scene, my group is ddoing Act 3 Scene 1</p>
+  <h4>T2W5L3 - 25/5</h4>
+  <p>- Ms James is probably supervising exams, so we got Mr Barton for relief. We watched part of the Merchant of Venice movie.</p>
+  <h4>T2W5L4 - 26/5</h4>
+  <p>- I think Ms James is still supervising exams, we continued watching the movie. We are at 1 hour 23 min.</p>
 
 
 

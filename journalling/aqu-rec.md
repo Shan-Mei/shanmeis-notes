@@ -18,6 +18,10 @@
   <p>- We played water polo!!! Ms Gunzberg did a wrong turn hahaha and I ended up doing lollypop girl while Ms Gunzberg tried to turn a sharp turn.</p>
   <h4>T2W4L2 - 19/5</h4>
   <p>- We continued with the assignment, it is due next Friday.</p>
+  <h4>T2W5L1 - 23/5</h4>
+  <p>- Continued assignment.</p>
+  <h4>T2W5L2 - 26/5</h4>
+  <p>- We finished and submitted our assignments. Since Ms Gunzberg is at the camp, we watched the Fishpeople video. Got up to 28:30.</p>
 
 
 

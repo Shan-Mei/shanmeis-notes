@@ -39,6 +39,8 @@
   <p>- Covered some lit stuff</p>
   <h4>T2W5L3 - 25/5</h4>
   <p>- Went through aural and theory component of exam.</p>
+  <h4>T2W5L4 - 26/5</h4>
+  <p>- Continued cramming. Did Billie's Blues and Vivaldi and a bit of Hound Dog. I need to go to state library and borrow some material.</p>
 
 
 

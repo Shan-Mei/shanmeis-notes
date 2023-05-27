@@ -36,6 +36,8 @@
   <p>- Doing 5.3, genocide in Myanmar. She showed us a vid with graphic images so... I chose not to watch.</p>
   <h4>T2W5L1 - 23/5</h4>
   <p>- Doing 5.4, justice in Myanmar. We also need to do 30 minutes worth of 5.5 by ourselves at home because of Focus Day tomorrow.</p>
+  <h4>T2W5L4 - 25/5</h4>
+  <p>- Revisioning for test.</p>
 
 
 

@@ -38,6 +38,8 @@
   <p>- We did neuron worksheets</p>
   <h4>T2W5L3 - 25/5</h4>
   <p>- Did more worksheets</p>
+  <h4>T2W5L4 - 26/6</h4>
+  <p>- Finished of worksheets and did gimkit for the rest of the period.</p>
 
 
 
