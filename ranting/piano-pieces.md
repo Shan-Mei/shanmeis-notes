@@ -1,3 +1,3 @@
-<head>
-  <title>Piano Pieces</title>
-</head>
+---
+title: Piano Pieces
+---

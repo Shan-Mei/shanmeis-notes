@@ -1,6 +1,7 @@
-<head>
-  <title>Year 8 English Assignment 1</title>
-</head>
+---
+title: Year 9 English Assessment 1
+---
+
 <body>
   <h2>English Assessment 1 - Write a persuasive speech</h2>
   <h3>The speech</h3>

@@ -1,6 +1,7 @@
-<head>
-  <title>About Me</title>
-</head>
+---
+title: About Me
+---
+
 <body>
   <h2>About Me</h2>
   <p>Hello, as you know already (I think), my name is Shan-Mei. I am an Australian high school student in year 9.</p>

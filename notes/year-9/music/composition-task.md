@@ -1,6 +1,7 @@
-<head>
-  <title>Composing Task 1 Year 10 Music</title>
-</head>
+---
+title: Composing Task 1
+---
+
 <body>
   <h2>Composing Task 1</h2>
   <h4>Piece PDF</h4>

@@ -1,6 +1,7 @@
-<head>
-  <title>Town News</title>
-</head>
+---
+title: Town News
+---
+
 
 ## Town News
 Yes yes I am a news reporter now!

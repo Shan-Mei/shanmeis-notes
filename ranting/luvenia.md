@@ -1,6 +1,7 @@
-<head>
-  <title>Luvenia Dedication</title>
-</head>
+---
+title: Luvenia Dedication
+---
+
 <body>
   <h2>Dedication 1 - Luvenia Yeo</h2>
   <p>Luvenia is an interesting person.</p>

@@ -1,6 +1,7 @@
 ---
 title: Year 8 Coding Investigation
 ---
+
 ## Year 8 Coding Investigation
 The coding investigation was about congruency in triangles.  
 

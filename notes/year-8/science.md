@@ -1,6 +1,7 @@
-<head>
-  <title>Year 8 Science Notes</title>
-</head>
+---
+title: Year 8 Science Notes
+---
+
 <body>
   <h2>Year 8 Science Notes</h2>
   <h3>Biology</h3>

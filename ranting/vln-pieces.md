@@ -1,3 +1,3 @@
-<head>
-  <title>Violin Pieces</title>
-</head>
+---
+title: Violin Pieces
+---

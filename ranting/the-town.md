@@ -1,6 +1,7 @@
-<head>
-  <title>The Town</title>
-</head>
+---
+title: The Town
+---
+
 <body>
   <h2>The "Town"</h2>
   <p>In reference to <a href="https://spicata.99000000.xyz/theTown.html">Spicata</a>, <a href="https://edsobsidiannotes.netlify.app/04-03-2023-the-town-analogy/">Edward</a>, <a href="https://nottaro.github.io/notes-dump/Writings/town/">Jonathan</a>, <a href="https://pi-thagoras.github.io/the-chicken-pen/The-Town.html">π-thagoras</a>, <a href="https://harzavad.github.io/the-merchant/the-town.html">Donal's</a> "articles."</p>

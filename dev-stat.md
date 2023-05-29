@@ -1,6 +1,7 @@
-<head>
-  <title>Development Status</title>
-</head>
+---
+title: Development Status
+---
+
 <body>
   <h2>Development Status</h2>
   <h4>March</h4>

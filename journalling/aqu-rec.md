@@ -1,6 +1,7 @@
-<head>
-  <title>Aquatic Rec Journal</title>
-</head>
+---
+title: Aquatic Recreation Journal 2023
+---
+
 <body>
   <h2>Aquatic Recreation Journal</h2>
   <h3>Term 2</h3>

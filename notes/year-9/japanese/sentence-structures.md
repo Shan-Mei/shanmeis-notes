@@ -1,6 +1,7 @@
-<head>
-  <title>Year 9 Japanese Sentence Structures</title>
-</head>
+---
+title: Japanese Sentence Structures Year 9
+---
+
 <body>
   <h2>Japanese Sentence Structures - Year 9</h2>
   <h4>Term 1</h4>

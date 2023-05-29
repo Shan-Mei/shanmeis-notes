@@ -1,6 +1,6 @@
-<head>
-  <title>Civics and Citizenship Revision Year 9</title>
-</head>
+---
+title: Year 9 Civics and Citizenship Revision
+---
 
 ## Civics and Citizenship Revision
 

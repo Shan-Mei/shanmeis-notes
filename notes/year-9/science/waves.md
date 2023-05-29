@@ -1,6 +1,7 @@
-<head>
-  <title>Year 8 Phys Waves</title>
-</head>
+---
+title: Year 9 Physics Waves
+---
+
 <body>
   <h2>Waves</h2>
   <h3>Types of Waves</h3>

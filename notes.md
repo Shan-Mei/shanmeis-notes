@@ -1,6 +1,7 @@
-<head>
-  <title>Notes</title>
-</head>
+---
+title: My Notes
+---
+
 <body>
   <h2>My Notes!</h2>
   <p>The main contents page of my notes. Individual notes can be found in the subject links.</p>

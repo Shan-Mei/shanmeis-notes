@@ -1,6 +1,7 @@
-<head>
-  <title>Year 9 Physics CAT Notes</title>
-</head>
+---
+title: Year 9 Physics CAT Notes
+---
+
 <body>
   <h2>Year 9 Term 1 Cat Task</h2>
   <h3>Researching and Planning</h3>

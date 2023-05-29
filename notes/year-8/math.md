@@ -1,6 +1,7 @@
-<head>
-  <title>Year 8 Math Notes</title>
-</head>
+---
+title: Year 8 Math Notes
+---
+
 <body>
   <h2>Year 8 Maths</h2>
   <h4>Notes</h4>

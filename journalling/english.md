@@ -1,6 +1,7 @@
-<head>
-  <title>English Journal</title>
-</head>
+---
+title: English Journal 2023
+---
+
 <body>
   <h2>
     English Journal

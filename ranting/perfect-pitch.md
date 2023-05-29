@@ -1,7 +1,7 @@
+---
+title: Perfect Pitch Bad
+---
 
-<head>
-  <title>Perfect Pitch Bad</title>
-</head>
 <body>
   <h2>Perfect Pitch is Useless</h2>
   <p>I am a perfect pitch person. However, I am here to tell you that it's bad.</p>

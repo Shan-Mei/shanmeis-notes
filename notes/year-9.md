@@ -1,6 +1,7 @@
-<head>
-  <title>Year 9 Notes</title>
-</head>
+---
+title: Year 9 Notes
+---
+
 <body>
   <h2>Year 9 Notes</h2>
   <h4>Subjects</h4>

@@ -1,6 +1,7 @@
-<head>
-  <title>Parent Hypocracy</title>
-</head>
+---
+title: Parent Hypocracy
+---
+
 <body>
   <h2>The Greed and Hypocracy of Some Parents</h2>
   <h3>Introduction</h3>

@@ -1,6 +1,7 @@
-<head>
-  <title>Chorale</title>
-</head>
+---
+title: Chorale Pieces
+---
+
 <body>
   <h2>Chorale Pieces List</h2>
   <h3>2023</h3>

@@ -1,6 +1,7 @@
-<head>
-  <title>Skirt Lengths ~ Hierarchy</title>
-</head>
+---
+title: Skirt Lengths ~ Hierarchy
+---
+
 <body>
   <h2>How Year 9 Skirt Length Correspond to an Invisible Hierarchy</h2>
   <p>Disclaimer: Please don't take this seriously. This is just a joke. If you believe you are cool, then I support you fully. Everyone can be and is cool. If you believe you are higher up or lower down the hierarchy, then it be so.</p>

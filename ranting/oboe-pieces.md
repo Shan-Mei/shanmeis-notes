@@ -1,3 +1,4 @@
-<head>
-  <title>Oboe Pieces</title>
-</head>
+---
+title: Oboe Pieces
+---
+

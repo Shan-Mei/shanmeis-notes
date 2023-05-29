@@ -1,6 +1,7 @@
-<head>
-  <title>Ranting</title>
-</head>
+---
+title: Ranting
+---
+
 <body>
   <h2>About Rants</h2>
   <p>This is literally where I rant about random things, or talk about random things. Please don't take anything here too seriously :)</p>

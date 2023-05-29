@@ -1,3 +1,3 @@
-<head>
-  <title>Symphony Pieces</title>
-</head>
+---
+title: Symphony Pieces
+---

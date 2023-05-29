@@ -1,6 +1,7 @@
-<head>
-  <title>The "Lazy Susan" Technique</title>
-</head>
+---
+title: The "Lazy Susan" Technique
+---
+
 <body>
   <h2>The "Lazy Susan" Technique</h2>
   <p>The Lazy Susan technique is a study-practice technique that my violin teacher and conductor taught me. It's kinda like the Pomodoro technique but better :D</p>
