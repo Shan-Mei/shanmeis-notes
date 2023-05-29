@@ -1,11 +1,7 @@
 ---
+title: Shan-Mei's Notes!
 ---
-<head>
-  <title>
-    Shan-Mei's Notes!
-  </title>
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-</head>
+
 <body>
   <h1>Shan-Mei's Notes</h1>
   <p>Hi, I'm <a href="https://shan-mei.github.io/shanmeis-notes/about-me.html">Shan-Mei</a>, a high school year 9 student from Perth, Australia.</p>
