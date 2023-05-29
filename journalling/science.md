@@ -1,6 +1,7 @@
-<head>
-  <title>Science Journal</title>
-</head>
+---
+title: Science Journal 2023
+---
+
 <body>
   <h2>Science Journal</h2>
   <h3>Term 2</h3>
@@ -40,6 +41,8 @@
   <p>- Did more worksheets</p>
   <h4>T2W5L4 - 26/6</h4>
   <p>- Finished of worksheets and did gimkit for the rest of the period.</p>
+  <h4>T2W6L1 - 29/6</h4>
+  <p>- We are self teaching ourself the Endocrine system.<br>- Got marks for val and dissection back. I did not do well...</p>
 
 
 

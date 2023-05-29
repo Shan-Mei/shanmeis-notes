@@ -1,6 +1,7 @@
-<head>
-  <title>Math Journal</title>
-</head>
+---
+title: Math Journal 2023
+---
+
 <body>
   <h2>Math Journal</h2>
   <h3>Term 2</h3>
@@ -36,6 +37,8 @@
   <p>- Learnt about circle formula on graphs.<br>- Turn out over half the class didn't finish their mathspace (I wasn't part of this, I crammed the night before) and they got detention.<br>- Mr White came and talked to us about subject solutions. Turns out semester 1 is year 11 methods unit 1, and semester 2 math is year 11 methods unit 2 and a taster to spec. He explained the significance of learning methods and methods prerequisites for uni, and how much we fall behind on if we don't do second sem methods.</p>
   <h4>T2W5L4 - 25/5</h4>
   <p>- Did hyperbolas. MS 5.10 for practice</p>
+  <h4>T2W6L1 - 29/5</h4>
+  <p>- There was a fire alarm!! We are not sure whether it was a false or true alarm, but it wasn't a drill. I feel bad for the year 11s and 10s who had exams this morning - to sit through the noise. They didn't evacuate though which slightly concerns me.<br>- We got our investigation back if we wanted them back - I think I did pretty well.<br>- We are doing 9.01 mathspace on surface area.</p>
 
 
 

@@ -1,6 +1,7 @@
-<head>
-  <title>HaSS Journal</title>
-</head>
+---
+title: HaSS Journal 2023
+---
+
 <body>
   <h2>HaSS Journal</h2>
   <h3>Term 2</h3>
@@ -38,6 +39,8 @@
   <p>- Doing 5.4, justice in Myanmar. We also need to do 30 minutes worth of 5.5 by ourselves at home because of Focus Day tomorrow.</p>
   <h4>T2W5L4 - 25/5</h4>
   <p>- Revisioning for test.</p>
+  <h4>T2W6L1 - 29/5</h4>
+  <p>- Ms Pyper literally gave us all the notes for the test that she compiled. Amazing teacher.<br>- We also went through essay structure, etc.<br>- We were in McMahon's room, lucky for us it didn't smell of smoke because he's not here this week!</p>
 
 
 

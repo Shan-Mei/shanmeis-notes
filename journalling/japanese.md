@@ -1,6 +1,7 @@
-<head>
-  <title>Japanese Journal</title>
-</head>
+---
+title: Japanese Journal 2023
+---
+
 <body>
   <h2>Japanese Journal</h2>
   <h3>Term 2</h3>
@@ -18,6 +19,8 @@
   <p>- We did some translating practice, and worked through more iiTomo.<br>The speaking task is due next Friday at 10pm.</p>
   <h4>T2W5L1 - 22/5</h4>
   <p>- We are working through the vocab list for our semester assessment.<br>- Head of languages came in to talk to us about year 10. There will also be a tour of 40 students consisting of year 11s and 10s. We are going to Tokyo area and travelling around some smaller towns. We will also spend time in a host family in a sister school. People who go are depended on our behaviour and grades. Basically who Todd Sensei wants to travel with. Year 11s are also given priority, but there may be another tour in 2025 if lots of people want to go.</p>
+  <h4>T2W6L1 - 29/5</h4>
+  <p>- Turns out our test got changed a fair bit. We now have the whole test in 1 period, next week on Friday.<br>- We got given our writing prompt. We have to write about a matsuri and our experiences at it.</p>
 
 
 

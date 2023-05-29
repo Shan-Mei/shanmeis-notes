@@ -10,6 +10,7 @@ Intervals
 	- min
 	- perf
 	- aug/dim/tritone
+
 Scales
 - doh and lah pent
 - maj
@@ -18,12 +19,14 @@ Scales
 	- harm
 	- melodic
 - chromatic
+
 Dictation
 - Rhythmic
 	- 8 bars
 	- tika ti, ti ti, ta, etc
 - Melodic
 	- 8 bars - 4 bars have given rhythm, last 4 is proper
+
 Chords
 - 1, 4, 5 an 57 chords
 	- All in root position
@@ -32,10 +35,12 @@ Chords
 Score analysis
 - You need transposing instruments, just Bb
 - Analysing the score
+
 Intervals
 Scales
 Chords
 - Includes inversions
+
 Cadences
 - First 6 pages of the 4 part vocal book
 - Maj, min
@@ -43,6 +48,7 @@ Cadences
 - Perfect and plagal cadences
 - Root pos only
 - Vocal and pianoforte style
+
 #### Literature
 Spring
 - Give score extract

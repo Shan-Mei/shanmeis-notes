@@ -1,6 +1,7 @@
-<head>
-  <title>Music Class Journal</title>
-</head>
+---
+title: Extention Music Journal 2023
+---
+
 <body>
   <h2>Year Ten Music Ext Journal</h2>
   <p>Yes. I accelerated. I'm just that cool. (We don't talk about how I'm decelerating next year)</p>
@@ -41,6 +42,8 @@
   <p>- Went through aural and theory component of exam.</p>
   <h4>T2W5L4 - 26/5</h4>
   <p>- Continued cramming. Did Billie's Blues and Vivaldi and a bit of Hound Dog. I need to go to state library and borrow some material.</p>
+  <h4>T2W6 - 7</h4>
+  <p>- Frees, year 10s on exams.</p>
 
 
 

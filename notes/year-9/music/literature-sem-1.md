@@ -9,15 +9,19 @@ Composed 1716 - 1725
 Terraced dynamics
 - Originated from early Baroque period
 - On the harpsichord, dynamics do not exist. There are some mechanics to help change the dynamics - levers and pedals
+
 Ritornello and Solo Concerto Form
 - Ritornello = small return
 - Solo Concerto = where player flexes their abilities - between Ritornellos
+
 Programmatic music
 - Links between poetry and music in the Seasons
+
 Basso Continuo
 - Made of $$\frac{5}{3}$$, $$\frac{6}{3}$$and $$\frac{6}{4}$$inversions.
 - The fraction under the note is the inversion it is, and if there is any chord number, it is an added note.
 	- The specified note is the bottom note
+
 Types of concerti
 - Solo concerto
 	- One soloist
@@ -43,11 +47,14 @@ Tension
 #### Context
 Early Jazz
 - Birth of Jazz in New Orleans, Dixieland Jazz
+
 Swing
 - Notated as two beamed quavers = crotchet + quaver in triplets or three beams quavers, first two tied, tripleted.
+
 Traditional blues form alterations
 - Pay off progression = ii V IV
 - Turnaround progression = I vi ii V
+
 #### Billie's Blues
 Analysis
 - Multiple blues notes
