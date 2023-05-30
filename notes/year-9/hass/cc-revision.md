@@ -3,7 +3,6 @@ title: Year 9 Civics and Citizenship Revision
 ---
 
 ## Civics and Citizenship Revision
-
 ### Constitutionalism and the framework of politics and law in Australia 
 
 #### Separation of Power
@@ -188,3 +187,11 @@ Justice:
 Power:
 - Corruption
 - Incompetence of one of the government arms.
+  
+  
+### Reflection and Results
+#### Reflection
+The test felt relatively easy, I finishd with time left. Am hoping for good results. Its just that I forgot what federalism was hahaha
+
+#### Results
+I am very stoked with my results!! 95% woohoo. Anyways, cohort average is 77%. And yeah, I did get federalism wrong. It was the only thing though. However my full marks on source analysis is giving me some hope that I can do English Lit.

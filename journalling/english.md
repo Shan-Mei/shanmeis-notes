@@ -41,6 +41,8 @@ title: English Journal 2023
   <p>- Ms James is probably supervising exams, so we got Mr Barton for relief. We watched part of the Merchant of Venice movie.</p>
   <h4>T2W5L4 - 26/5</h4>
   <p>- I think Ms James is still supervising exams, we continued watching the movie. We are at 1 hour 23 min.</p>
+  <h4>T2W6L1 - 30/5</h4>
+  <p>- We got Ms James back and she is throwing us homework. Also got english assignments from last term back.<br>- We are doing some character profiles for the play.</p>
 
 
 

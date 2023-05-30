@@ -43,6 +43,8 @@ title: Science Journal 2023
   <p>- Finished of worksheets and did gimkit for the rest of the period.</p>
   <h4>T2W6L1 - 29/6</h4>
   <p>- We are self teaching ourself the Endocrine system.<br>- Got marks for val and dissection back. I did not do well...</p>
+  <h4>T2W6L2 - 30/5</h4>
+  <p>- We actually got taught some endocrine system stuff woohoo.</p>
 
 
 

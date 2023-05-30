@@ -23,6 +23,8 @@ title: Aquatic Recreation Journal 2023
   <p>- Continued assignment.</p>
   <h4>T2W5L2 - 26/5</h4>
   <p>- We finished and submitted our assignments. Since Ms Gunzberg is at the camp, we watched the Fishpeople video. Got up to 28:30.</p>
+  <h4>T2W6L1 - 30/5</h4>
+  <p>- Tanishka and I presented today, it went alright.</p>
 
 
 

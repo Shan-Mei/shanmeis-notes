@@ -23,5 +23,5 @@ title: Year 9 English Assessment 1
   <h4>Reflection</h4>
   <p>Wow I stuttered so much. When I was on the podium, I could feel my hands shaking like crazy, and my voice shook rather violently. However, I believe that I did better than most of my classmates.</p>
   <h4>Result</h4>
-  <p>I will need to check. Someone remind me</p>
+  <p>Did well woo!. 87%. Am very happy with the result.</p>
 </body>

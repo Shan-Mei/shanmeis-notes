@@ -953,3 +953,10 @@ def mainMenu():
 print("Welcome to the simple and compound interest calculator, made by Shan-Mei") #welcome the user into the code in a decently friendly way :)
 mainMenu() #goes to main menu
 ```
+
+### Reflection and Results
+#### Reflection
+Eurgh the presentation was not great... turns out I had missed a whole bunch of stuff that I ended up including in other sections (The bit where you account for different units). I was also completely confused about the whole "missed payments thing." Originally I was hoping for 95%+, but now I have lost hope but I think I'll get above 85 but below 90.
+
+#### Results
+WOW I was surprised. Rocking a 95% hahahah. Originally my teacher thought I was someone else and gave me someone else's results, the person's result that was given to me was higher than my result so I got the hyper disappoint but I am still happy that the score is high.

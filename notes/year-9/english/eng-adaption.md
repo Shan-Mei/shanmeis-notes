@@ -19,5 +19,5 @@ title: Year 9 English Assessment 2
   <h4>Reflection</h4>
   <p>Gosh I'm really not proud of this one. I wrote this the morning of it was due, because I had a whole bunch of things come up and I wasn't allowed to start my assignment until the Tuesday afternoon. I didn't even get to finish my draft since I had to run off to the Chorale rehearsal, and on the Wednesday we got relief'd again, so I couldn't finish the draft. On the Wednesday night I had the concert and my laptop died so I wasn't able to do much of the final copy either. It was around 10:30 when I got back home and did it, so really not feeling good about this as of writing. Not expecting very much either, just hoping I can get a highish B.</p>
   <h4>Results</h4>
-  <p>Results will be updated when I receive them</p>
+  <p>Ok ok I knew I did bad but I didn't think I did THAT bad! I was on the verge of a letter of concern ;-;<br>Anyways, I don't want to talk about it</p>
 </body>
