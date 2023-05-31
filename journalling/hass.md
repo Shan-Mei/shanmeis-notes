@@ -43,6 +43,8 @@ title: HaSS Journal 2023
   <p>- Ms Pyper literally gave us all the notes for the test that she compiled. Amazing teacher.<br>- We also went through essay structure, etc.<br>- We were in McMahon's room, lucky for us it didn't smell of smoke because he's not here this week!</p>
   <h4>T2W6L2 - 30/5</h4>
   <p>- Continued with revision.</p>
+  <h4>T2W6L3 - 31/5</h4>
+  <p>- We got some time to revise, I just started writing up a practice essay. Ms Pyper is now at the year 7 camp.</p>
 
 
 

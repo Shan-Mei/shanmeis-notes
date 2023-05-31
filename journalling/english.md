@@ -43,6 +43,8 @@ title: English Journal 2023
   <p>- I think Ms James is still supervising exams, we continued watching the movie. We are at 1 hour 23 min.</p>
   <h4>T2W6L1 - 30/5</h4>
   <p>- We got Ms James back and she is throwing us homework. Also got english assignments from last term back.<br>- We are doing some character profiles for the play.</p>
+  <h4>T2W6L2 - 31/5</h4>
+  <p>- We wrote some ideas and paragraphs.</p>
 
 
 

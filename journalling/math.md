@@ -41,6 +41,8 @@ title: Math Journal 2023
   <p>- There was a fire alarm!! We are not sure whether it was a false or true alarm, but it wasn't a drill. I feel bad for the year 11s and 10s who had exams this morning - to sit through the noise. They didn't evacuate though which slightly concerns me.<br>- We got our investigation back if we wanted them back - I think I did pretty well.<br>- We are doing 9.01 mathspace on surface area.</p>
   <h4>T2W6L2 - 30/5</h4>
   <p>- Doing volume of shapes. Mathspace tasks</p>
+  <h4>T2W6L3 - 31/5</h4>
+  <p>- Ms Liu is not here today. We are working through the 9.03 lesson and questions.</p>
 
 
 
