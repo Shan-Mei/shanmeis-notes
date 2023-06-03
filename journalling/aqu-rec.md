@@ -25,6 +25,8 @@ title: Aquatic Recreation Journal 2023
   <p>- We finished and submitted our assignments. Since Ms Gunzberg is at the camp, we watched the Fishpeople video. Got up to 28:30.</p>
   <h4>T2W6L1 - 30/5</h4>
   <p>- Tanishka and I presented today, it went alright.</p>
+  <h4>T2W6L2 - 2/6</h4>
+  <p>- We finished our kahoot, we listened to another group and the other presenting groups found excuses to not present. So literally free period.</p>
 
 
 

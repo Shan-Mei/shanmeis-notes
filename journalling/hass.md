@@ -45,6 +45,8 @@ title: HaSS Journal 2023
   <p>- Continued with revision.</p>
   <h4>T2W6L3 - 31/5</h4>
   <p>- We got some time to revise, I just started writing up a practice essay. Ms Pyper is now at the year 7 camp.</p>
+  <h4>T2W6L4 - 1/6</h4>
+  <p>- Did the test. It was pretty easy, literally just what I did in the practice tests.</p>
 
 
 

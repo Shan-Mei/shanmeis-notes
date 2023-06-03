@@ -45,6 +45,10 @@ title: English Journal 2023
   <p>- We got Ms James back and she is throwing us homework. Also got english assignments from last term back.<br>- We are doing some character profiles for the play.</p>
   <h4>T2W6L2 - 31/5</h4>
   <p>- We wrote some ideas and paragraphs.</p>
+  <h4>T2W6L3 - 1/6</h4>
+  <p>- We got more work thrown at as, this time we are writing 3 body paragraphs. Working on ideas and themes.</p>
+  <h4>T2W6L4 - 2/6</h4>
+  <p>- Going through some activities on themes in Merchant of Venice.</p>
 
 
 
