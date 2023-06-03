@@ -3,6 +3,8 @@ title: Personal Music Lit Study 1
 ---
 
 ## Personal Lit Study
+Kill me I hate lit
+
 ### Rehab
 #### Song Information
 - Released 23 Oct 2006 as a lead single for *Back to Black* album
