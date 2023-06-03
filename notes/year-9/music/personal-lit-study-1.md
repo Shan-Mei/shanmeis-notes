@@ -173,12 +173,16 @@ Characteristics
 #### Form
 Chorus - 8 bars
 - All on the 1<sup>7</sup> chord, without the 3rd
+
 Tag 1 (I ain't got the time) - 8 bars
 - 5<sup>7</sup> for 2 bars, 4<sup>7</sup> for 2 bars, 1<sup>7</sup> without the 3rd for 1 bar, 4<sup>7</sup> for 1, 1<sup>7</sup> (no 3rd) for 2 bars
+
 Verse 1 (I'd rather be at home with Ray) - 16 bars
 - 3 for 2 bars, 6 for 2 bars, 4 for 2 bars, Fm over Ab for 2 bars, repeat
+
 Tag 2 (I didn't get a lot in class) - 8 bars
 - 5<sup>7</sup> for 4 bars, 4<sup>7</sup> for 4 bars
+
 Chorus - 8 bars
 Tag 1 - 8 bars
 Verse 2 (The man said why you think you here) - 16 bars, with variation to melody and rhythm
