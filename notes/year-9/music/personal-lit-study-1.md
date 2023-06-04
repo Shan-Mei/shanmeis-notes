@@ -274,84 +274,85 @@ Chorus: 1 head
 
 #### Lyrics
 ##### Big Mama Thornton
-**Chorus**
+**Chorus**  
 You ain't nothin' but a hound dog
 - Lowly husband
 
 Been snoopin' 'round my door
 - Husband manipulating her
 
-You ain't nothin' but a hound dog
-Been snoopin' 'round my door
-You can wag your tail
-But I ain't gonna feed you no more
+You ain't nothin' but a hound dog  
+Been snoopin' 'round my door  
+You can wag your tail  
+But I ain't gonna feed you no more  
 
-**Verse 1**
+**Verse 1**  
 You told me you was high class
 - Husband tricking wife
 
 But I could see through that
 - Discovered he was lying
 
-Yes, you told me you was high class
-But I could see through that
-And daddy I know
-You ain't no real cool cat
+Yes, you told me you was high class  
+But I could see through that  
+And daddy I know  
+You ain't no real cool cat  
 - She doesn't like her husband
 
-**Guitar Solo**
-Oh, play that thing, boy!
-Aw listen, isn't that them old hound dog? (Oh-woo!)
-Oh, play it, it's all right up here
-And listen to that old hound dog howl (Ooo-wo!)
+**Guitar Solo**  
+Oh, play that thing, boy!  
+Aw listen, isn't that them old hound dog? (Oh-woo!)  
+Oh, play it, it's all right up here  
+And listen to that old hound dog howl (Ooo-wo!)  
 - She is spiting her husband
 
-Oh, play it boy, play it
-Oh, you make me feel good
-Oh, do not mess around any longer daddy
-Now wag your tail
+Oh, play it boy, play it  
+Oh, you make me feel good  
+Oh, do not mess around any longer daddy  
+Now wag your tail  
 
-Oh, get it
-Oh, get it now, get it, get it, get it
-Oh, you old hound dog
+Oh, get it  
+Oh, get it now, get it, get it, get it  
+Oh, you old hound dog  
 - Called blues talk
 
-**Verse 2**
+**Verse 2**  
 You made me feel so blue
 - Husband made her sad
 
-You made me weep and moan
-You made me feel so blue
-Yeah you made me weep and moan
-Cause you ain't looking for a woman
-All you're lookin' is for a home
+You made me weep and moan  
+You made me feel so blue  
+Yeah you made me weep and moan  
+Cause you ain't looking for a woman  
+All you're lookin' is for a home  
 - Using her for his own gain
 
-**Outro**
+**Outro**  
 Awoo!  
 (Bark, bark, bark, bark!)
 
 ##### Elvis Presley
-**Chorus**
+**Chorus**  
 You ain't nothin' but a hound dog
 - Elvis is actually singing to a dog
+- He called it the stupidest thing he'd ever done
 
-Cryin' all the time
-You ain't nothin' but a hound dog
-Cryin' all the time
-Well, you ain't never caught a rabbit
-And you ain't no friend of mine
+Cryin' all the time  
+You ain't nothin' but a hound dog  
+Cryin' all the time  
+Well, you ain't never caught a rabbit  
+And you ain't no friend of mine  
 - Stupid dog
 
-**Verse 1**
-Well, they said you was high-classed
-Well, that was just a lie
+**Verse 1**  
+Well, they said you was high-classed  
+Well, that was just a lie  
 - People said he was a good dog but actually isn't
 
-Yeah, they said you was high-classed
-Well, that was just a lie
-Yeah, you ain't never caught a rabbit
-And you ain't no friend of mine
+Yeah, they said you was high-classed  
+Well, that was just a lie  
+Yeah, you ain't never caught a rabbit  
+And you ain't no friend of mine  
 
 #### Genre - Rock and Roll
 Origins
