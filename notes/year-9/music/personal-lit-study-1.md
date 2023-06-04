@@ -5,6 +5,99 @@ title: Personal Music Lit Study 1
 ## Personal Lit Study
 Kill me I hate lit
 
+### Contemporary Music
+#### Rock and Roll
+Origins
+- Rhythm and Blues
+
+Characteristics
+- Vocal, with a hard driving beat
+- Often having electric guitar accompaniment
+- Heavily amplified sound
+- Folklike, guitar based style
+- Common instrumentation
+	- 2 electric guitars
+	- Electric bass
+	- Percussion
+	- Keyboard instruments
+	- Sometimes includes hons
+- Singing style is from black, folk and country-and-western music
+	- Shouting, crying, wailing, growling, guttural sounds
+	- Falsetto
+	- Nonsense syllables
+	- Repeated chance (Yeah! Yeah! Yeah!)
+- Often in $$\frac{4}{4}$$ time
+	- Often subdivided to 8
+	- Drummer often emphasises the "ands"
+- Often in 12 bar blues form
+- Often in AABA
+
+Famous people
+- Little Richard
+- Chuck Berry
+- Platters (vocal group)
+- Elvis Presley
+- Bill Haley and His Comets
+	- Rock around the clock
+- Bob Dylan
+	- Blowin' in the Wind
+- Beatles
+
+#### R&B (Rhythm and Blues)
+Origin
+- African-American communities in 1940's
+- Combined pop, gospel, blues and jazz
+
+Characteristics
+- Simple, repetitive parts
+- Mellow, lilting and sometimes hypnotic textures
+	- Silky voice
+- Habanera-like rhythms
+- Strong back-beat
+- Smooth, melismatic vowels
+- Incorporation of hip-hop
+
+Instrumentation
+- Piano
+- 1 - 2 guitars
+- Drums
+- 1+ saxophones
+- Sometimes background singers
+
+People and bands
+- Rolling stones
+- the Who
+- the Animals
+
+#### Soul
+Origins
+- African-American
+- 1950's to 1960's
+- Roots and African American gospel music and rhythm and blues
+
+Characteristics
+- Catchy rhythms, hand claps, body movements
+- Call and response between lead and chorus
+- Tense vocal sound
+- Improvised additions, twirls and auxiliary sounds
+
+Instrumentation
+- Emphasis on horn section
+	- Trumpet
+	- Trombone
+	- Saxophone
+- Rhythm secton
+	- Organ (and/or piano)
+	- Kit
+	- Guitars
+
+People
+- Ray Charles
+- James Brown
+- The Temptations
+- Aretha Franklin
+	- Queen of Soul
+
 ### Rehab
 #### Song Information
 - Released 23 Oct 2006 as a lead single for *Back to Black* album
