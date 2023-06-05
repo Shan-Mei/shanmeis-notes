@@ -5,6 +5,133 @@ title: Personal Music Lit Study 1
 ## Personal Lit Study
 Kill me I hate lit
 
+### Spring
+#### Basic Info
+Comes from a group of violin concertos namely The Four Seasons or *Le Quattro Stagioni*
+- Composed 1718 - 1720
+- Spring, Summer, Autumn, Winter
+- Programmatic as it had a set story
+	- Other version is absolute, where it is up to listener to interpret
+
+Based off poems
+- Vivaldi wrote these himself
+- 1 per season
+
+Form of entire concerto was quick-slow-quick
+1. Allegro, E major
+2. Largo e pianissimo sempre, C# minor
+3. Allegro pastorale, E major
+
+#### Baroque
+1600 - 1750  
+Baroque comes from the word Barroco, which means oddly shaped pearl.
+
+Characteristics: 
+- Long melodic lines that are heavily ornamented 
+- Terraced dynamics 
+- Many textures, like contrapuntal, imitative and homophonic. 
+- Contrast between loud and soft in an ensemble 
+- Basso continuo 
+
+Forms included concerto grosso, sonata, suite, church vocal music (oratorio, cantata, passion, mass, anthem) and solo vocal music (esp the aria and opera) 
+
+Composers include Handel, Bach, Pachelbel, Daquin and Monteverdi.
+
+##### Use in piece
+Terraced dynamics
+- Loudness then suddenly soft, then suddenly loud
+
+Many textures
+- Ritornello is mainly homophonic
+- Episode 1 is imitative and contrapuntal
+
+Basso continuo
+- Played by a harpsichord and a bass instrument, usually double bass or cello
+	- The harpsichordist is often given the bass line with the chord inversions under it.
+- Made up of $$\frac{5}{3}$$, $$\frac{6}{3}$$ and $$\frac{6}{4}$$ chords.
+- $$\frac{5}{3}$$ is often simplified to nothing
+- $$\frac{6}{3}$$ is often simplified to 6
+- $$\frac{6}{4}$$ is not simplified.
+- The note is the bottom note, and the chord is formed on top of it
+- Sharps and flats are notated in front of the number
+
+#### Form
+Ritornello opening: 8 bars
+- Giunt'e la Primavera - arrival of spring
+- E maj
+
+Ritornello closing: 8 bars
+- E maj
+
+Episode 1: 14 bars
+- Canto de gl'uccelli - song of the birds
+- E festosetti la salutan gli Augei con lieto canto - The birds celebrate her return with festive song.
+- Solo violin with bird-like trills, ornaments and high running scales, accompanied by violins
+- E maj
+
+Ritornello closing: 4 bars
+- B maj
+
+Episode 2: 10 bars
+- Scorrono i fonti - bubbling brook
+- E i fonti allo spirar de' Zeffiretti - Con dolce mormorio scorrono - Murmurring streams are softly caressed by the breezes
+- Quiet, whispering figures are playing by the orchestra
+- Modulating to B maj from E maj - dominant key
+
+Ritornello closing: 4 bars
+- B maj
+
+Episode 3: 11 bars
+- Tuoni: thunder
+- Vengon coprendo l'aer di nero amanto, E lampi, e tuoni ad annuntiarla eletti - Thunderstorms, those heralds of Spring, roar,  casting their dark mantle over heaven.
+- Solo violin with repeated notes and arpeggios.
+- Fast, scalic passages accompanied by orchestra
+- Virtuosic
+- Modulates from B major to C# minor through E major
+	- E major is original key, C# minor is relative minor
+
+Ritornello closing: 4 bars
+- C# minor
+
+Episode 4: 7 bars
+- Canto d'uccelli
+- Indi, tacendo questi, gli Augelletti Tornan di nuovo al lor canoro incanto - Then the thunderstorm dies away to silence,  and the birds take up their charming songs once more.
+- Trills and repeated notes in solo violin
+- C# minor to E maj
+
+Ritornello opening: 4 bars
+- E maj
+- Highly varied
+
+Small solo: 6 bars
+- E major
+- Semiquaver passages accompanied by cello and harpsichord
+
+Ritornello closing: 8 bars
+- E maj
+- Perfect cadence
+
+#### Poem
+_Allegro_  
+Springtime is upon us.  
+The birds celebrate her return with festive song,  
+and murmuring streams are  
+softly caressed by the breezes.  
+Thunderstorms, those heralds of Spring, roar,  
+casting their dark mantle over heaven,  
+Then they die away to silence,  
+and the birds take up their charming songs once more.  
+  
+_Largo_  
+On the flower-strewn meadow, with leafy branches  
+rustling overhead, the goat-herd sleeps,  
+his faithful dog beside him.  
+  
+_Allegro_  
+Led by the festive sound of rustic bagpipes,  
+nymphs and shepherds lightly dance  
+beneath spring's beautiful canopy.
+
 ### Jazz
 #### Jazz
 Birth in new orleans
