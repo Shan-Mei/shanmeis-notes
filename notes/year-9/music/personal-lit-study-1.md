@@ -5,6 +5,184 @@ title: Personal Music Lit Study 1
 ## Personal Lit Study
 Kill me I hate lit
 
+### Jazz
+#### Jazz
+Birth in new orleans
+- start of 1900
+- Influence from africa and europe
+	- Africa: triplet feel
+		- Dancing in new orleans
+		- Syncopated rhythm
+		- Syncopation
+		- Spirituals
+		- Work songs
+	- Europe: harmony and instrumentation
+
+Evolution
+- Dance music
+- Lude, crude passtime
+- Black music
+- Until white people became interested
+- young men who was in war wanted to rebel, so they found new hobbies
+	- Called the Jazz Age
+- Prohibition
+- Marching bands were lead by trumpets and cornets
+	- Improvising as a group
+- Black musicians started moving to chicago
+	- Dixieland
+	- Louis Armstrong
+- Swing Era 1935 - 1945
+	- Larger ensembles
+	- Big bands
+- Bebop 40's
+	- Soloing and soloists
+	- Chord progression
+	- Fast, abstract, not for dancing
+	- Art form
+	- Charlie Parker founded Bebop
+- Cool jazz 1950's and 60's
+	- From america's west coast
+	- Arrangement
+	- retainment of swing
+	- Smoother and nicer to the ear bebop
+	- Miles davis - his band played cool jazz
+- Hard bop - 1950's and 60's
+	- A little after cool jazz
+	- simple, soulful melodies
+	- Freer rhythm section
+	- Ties to R and B
+- Jazz fusion 1960s - 80
+	- Between jazz and rock
+	- Jazz and Rock musicians played together
+	- More technically skilled musicians
+
+Many subgenres
+
+Instruments
+- Double bass - plucked
+- Drum kit
+- Piano
+- Guitar
+- Clari
+- Trumpet
+- Trombone
+- Vocalist
+- Sax
+
+Swing
+- Triplet feel
+
+Improv
+- Composing on the spot
+
+Syncopation
+- Strong beats on weak beats
+
+Blues notes
+- Minor pentatonic
+
+Scat singing
+- Where a singer improvises using nonsense words
+
+Riff
+- Short, repeated phrase
+
+#### Timeline
+**1892**: Tommy Turpin write Harlem Rag
+- First known ragtime composition
+
+1897: Ragtime grown in popularity  
+1899: Joplin's Maple Leaf Rag published and Duke Ellington born
+- Maple Leaf Rag sells 100k+ copies
+
+1901: Creole Blues is first acoustic recording of ragtime to be made commercially available. Louis Armstrong Born.  
+**1902**: Pianist Jelly Roll Morton claims to invent jazz  
+1913: The word "Jazz" appears in print for first time  
+1915: Billie Holiday born  
+**1917**: Scott Joplin dies, ragtime era ends, Original Dixieland Jass Band (All white group) makes first jazz recording (Livery Stable Blues). Jazz musicians start leaving the city for the North  
+1919: The Dixieland band performs in London  
+1922: Race records are created
+- Marketing and categorizing based on performer race
+1923:
+- Bessie Smith makes her first recording (Down-hearted Blues)
+	- 1 mil copies
+- Clarinetist Sidney Bechet makes her first recordings
+
+1924:
+- Duke Ellington makes his first recordings as leader of Washingtonians
+- Gershwin debuts *Rhapsody in Blue* with Paul Whiteman's band
+
+1925:
+- Original Dixieland Jass Band disbands
+
+1927:
+- Ellington begins residency at Cotton Club
+
+1933:
+- Berlin radio station Funkstunde bans jazz broadbasts
+	- Nazi germany rise
+- Ellington and his orchestra begin first Europe tour
+- Bessie Smith makes her last recordings
+- Billie Holiday makes her first recording
+
+1935:
+- Ella Fitzgerald makes her first recordings
+- Gershwin's Porgy and Bess opens at Alvin Theatre in New York
+
+1936:
+- Nat King Cole makes first recordings with Solid Swingers band
+
+1937:
+- Gershwin dies of brain tumour
+- Nat King Cole creates new ensemble with piano bass and guitar
+- Bessie Smith dies in car accident
+
+1939:
+- Billie Holiday records *Strange Fruit*
+
+**1941:**
+- Sidney Bechet plays 5 different instrumentson SHeik of Araby and Blues of Bechet
+	- Earlies overdubbing techniques - laying on an existing recording
+
+**1948:**
+- Dizzy Gillespie brings bebop to Europe
+
+1954:
+- First American Jazz Fest organised
+
+1955:
+- Charlie Parker dies
+- Lennie Tristano experiments with overdubbing
+
+**1958:**
+- Art Blakey's Jazz Messengers recording *Moanin'*
+	- Defining album for hard bop
+
+1959:
+- Sidney Bechet dies
+- Billie Holiday dies
+
+1966:
+- Ellington receives the President's Gold Medal of Honour
+
+**1971:**
+- Louis Armstrong Dies
+
+**1972:**
+- Chick Corea records with his newly formed fusion group, Return to Forever
+
+**1974:**
+- Ellington dies from lung cancer and pneumonia
+
+**1977:**
+- Pop jazz group Spyro Gyra records first album
+
+#### Electronics and Jazz
+Overdubbing  
+Radio stations
+- Some music styles were banned at points in times
+- Increasing popularity
+
 ### Billie's Blues
 #### The Blues
 Origins
