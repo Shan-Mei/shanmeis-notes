@@ -5,6 +5,89 @@ title: Personal Music Lit Study 1
 ## Personal Lit Study
 Kill me I hate lit
 
+### WAM
+#### Definitions
+Melody
+- A set of notes played one after the other to create a dominating sound
+- To create a tune
+
+Pitch
+- Specific hertz
+- Specific sound in a specific range of sounds
+
+Rhythm
+- Placements of sounds in music
+- Pattern in time - notes and rests
+
+Harmony
+- Tune that complements melody when played at the same time
+- Relationship between series of chords
+
+Tonality
+- Organising musical compositions around a specific note, the tonic
+- A subset of notes that are prominent in a composition
+
+Form
+- Structure of a piece or song
+	- Binary
+	- Ternary
+	- Rondo/Ritornello
+	- Sonata
+
+Timbre
+- Tone quality of voice or a specific instrument
+	- Different instruments and different people have different timbres
+
+Texture
+- Density and interaction between a work's different voices
+	- Monophony - unaccompanied melody
+	- Heterophony - Multiple voices
+		- Homophony
+		- Polyphony
+
+Dynamics
+- The volume of sound in music - different increments and instructions
+
+#### Timeline
+Baroque: 1600 - 1750  
+Classical: 1750 - 1820  
+Romantic: 1830 - 1900  
+20th century: 1900 - 1999
+
+#### Characteristics of Periods
+Baroque
+- Long melodic lines that are heavily ornamented
+- Terraced dynamics
+- Many different textures
+- Dynamic contrast in ensemble
+- Basso continuo
+
+Classical:
+- Alberti bass
+- Mainly homophonic
+- Sonata form
+- Emphasis on beauty, elegance and balance
+- More variety and contrast
+- Importance to instrumental music
+- Melodies were shorter than baroque, clear phrases, clear cadences
+
+Romantic:
+- Freedom or form and design in music
+- Longer and more lyrical melodies
+- Contrasts in dynamics and pitch
+- Dissonance and chromaticism
+- Larger orchestras, brass valves
+- Programme music
+- Nationality (against german influence)
+- Technical virtuosity
+
+20th century:
+- More dissonance and freedom
+- Moving away from traditional style
+- Use of different modes and tonality
+- Serialism
+- Modern instrumental techniques (playing behind bridge, overblowing)
+
 ### Spring
 #### Basic Info
 Comes from a group of violin concertos namely The Four Seasons or *Le Quattro Stagioni*
@@ -131,6 +214,69 @@ _Allegro_
 Led by the festive sound of rustic bagpipes,  
 nymphs and shepherds lightly dance  
 beneath spring's beautiful canopy.
+
+### Rite of Spring 
+Courtesy of Ellie. ~~I hate Rite of Spring.~~ Now I've done some research it seems interesting. I will watch the ballet in the holidays.
+
+#### Basic Info
+Written 1913, premiered same year  
+Ballet genre  
+French title is Le Sacre Du Printemps  
+
+Commission
+- Diagaliv asked him and Nijinsky (original choreographer) to compose a set of 3 ballets - Firebird, Petrushka and Rite of Spring
+
+About Pagan Russia
+- Focus on primitivism and disorganisation of society
+- Rite is pagan ritual where a young girl is sacrificed with hope of pleasing the gods and receiving fertility of women and good harvest for spring
+- Girl dances herself to death
+- Original choreography is about the horror of the ritual
+
+#### Reception
+Caused riot
+- Dissonance of first chord
+- Bitonal piece, with bits of standard tonality
+- Irregular rhythm
+- No tune
+- Choreo was disturbingly jagged and puppet-like
+- Extreme registers of music
+
+#### Primitivism
+Mimicking of prehistoric life
+- Messiness, no religion
+- Early stages of ethicality, politics, etc
+
+#### Novel Aspects
+Tonality
+- 2 or more keys the piece is centred around - bitonality
+- Heavy use of dissonance without it becoming atonal
+
+Rhythm
+- Frequent metre changes
+	- $$\frac{2}{4}$$
+	- $$\frac{1}{4}$$
+	- $$\frac{5}{16}$$
+	- $$\frac{2}{16}$$
+	- etc
+	- Distabilises pulse
+	- Uneven stressed
+
+#### Elements that contribute to primitive sound
+Rhythm
+- Frequent changes and odd pulses to show disorganisation and primitivism
+- Some bits have homorhythmicity to show simplicity of primitive life
+
+Dynamics
+- Extreme dynamics
+- Mostly loud
+- Portraying chaos
+
+Articulation
+- Col legno - bow with wood - viola
+- Con sordino - with mutes - trumpet and cello
+- Flutter tonguing
+- Repeated down bows
+- Unconventional
 
 ### Jazz
 #### Jazz
