@@ -5,6 +5,110 @@ title: Personal Music Lit Study 1
 ## Personal Lit Study
 Kill me I hate lit
 
+### Billie's Blues
+#### The Blues
+Origins
+- Afro-American folk music
+- Song type after 1900's
+
+Characteristics
+- Expressed misery and unhappiness
+	- However sometimes humourous
+- 12 bar tune (3 4 bar phrases)
+- Strophic fashion
+- Improvised ornamentation
+- Call and response
+	- Pitting groups or individuals against each other
+- Blues scale
+	- Blues notes are flat 3, flat 5, flat 7
+- Groove
+	- Drum shuffle and walking bass
+		- Walking bass is played by bass instrument, where notes outline chords and give a forward motion
+
+#### 12 Bar Blues + Head
+Regular 12 bar blues structure is
+- 1<sup>7</sup> for 4 bars
+- 4<sup>7</sup> for 2 bars
+- 1<sup>7</sup> for 2 bars
+- 5<sup>7</sup> for 1 bar
+- 4<sup>7</sup> for 1 bar
+- 1<sup>7</sup> for 2 bars
+	- Sometimes has turnaround 5<sup>7</sup> as last chord
+
+Billie's Blues head structure
+- Same as normal blues, except last 4<sup>7</sup> is substituted for a 5<sup>7</sup>.
+
+#### Analysis
+Introduction: 4 bars
+- 1<sup>7</sup> for 2 bars, 7<sup>7</sup> for 2 bars
+
+Chorus 1: 12 bars
+- Ensemble only
+
+Chorus 2 (I love my man): 12 bars
+- Billie sings
+- Regula stanza rhythm
+
+Chorus 3 (My man wouldn' gimme no breakfast): 12 bars
+- Billie
+- Irregular rhythms
+
+Chorus 4: 12 bars
+- Clarinet (Artie Shaw) solo
+
+Chorus 5: 12 bars
+- Trumpet (Bunny Berigan) solo
+
+Chorus 6 (Some men like me 'cause I'm happy): 12 bars
+- Billie sings
+
+#### How are Characteristics Portrayed (AMEB Moment)
+Lyrics
+- The express Billie's misery about her husband mistreating her
+	- Semi funny, however
+	- Chorus 6 especially funny
+
+Walking bass
+- Features in this song
+- 1, 3, 5, 6, b7, 6, 5, 3, 1 notes
+
+Blues scale
+- This song uses the blues scale
+
+Improvised ornamentation
+- Many bends, trills and other ornaments used in the singing and the chorus
+- There is extensive ornamentation within the piano accompaniment
+
+AAB Lyric and melodic format
+- Prominent in Chorus 2
+
+#### Instrumentation
+Horns
+- Clarinet
+- Trumpet
+
+Rhythm
+- Piano
+- Guitar
+- Bass
+- Drums
+
+Voice (Billie Holiday)
+
+#### Lead Sheet
+A lead sheet is a score where only the melody line and chord progressions are present
+- Often has rehearsal markers (repeats, signs, da capo, 1st time, etc)
+- Has any lyrical content
+- Identifies which instrument has melody
+- Usually written in the distinct "jazz font"
+
+#### Walking
+Walking means forward motion
+- Usually through bass
+- Outlines chordal structure
+- Usually of purely crotchets
+- Usually a set of notes that are moved around
+
 ### Cottontail
 #### Swing and Big Band
 Big band is an ensemble of 10+ members who play Jazz
