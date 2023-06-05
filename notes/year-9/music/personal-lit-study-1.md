@@ -1,5 +1,6 @@
 ---
 title: Personal Music Lit Study 1
+toc: true
 ---
 
 ## Personal Lit Study
