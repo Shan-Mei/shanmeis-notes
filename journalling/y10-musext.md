@@ -44,6 +44,8 @@ title: Extention Music Journal 2023
   <p>- Continued cramming. Did Billie's Blues and Vivaldi and a bit of Hound Dog. I need to go to state library and borrow some material.</p>
   <h4>T2W6 - 7</h4>
   <p>- Frees, year 10s on exams.</p>
+  <h4>T2W7L2 - 6/6</h4>
+  <p>- Did the exam today.</p>
 
 
 

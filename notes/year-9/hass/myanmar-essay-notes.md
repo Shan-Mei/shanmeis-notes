@@ -181,3 +181,7 @@ Discussion of relevant issues including pertinent examples
 
 Evaluation/assessment/analysis
 - Prove that you understand the stuff
+
+### Reflection and Results
+#### Reflection
+I think that went pretty, well it was literally the same as the first practice essay I did. I overhauled it a bit during the exam. I kinda lost track of time as well and uh ended up having to speed write the last bits of the essay.

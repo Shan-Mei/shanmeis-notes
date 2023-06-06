@@ -1146,3 +1146,7 @@ Horns
 - Violin
 
 Chorus/backup
+
+### Reflection and Results
+#### Reflection
+That was my first academic exam done! Well everything was pretty easy except my brain snapping a couple times during the exam... well in the lit section, turns out we were only meant to answer 2 of the 3 questions... guess what I did. I answered all three. Oh well, it's the last one that I did the worst on, so that probably won't be marked. Well, I finished just on time for all three components. Aural and theory were very easy. I also found it very funny that for the last aural excerpt, I actually played the piece the excerpt was from for my grade 6.
