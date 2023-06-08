@@ -49,6 +49,8 @@ title: Science Journal 2023
   <p>- Did more stuff on the endocrine system and played some gimkit. For once my wifi worked because I swapped spots with someone :')</p>
   <h4>T2W6L4 - 2/6</h4>
   <p>- Mr Norrie took us today, we just finished off worksheets.</p>
+  <h4>T2W7L3 - 8/6</h4>
+  <p>- We did gimkit for the whole time today.</p>
 
 
 

@@ -43,8 +43,10 @@ title: Math Journal 2023
   <p>- Doing volume of shapes. Mathspace tasks</p>
   <h4>T2W6L3 - 31/5</h4>
   <p>- Ms Liu is not here today. We are working through the 9.03 lesson and questions.</p>
-  <h4>T2W7L4 - 1/6</h4>
+  <h4>T2W6L4 - 1/6</h4>
   <p>- Revision lesson. Ms Liu literally went through all the topics again and gave us some more tips and tricks.</p>
+  <h4>T2W7L4 - 8/6</h4>
+  <p>- We did the test, it was very easy. Finished 20 minutes to spare, but I am worried about the exponential dilation question.</p>
 
 
 

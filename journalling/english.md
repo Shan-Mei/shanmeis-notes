@@ -49,6 +49,8 @@ title: English Journal 2023
   <p>- We got more work thrown at as, this time we are writing 3 body paragraphs. Working on ideas and themes.</p>
   <h4>T2W6L4 - 2/6</h4>
   <p>- Going through some activities on themes in Merchant of Venice.</p>
+  <h4>T2W7L3 - 8/6</h4>
+  <p>- We got surprised with having to do the note taking today AAA! Well, I juts yeeted quotes onto my page.</p>
 
 
 

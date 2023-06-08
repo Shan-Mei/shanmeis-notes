@@ -15,4 +15,5 @@ title: Quotes
   <p>We were getting the CAT Task explained to us in Science<br>"Then, fill your containers with the pork. *Class laughs* Sorry, potato cores.<br>- Mr Mort</p>
   <p>My English relief teacher was introducing herself.<br>"My name is Mrs Edwards. But as a teacher I don't get called that. I get called 'Eddie-sensei"<br>- Mrs Sue Edwards</p>
   <p>Mr Rogers was talking to us about his feelings about Elvis Presley<br>"No matter how heterosexual I am (class laughs, Mr Rogers points to the video of Elvis Presley), this man is absolutely gorgeous (class starts screaming)."<br>- Mr Rogers</p>
+  <p>We were playing gimkit amongus.<br>"Just be better"<br>- Mr Mort</p>
 </body>
