@@ -46,6 +46,8 @@ title: Extention Music Journal 2023
   <p>- Frees, year 10s on exams.</p>
   <h4>T2W7L2 - 6/6</h4>
   <p>- Did the exam today.</p>
+  <h4>T2W7L4 - 9/6</h4>
+  <p>- Last free of the semester D:<br>- I spent the period doing the Japanese test.</p>
 
 
 

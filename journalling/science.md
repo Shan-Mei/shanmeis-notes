@@ -51,6 +51,8 @@ title: Science Journal 2023
   <p>- Mr Norrie took us today, we just finished off worksheets.</p>
   <h4>T2W7L3 - 8/6</h4>
   <p>- We did gimkit for the whole time today.</p>
+  <h4>T2W7L4 - 9/6</h4>
+  <p>- Did a practice and haha could not do 1/4 of the paper.</p>
 
 
 
