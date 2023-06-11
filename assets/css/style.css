@@ -39,11 +39,13 @@ iframe {
 a {
     background-color: #FFEDFF;
     color: #DC1D53;
+    border-radius: 8px;
 }
 
 a:hover {
     background-color: #fae1fa;
     color: #bf1b49;
+    border-radius: 8px;
 }
 .footer {
     font-size: smaller;
