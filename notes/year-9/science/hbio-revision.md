@@ -117,3 +117,110 @@ Composition
 Dialysis
 - Putting blood through artificial kidney
 - Veins in arm are connected to a tube and blood goes through a machine
+
+#### Nervous System
+The neuron
+<img src="https://shan-mei.github.io/shanmeis-notes/assets/science/motor-neuron.jpeg" class="osmosis">
+- Neuron has all the cell organelles
+- Dendrites collect information from outside
+- Information collected at cell body
+- Electrical signals go down axon
+- Axon terminal is "connected" to other dendrites
+	- Gap between terminal and next dendrite called synapse
+	- Axon terminal sends neurotransmitter (nt) through a chemical-electrical process
+- Schwann cells are attached to the axon and insulates axon
+	- Faster electrical current
+
+Synapse
+- Where neurons meet
+- A gap where electrical signals cannot pass
+	- Activates synaptic  vessicles which have nt. They are released and they diffuse through gap
+		- Going down concentration gradient
+	- All-or-nothing event
+- Electric impulse = action potential
+- Nt will attach to dendrite receptors
+	- Can travel up to 50km/h
+
+<img src="https://shan-mei.github.io/shanmeis-notes/assets/science/synapse.jpeg" class="osmosis">
+
+Steps
+- Sensory input - Monitor stimuli from outside of body
+- Integrating - interprets sensory input
+- Motor output - response to stimuli - activates effector organs
+
+Nervous systems
+- Central
+	- Made of brain and spine
+	- Receives info from body and sends back
+- Peripheral
+	- Made of everything else
+	- Receives and acts on stimuli
+
+#### Interactions between systems
+Nervous and endocrine systems provide internal communication between cells and coordination of system
+- Nervous
+	- Nerve cells
+	- Impulses
+	- Sending signals from brain -> body
+	- Signal type = Electrical-chemical (action potential/nt)
+	- Speed of signal = Reaches in milliseconds
+	- Duration = Short
+- Endocrine
+	- Glands secrete hormones into bloodstream
+	- Picked up by target hormone
+	- Target responds to hormone
+	- Signal type = chemical (hormones)
+	- Speed = relatively slow, travels in blood
+	- Duration = long-lasting
+
+#### Endocrine system
+Protein receptors
+<img src="https://shan-mei.github.io/shanmeis-notes/assets/science/protien-receptor.jpeg" class="osmosis">
+- Hormones attach to the protein receptors that don't allow things through
+
+Functions
+- Hypothalamus
+	- Base of brain
+	- Functions include homeostasis + more
+	- Links endocrine system to pituitary gland and CNS
+	- Not a gland, are nt
+- Pituitary gland
+	- Below hypothalamus
+	- Master gland
+	- Produces many hormones
+- Thyroid gland
+	- Front of neck
+	- Metabolic waste
+- Parathyroid gland
+	- Back of thyroid gland
+	- Controls blood calcium levels
+- Adrenal gland
+	- Top of kidney
+	- Produces many hormones including adrenaline/epinephrine and cortisol
+	- Fight and flight response
+	- Increases energy levels
+	- Increase metabolism, breathing and heart rate
+- Pancreas
+	- Middle of kidneys
+	- Releases insulin
+		- Glucose -> glycogen
+	- Releases glucagon
+		- Glycogen -> glucose
+	- These two cannot happen at same time because of nervous system's sympathetic response
+- Ovaries
+	- Produces oestrogen and progesterone
+	- Controls menstrual cycle
+- Testes
+	- Produces testosterone
+	- Male characteristics
+
+Negative feedback
+- Hormones regulated by negative feedback
+	- ADH (Antidiuretic hormone) when blood plasma concentration is high
+	- ADH tells kidneys to absorb more water
+
+Response to exercise
+- Needs energy - cellular respiration. Glucose
+- Exercise decreases blood glucose -> pancreas
+- Sweat -> water balance -> ADH
+- Pituitary gland releases endorphins

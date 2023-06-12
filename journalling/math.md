@@ -47,6 +47,8 @@ title: Math Journal 2023
   <p>- Revision lesson. Ms Liu literally went through all the topics again and gave us some more tips and tricks.</p>
   <h4>T2W7L4 - 8/6</h4>
   <p>- We did the test, it was very easy. Finished 20 minutes to spare, but I am worried about the exponential dilation question.</p>
+  <h4>T2W8L1 - 13/6</h4>
+  <p>- We started another python project, this time we get to choose what we do, and in groups.</p>
 
 
 

@@ -49,6 +49,8 @@ title: HaSS Journal 2023
   <p>- Did the test. It was pretty easy, literally just what I did in the practice tests.</p>
   <h4>T2W7L4 - 8/6</h4>
   <p>- Started innovations project about the UN.</p>
+  <h4>T2W8L1- 13/6</h4>
+  <p>- We got our countries assigned to us, Elaine and I are doing Russia. Working through the general information page.</p>
 
 
 

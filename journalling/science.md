@@ -53,6 +53,8 @@ title: Science Journal 2023
   <p>- We did gimkit for the whole time today.</p>
   <h4>T2W7L4 - 9/6</h4>
   <p>- Did a practice and haha could not do 1/4 of the paper.</p>
+  <h4>T2W8L1 - 13/6</h4>
+  <p>- Did revision for tomorrow in class.</p>
 
 
 

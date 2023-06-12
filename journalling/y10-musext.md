@@ -48,6 +48,8 @@ title: Extention Music Journal 2023
   <p>- Did the exam today.</p>
   <h4>T2W7L4 - 9/6</h4>
   <p>- Last free of the semester D:<br>- I spent the period doing the Japanese test.</p>
+  <h4>T2W8L1 - 13/5</h4>
+  <p>- Our first lesson back and Mr Rogers is sick. Finn tutored the 9s in english during the period.</p>
 
 
 
