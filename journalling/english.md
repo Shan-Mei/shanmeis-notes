@@ -51,6 +51,10 @@ title: English Journal 2023
   <p>- Going through some activities on themes in Merchant of Venice.</p>
   <h4>T2W7L3 - 8/6</h4>
   <p>- We got surprised with having to do the note taking today AAA! Well, I juts yeeted quotes onto my page.</p>
+  <h4>T2W8L1 - 13/6</h4>
+  <p>- Did the test. I can't write and recall ideas fast enough.</p>
+  <h4>T2W8L2 - 14/6</h4>
+  <p>- Started watching this super cursed adaptation of Pygamalion. There is so much inappropriate stuff in it. Don't like.</p>
 
 
 

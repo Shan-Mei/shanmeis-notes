@@ -51,6 +51,8 @@ title: HaSS Journal 2023
   <p>- Started innovations project about the UN.</p>
   <h4>T2W8L1- 13/6</h4>
   <p>- We got our countries assigned to us, Elaine and I are doing Russia. Working through the general information page.</p>
+  <h4>T2W8L2 - 14/6</h4>
+  <p>- Started working on country amendments and opinions.</p>
 
 
 
