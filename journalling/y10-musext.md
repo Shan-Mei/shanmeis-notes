@@ -56,6 +56,7 @@ title: Extention Music Journal 2023
   <p>- We had a look at the salsa rhythm.<br>- We continued going through the test paper, didn't finish though.</p>
   <h4>T2W8L4 - 16/6</h4>
   <p>- Finished looking through our test paper. We have been told that we can suggest set works for next term.<br>- Also continued listening to musical segues! Woo!</p>
+  <h4>- We discussed more on set works. And because of that, Noah and Finn annoyed Mr Rogers. We also lisened to William, Leyla and Max do concert pracs.</p>
 
 
 

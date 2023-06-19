@@ -53,6 +53,8 @@ title: HaSS Journal 2023
   <p>- We got our countries assigned to us, Elaine and I are doing Russia. Working through the general information page.</p>
   <h4>T2W8L2 - 14/6</h4>
   <p>- Started working on country amendments and opinions.</p>
+  <h4>T2W9L1 - 19/6</h4>
+  <p>- Tidying up speeches, and we got our hass essays back. I... didn't do quite is well as I'd like. But it's an A so I'll take it.</p>
 
 
 

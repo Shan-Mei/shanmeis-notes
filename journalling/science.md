@@ -61,6 +61,8 @@ title: Science Journal 2023
   <p>- Started CHEM!!! Unfortunately, the first thing that Mr Mort gave us was a valencies quiz...<br>- We started on key terms as a refresher for last year.</p>
   <h4>T2W8L4 - 16/6</h4>
   <p>- Started looking at chem fundamentals.</p>
+  <h4>T2W9L1 - 19/6</h4>
+  <p>- Got our tests back. I got a pretty good mark considering that I was away for half the lessons.<br>- Did gimkit for valencies practice for the rest of the period.</p>
 
 
 

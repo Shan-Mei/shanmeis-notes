@@ -25,6 +25,8 @@ title: Japanese Journal 2023
   <p>- We are grinding EP for preparation for test next week.</p>
   <h4>T2W8L2 - 16/6</h4>
   <p>- Started watching the OZ movie. We will get tests back next week.</p>
+  <h4>T2W9L1 - 19/6</h4>
+  <p>- K先生 was away but we got our tests back. I got the most rigged test scores in the world<br>- Ebihara sensei started teaching us about dialogues and we tried saying sentences in those dialogues... hard.<br>- We did EP for the rest of the period, well, until my computer died.</p>
 
 
 
