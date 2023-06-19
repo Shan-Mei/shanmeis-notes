@@ -48,8 +48,14 @@ title: Extention Music Journal 2023
   <p>- Did the exam today.</p>
   <h4>T2W7L4 - 9/6</h4>
   <p>- Last free of the semester D:<br>- I spent the period doing the Japanese test.</p>
-  <h4>T2W8L1 - 13/5</h4>
+  <h4>T2W8L1 - 12/5</h4>
   <p>- Our first lesson back and Mr Rogers is sick. Finn tutored the 9s in english during the period.</p>
+  <h4>T2W8L2 - 13/5</h4>
+  <p>- We looked at Leyla's elevator music repertoire and sang it.<br>- Started going through our exam.</p>
+  <h4>T2W8L3 - 15/6</h4>
+  <p>- We had a look at the salsa rhythm.<br>- We continued going through the test paper, didn't finish though.</p>
+  <h4>T2W8L4 - 16/6</h4>
+  <p>- Finished looking through our test paper. We have been told that we can suggest set works for next term.<br>- Also continued listening to musical segues! Woo!</p>
 
 
 

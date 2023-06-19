@@ -53,8 +53,14 @@ title: Science Journal 2023
   <p>- We did gimkit for the whole time today.</p>
   <h4>T2W7L4 - 9/6</h4>
   <p>- Did a practice and haha could not do 1/4 of the paper.</p>
-  <h4>T2W8L1 - 13/6</h4>
+  <h4>T2W8L1 - 12/6</h4>
   <p>- Did revision for tomorrow in class.</p>
+  <h4>T2W8L2 - 13/6</h4>
+  <p>- Did test. Was quite easy apart from the stuff that I forgot.</p>
+  <h4>T2W8L3 - 15/6</h4>
+  <p>- Started CHEM!!! Unfortunately, the first thing that Mr Mort gave us was a valencies quiz...<br>- We started on key terms as a refresher for last year.</p>
+  <h4>T2W8L4 - 16/6</h4>
+  <p>- Started looking at chem fundamentals.</p>
 
 
 

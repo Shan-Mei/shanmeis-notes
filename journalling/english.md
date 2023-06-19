@@ -55,6 +55,10 @@ title: English Journal 2023
   <p>- Did the test. I can't write and recall ideas fast enough.</p>
   <h4>T2W8L2 - 14/6</h4>
   <p>- Started watching this super cursed adaptation of Pygamalion. There is so much inappropriate stuff in it. Don't like.</p>
+  <h4>T2W8L3 - 15/6</h4>
+  <p>- Finished watching it. The second half is actually kinda funny. It's like the kind of movie that's so bad that it's funny.</p>
+  <h4>T2W8L4 - 16/6</h4>
+  <p>- Started our new assignment, which is on adapting Shakespeare plays.</p>
 
 
 

@@ -23,6 +23,8 @@ title: Japanese Journal 2023
   <p>- Turns out our test got changed a fair bit. We now have the whole test in 1 period, next week on Friday.<br>- We got given our writing prompt. We have to write about a matsuri and our experiences at it.</p>
   <h4>T2W6L2 - 2/6</h4>
   <p>- We are grinding EP for preparation for test next week.</p>
+  <h4>T2W8L2 - 16/6</h4>
+  <p>- Started watching the OZ movie. We will get tests back next week.</p>
 
 
 

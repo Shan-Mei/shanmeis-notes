@@ -51,6 +51,10 @@ title: Math Journal 2023
   <p>- We started another python project, this time we get to choose what we do, and in groups.</p>
   <h4>T2W8L3 - 14/6</h4>
   <p>- Did volume of pyramids, and doing 5.05. I am catching up with yesterday's stuff.</p>
+  <h4>T2W8L4 - 15/6</h4>
+  <p>- We revised congruency. We are working through 7c of the worksheets in compass.</p>
+  <h4>T2W9L1 - 19/6</h4>
+  <p>- Ms Liu isn't here, we got no new stuff to work on. I just walked myself through the spheres unit.</p>
 
 
 
