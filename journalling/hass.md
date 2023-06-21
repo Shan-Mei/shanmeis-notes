@@ -55,6 +55,10 @@ title: HaSS Journal 2023
   <p>- Started working on country amendments and opinions.</p>
   <h4>T2W9L1 - 19/6</h4>
   <p>- Tidying up speeches, and we got our hass essays back. I... didn't do quite is well as I'd like. But it's an A so I'll take it.</p>
+  <h4>T2W9L2 - 20/6</h4>
+  <p>- Leart how to Russian accent in prep for speech.</p>
+  <h4>T2W9L3 - 21/6</h4>
+  <p>- Practiced Russian for the duration that I was in class.</p>
 
 
 

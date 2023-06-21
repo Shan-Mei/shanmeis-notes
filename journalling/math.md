@@ -55,6 +55,10 @@ title: Math Journal 2023
   <p>- We revised congruency. We are working through 7c of the worksheets in compass.</p>
   <h4>T2W9L1 - 19/6</h4>
   <p>- Ms Liu isn't here, we got no new stuff to work on. I just walked myself through the spheres unit.</p>
+  <h4>T2W9L2 - 20/6</h4>
+  <p>- We got the period to work on coding. Made some progress. Also changed VS Code's theme to catpuccino :D</p>
+  <h4>T2W9L3 - 21/6</h4>
+  <p>- Revising similarity tests.</p>
 
 
 

@@ -29,6 +29,8 @@ title: Aquatic Recreation Journal 2023
   <p>- We finished our kahoot, we listened to another group and the other presenting groups found excuses to not present. So literally free period.</p>
   <h4>T2W8L2 - 16/6</h4>
   <p>- Went through the last powerpoint and started watching My Octopus Teacher</p>
+  <h4>T2W9L1 - 20/6</h4>
+  <p>- Got marks back and continued watching documentary.</p>
 
 
 

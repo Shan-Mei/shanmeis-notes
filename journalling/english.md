@@ -59,6 +59,8 @@ title: English Journal 2023
   <p>- Finished watching it. The second half is actually kinda funny. It's like the kind of movie that's so bad that it's funny.</p>
   <h4>T2W8L4 - 16/6</h4>
   <p>- Started our new assignment, which is on adapting Shakespeare plays.</p>
+  <h4>T2W9L1 - 20/6</h4>
+  <p>- Continued assignment, I drafted up ideas for both Coriolanus and MOV</p>
 
 
 
