@@ -1,14 +1,14 @@
 @font-face {
     font-family: Brandon;
-    src: url("../Brandon.ttf");
+    src: url("../../assets/Brandon.ttf");
 }
 @font-face {
     font-family: Yeseva One;
-    src: url("../YesevaOne-Regular.ttf");
+    src: url("../../assets/YesevaOne-Regular.ttf");
 }
 @font-face {
     font-family: Brightwall;
-    src: url("../Brightwall.ttf");
+    src: url("../../assets/Brightwall.ttf");
 }
 body {
     margin-left: 100px;
