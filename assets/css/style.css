@@ -1,14 +1,14 @@
 @font-face {
     font-family: Brandon;
-    src: url("/shanmeis-notes/assets/Brandon.ttf");
+    src: url("https://shanmeis-notes.toomwn.xyz/assets/Brandon.ttf");
 }
 @font-face {
     font-family: Yeseva One;
-    src: url("/shanmeis-notes/assets/YesevaOne-Regular.ttf");
+    src: url("https://shanmeis-notes.toomwn.xyz/assets/YesevaOne-Regular.ttf");
 }
 @font-face {
     font-family: Brightwall;
-    src: url("/shanmeis-notes/assets/Brightwall.ttf");
+    src: url("https://shanmeis-notes.toomwn.xyz/assets/Brightwall.ttf");
 }
 body {
     margin-left: 100px;
