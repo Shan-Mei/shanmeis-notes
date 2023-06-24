@@ -65,6 +65,8 @@ title: Science Journal 2023
   <p>- Got our tests back. I got a pretty good mark considering that I was away for half the lessons.<br>- Did gimkit for valencies practice for the rest of the period.</p>
   <h4>T2W9L2 - 20/6</h4>
   <p>- Drew 210 crosses then played gimkit.</p>
+  <h4>T2W9L3 - 22/6</h4>
+  <p>- We learnt about bonding, naming and practiced balancing equations.</p>
 
 
 

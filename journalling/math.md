@@ -59,6 +59,8 @@ title: Math Journal 2023
   <p>- We got the period to work on coding. Made some progress. Also changed VS Code's theme to catpuccino :D</p>
   <h4>T2W9L3 - 21/6</h4>
   <p>- Revising similarity tests.</p>
+  <h4>T2W9L4 - 22/6</h4>
+  <p>- Had a look at scale factors and their effect on area. Doing ms 4.03 and 4.02</p>
 
 
 
