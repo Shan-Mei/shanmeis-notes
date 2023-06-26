@@ -67,6 +67,8 @@ title: Science Journal 2023
   <p>- Drew 210 crosses then played gimkit.</p>
   <h4>T2W9L3 - 22/6</h4>
   <p>- We learnt about bonding, naming and practiced balancing equations.</p>
+  <h4>T2W9L4 - 23/6</h4>
+  <p>- We balanced more equations and learnt acid bases.</p>
 
 
 

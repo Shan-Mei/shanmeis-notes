@@ -11,4 +11,4 @@ title: Shan-Mei's Notes!
   <p>I am affiliated with the lovely <a href="https://shan-mei.github.io/shanmeis-notes/ranting/the-town.html">OOM Town.</a>
 
   <h3>Development Status</h3>
-  <p>29/5/23 - Completely overhauled some sections, added some more notes. I am slowly moving away from html and edging towards markdown for my newer pages. I changed the index page (as you can see). Thinking of doing some more user interactive stuff (music stuff, since I can't do any other arts). Also thinking of adding an email subscribe list so I can notify people when I send out notes. I feel my website has reached the point where there will be not much new stuff design wise - the website is moving along a steady pace of becoming bigger.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here.</a></p>
+  <p>24/6/23 - We moved to a custom subdomain woo! Everything now redirects to the new site.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here.</a></p>

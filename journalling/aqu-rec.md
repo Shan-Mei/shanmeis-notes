@@ -31,6 +31,8 @@ title: Aquatic Recreation Journal 2023
   <p>- Went through the last powerpoint and started watching My Octopus Teacher</p>
   <h4>T2W9L1 - 20/6</h4>
   <p>- Got marks back and continued watching documentary.</p>
+  <h4>T2W9L2 - 23/6</h4>
+  <p>- We joined with y10 spec sport and played badminton.</p>
 
 
 
