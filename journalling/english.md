@@ -65,6 +65,8 @@ title: English Journal 2023
   <p>- Assignment. I researched stuff about childhood experiences of racism etc, and formed some ideas for the story.</p>
   <h4>T2W9L4 - 23/6</h4>
   <p>- Assignment but I forgot my laptop so I just drafted with paper</p>
+  <h4>T2W10L3 - 29/6</h4>
+  <p>- I did my validation and got my marks for the essay back aand... I got an A!!! Much happy.</p>
 
 
 

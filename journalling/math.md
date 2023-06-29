@@ -61,6 +61,8 @@ title: Math Journal 2023
   <p>- Revising similarity tests.</p>
   <h4>T2W9L4 - 22/6</h4>
   <p>- Had a look at scale factors and their effect on area. Doing ms 4.03 and 4.02</p>
+  <h4>T2W10L4 - 29/6</h4>
+  <p>- Did our math presentations and ate Skittles for the period.</p>
 
 
 

@@ -61,6 +61,8 @@ title: HaSS Journal 2023
   <p>- Practiced Russian for the duration that I was in class.</p>
   <h4>T2W9L4 - 22/6</h4>
   <p>- Had the UN Board meeting. I used my faked Russian accent and I couldn't stop laughing. Oh well ¯\_(ツ)_/¯</p>
+  <h4>T2W10L4 - 29/6</h4>
+  <p>- Learnt a bit about philosophy.</p>
 
 
 

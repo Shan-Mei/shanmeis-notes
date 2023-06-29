@@ -69,6 +69,8 @@ title: Science Journal 2023
   <p>- We learnt about bonding, naming and practiced balancing equations.</p>
   <h4>T2W9L4 - 23/6</h4>
   <p>- We balanced more equations and learnt acid bases.</p>
+  <h4>T2W10L3</h4>
+  <p>- Literally spent the period marking a worksheet I didn't do.</p>
 
 
 

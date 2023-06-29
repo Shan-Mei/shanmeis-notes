@@ -60,7 +60,11 @@ title: Extention Music Journal 2023
   <p>- We discussed more on set works. And because of that, Noah and Finn annoyed Mr Rogers. We also lisened to William, Leyla and Max do concert pracs.</p>
   <h4>T2W9L3 - 22/6</h4>
   <p>- We sang Yesterday. We then listened to Haydn play a Bach and Ceicilia play Gargoyle in all her glory.</p>
-  <h4>- We talked about set works again and the year 9s got our rankings back.</p>
+  <h4>T2W9L4 - 23/6</h4>
+  <p>- We talked about set works again and the year 9s got our rankings back.</p>
+  <h4>T2W10L3 - 29/6</h4>
+  <p>- Mr Rogers went up north so we spent the period composing.</p>
+
 
 
 
