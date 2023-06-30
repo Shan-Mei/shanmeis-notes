@@ -47,5 +47,9 @@ title: Hol Goals 1
 - Ask about the collab work
 - Aimons
 
+#### Theory
+1. Complete half of course
+2. Complete God Rest Ye Merry Gentlemen
+
 #### Other things
 1. Draw town
