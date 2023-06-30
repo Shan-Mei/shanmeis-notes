@@ -33,6 +33,8 @@ title: Aquatic Recreation Journal 2023
   <p>- Got marks back and continued watching documentary.</p>
   <h4>T2W9L2 - 23/6</h4>
   <p>- We joined with y10 spec sport and played badminton.</p>
+  <h4>T2W10L2 - 30/6</h4>
+  <p>- We played sport and chilled for the lesson.</p>
 
 
 

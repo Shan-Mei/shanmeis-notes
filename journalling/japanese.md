@@ -29,6 +29,8 @@ title: Japanese Journal 2023
   <p>- K先生 was away but we got our tests back. I got the most rigged test scores in the world<br>- Ebihara sensei started teaching us about dialogues and we tried saying sentences in those dialogues... hard.<br>- We did EP for the rest of the period, well, until my computer died.</p>
   <h4>T2W9L2 - 23/6</h4>
   <p>- We finished watching OZ</p>
+  <h4>T2W10L2 - 30/6</h4>
+  <p>- We tried to watch a documentary on making a Japanese steel used to make swords. However 2 minutes in, there was a powercut.<br>- We then proceeded to do whatever we wanted (I did origami).<br>- It was K先生's last day here so we said bye.</p>
 
 
 

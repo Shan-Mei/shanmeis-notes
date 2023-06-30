@@ -64,6 +64,8 @@ title: Extention Music Journal 2023
   <p>- We talked about set works again and the year 9s got our rankings back.</p>
   <h4>T2W10L3 - 29/6</h4>
   <p>- Mr Rogers went up north so we spent the period composing.</p>
+  <h4>T2W10L4 - 30/6</h4>
+  <p>- Continued working on composition</p>
 
 
 
