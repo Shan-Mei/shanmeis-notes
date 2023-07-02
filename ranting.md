@@ -16,5 +16,5 @@ title: Ranting
   <h4>News articles</h4>
   <p>View all articles <a href="https://shan-mei.github.io/shanmeis-notes/ranting/news.html">here.</a></p>
   <h4>Lists of Pieces</h4>
-  <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/angels-pieces.html">Chorus Angelicus pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/cantori-pieces.html">Schola Cantori pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/chorale-pieces.html">Chorale pieces</a></p>
+  <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/angels-pieces.html">Chorus Angelicus pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/cantori-pieces.html">Schola Cantori pieces</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/chorale-pieces.html">Chorale pieces</a><br><a href="/ranting/piano-pieces.html">Piano Repertoire</a></p>
 </body>
