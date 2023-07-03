@@ -2,7 +2,6 @@
 title: The Town
 ---
 
-<body>
   <h2>The "Town"</h2>
   <p>In reference to <a href="https://spicata.99000000.xyz/theTown.html">Spicata</a>, <a href="https://ed.toomwn.xyz/04-03-2023-the-town-analogy/">Edward</a>, <a href="https://nottaro.github.io/littleroot/Writings/town/">Jonathan</a>, <a href="https://pi-thagoras.github.io/the-chicken-pen/The-Town.html">π-thagoras</a>, <a href="https://harzavad.github.io/the-merchant/the-town.html">Donal</a>, <a href="https://reapers-notes-v3.pages.dev/notes/The-Town">Reaper</a> and <a href="https://rewind789.github.io/wanderer-archive/the-town.html">Kiefer's</a> "articles."</p>
   <h4>How I ended up here</h4>
@@ -33,4 +32,4 @@ title: The Town
   <p>Ajay is our third 4th gen member. He lives in a very fun and colourful house of quartz and likes to share his works as he is "very wise and so there is immense knowledge." He is very well versed in leadership and the academics. He is a very nice person who likes to support people and the community. He also enjoys ranting about different things but he tends to... enjoy hiding them from the public. However, the majority of his house is unlocked and containing useful information. His house is <a href="https://baju-s.toomwn.xyz/">here.</a>
   <p>Kat is the 4th 4th generation towner. She is very cool, but I don't know that much about her because we haven't talked that much. But she is very cool, still. She excells in everything (but spec, as it seems), and she is the best designer in the town, being extremely popular. She is also our psychologist. Her house is very well furnished, with many miscellaneous bits and bobs lying around. She also has a strange liking for clocks. Her house is <a href="https://coreonett.notion.site/coreonett/Year-11-Notes-6978dbec99e943649a3a0773b2ee0587">here</a></p>
   <p>This is all the people in the city for now. Hopefully more settlers come in.</p>
-</body>
+
