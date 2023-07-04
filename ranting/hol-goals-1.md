@@ -25,13 +25,9 @@ title: Hol Goals 1
 4. Study ahead!
 
 #### Piano
-1. Finish Troika
-2. Learn another page of The Lark
-3. Fix Bach and finish another 2/3 page
-4. Fix Pathetique and finish Mvt 1 + do 1 - 2 more pages of mvt 2
-5. Learn another page and a half of Debussy
-6. Look at LMus stuff and start listing repertoire
-7. Start on general knowledge
+1. Do whatever my teacher tells me to do
+2. ~~Look at LMus stuff and start listing repertoire~~
+3. Start on general knowledge
 
 #### Violin
 1. Work on exercises
@@ -53,3 +49,4 @@ title: Hol Goals 1
 
 #### Other things
 1. Draw town
+2. ~~Make MacDowell playlist~~
