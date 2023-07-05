@@ -7,21 +7,21 @@ title: Hol Goals 1
 1. Year 8 revision booklet
 2. Worksheets from class
 3. Revising valencies
-4. Upload year 8 chem and physics notes
-5. Sort folder
+4. Upload year 8 ~~chem~~ and physics notes
+5. ~~Sort folder~~
 6. Study ahead!
 
 #### Japanese
-1. Do EP task
+1. ~~Do EP task~~
 2. Revise flashcards
 3. Add notes on Sem 1 material
-4. Sort folder
+4. ~~Sort folder~~
 5. Study ahead!
 
 #### Math
 1. Finish passion project
 2. Read algebra and calc book
-3. Get a folder and sort files
+3. ~~Get a folder and sort files~~
 4. Study ahead!
 
 #### Piano
