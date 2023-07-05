@@ -5,7 +5,7 @@ title: Year 8 Chemistry
 ## Year 8 Chemistry
 
 #### Groups and Charges
-Alkali metals: +1  
+Alkali metals: 1+  
 Alkali earth metals: 2+  
 Halogens: 1-  
 Noble gases: nothing  
