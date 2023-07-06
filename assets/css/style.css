@@ -80,5 +80,5 @@ ul, ol {
 }
 
 .poem {
-    text-align: center;
+    text-align: center !important;
 }
