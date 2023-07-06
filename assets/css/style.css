@@ -31,10 +31,6 @@ p {
     font-family: 'Brandon';
 }
 
-div {
-    text-align: left;
-}
-
 .poem {
     text-align: center !important;
 }
@@ -61,6 +57,8 @@ a:hover {
     text-align: center;
     font-family: Brandon;
     margin: 0px;
+    position: absolute;
+    bottom: 0;
 }
 .home {
     color: #28007D;
