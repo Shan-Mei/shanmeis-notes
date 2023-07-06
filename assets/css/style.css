@@ -31,6 +31,14 @@ p {
     font-family: 'Brandon';
 }
 
+div {
+    text-align: left;
+}
+
+.poem {
+    text-align: center !important;
+}
+
 iframe {
     width: 900px;
     height: 500px;
@@ -79,6 +87,3 @@ ul, ol {
     width: 60%;
 }
 
-.poem {
-    text-align: center !important;
-}
