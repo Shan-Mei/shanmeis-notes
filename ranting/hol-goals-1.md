@@ -4,10 +4,10 @@ title: Hol Goals 1
 
 ## 2023 T2 - T3 Holiday Goals and Tasks
 #### Science
-1. Year 8 revision booklet
+1. ~~Year 8 revision booklet~~
 2. Worksheets from class
 3. Revising valencies
-4. Upload year 8 ~~chem~~ and physics notes
+4. ~~Upload year 8 chem and physics notes~~
 5. ~~Sort folder~~
 6. Study ahead!
 
@@ -19,7 +19,7 @@ title: Hol Goals 1
 5. Study ahead!
 
 #### Math
-1. Finish passion project
+1. ~~Finish passion project~~
 2. Read algebra and calc book
 3. ~~Get a folder and sort files~~
 4. Study ahead!
@@ -35,18 +35,19 @@ title: Hol Goals 1
 3. Start on Schindler's List and Debussy and Faure
 
 #### Oboe
-1. Continue working on Debussy and Toreador's song
+1. Do whatever my teacher tells me to do
 
 #### Composing
 - Haiku
 - Celtic Forest
-- Ask about the collab work
+- ~~Ask about the collab work~~
 - Aimons
 
 #### Theory
 1. Complete half of course
-2. Complete God Rest Ye Merry Gentlemen
+2. Complete Comfort ye
 
 #### Other things
-1. Draw town
+1. ~~Draw town~~
 2. ~~Make MacDowell playlist~~
+3. Make Faure playlist
