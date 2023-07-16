@@ -15,7 +15,7 @@ Hello, this is where I store all my music stuff, like playlists, performances an
 <a href="https://open.spotify.com/playlist/7zZCk3saZYwoE5LGdDrEnj?si=2f08387c060d4951">My LMusA repertoire</a>
 
 #### Performances
-<a href="https://shanmeis-notes.toomwn.xyz/arts/music/playlists.html">Performances home</a>  
+<a href="https://shanmeis-notes.toomwn.xyz/arts/music/performances.html">Performances home</a>  
 <a href="https://youtu.be/xnFndkmPveM">Wayacomp 2022 - Aetherius</a>  
 <a href="https://youtu.be/DD6Z9Sak9nE">Suite Bergamasque - Prelude</a>
 
