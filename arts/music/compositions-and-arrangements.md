@@ -9,4 +9,4 @@ Where I store notes, files and pdfs of my compositions and arrangements.
 (null)
 
 #### Arrangements
-<a href="https://shanmeis-notes.toomwn.xyz/arts/music/compositions-and-arrangements/aimons-nous-et-dormons.html>Aimons nous et dormons</a>  
+<a href="https://shanmeis-notes.toomwn.xyz/arts/music/compositions-and-arrangements/aimons-nous-et-dormons.html">Aimons nous et dormons</a>  
