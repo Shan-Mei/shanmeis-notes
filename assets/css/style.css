@@ -19,7 +19,7 @@ body {
     margin-right: 100px;
 }
 
-html[lang="en"] h1 {
+h1 {
     font-family: 'Brightwall';
     text-align: center;
     color: #28007D;
@@ -27,11 +27,11 @@ html[lang="en"] h1 {
     font-weight: normal;
 }
 
-html[lang="en"] h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     font-family: 'Yeseva One';
 }
 
-html[lang="en"] p {
+p {
     font-family: 'Brandon';
 }
 
