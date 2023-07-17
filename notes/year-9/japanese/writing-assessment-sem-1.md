@@ -1,3 +1,7 @@
+---
+title: Japanese Y9 Sem 1 writing
+---
+
 ## ぎおなつる - Writing
 
 #### Writing
