@@ -10,10 +10,6 @@
     font-family: Brightwall;
     src: url("../../assets/Brightwall.ttf");
 }
-@font-face {
-    font-family: Mincho;
-    src: url("../../assets/Mincho.ttf");
-
 body {
     margin-left: 100px;
     margin-right: 100px;
