@@ -4,13 +4,13 @@ title: Aimons nous et Dormons
 
 ## Aimons nous et Dormons
 #### Musescore File
-<a href="/shanmeis-notes/assets/music/Aimons nous et dormons.mscz" download></a>
+<a href="https://shanmeis-notes.toomwn.xyz/assets/music/Aimons nous et dormons.mscz" download>Download?</a>
 
 #### PDF
-<iframe src="/shanmeis-notes/assets/music/Aimons nous et dormons.pdf"></iframe>
+<iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/Aimons nous et dormons.pdf"></iframe>
 
 #### MP3
-<a href="/shanmeis-notes/assets/music/Aimons nous et dormons.mp3" download></a>
+<a href="https://shanmeis-notes.toomwn.xyz/assets/music/Aimons nous et dormons.mp3" download>Download?</a>
 
 #### Performance notes
 - Melody is passed around parts in 4 - 8 bar chunks
