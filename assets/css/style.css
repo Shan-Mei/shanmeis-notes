@@ -35,10 +35,6 @@ p {
     font-family: 'Brandon';
 }
 
-html[lang="ja"] p {
-    font-family: 'Mincho';
-}
-
 .poem {
     text-align: center !important;
 }
