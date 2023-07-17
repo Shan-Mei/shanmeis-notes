@@ -10,12 +10,16 @@
     font-family: Brightwall;
     src: url("../../assets/Brightwall.ttf");
 }
+@font-face {
+    font-family: Mincho;
+    src: url("../../assets/Mincho.ttf");
+
 body {
     margin-left: 100px;
     margin-right: 100px;
 }
 
-h1 {
+html[lang="en"] h1 {
     font-family: 'Brightwall';
     text-align: center;
     color: #28007D;
@@ -23,12 +27,16 @@ h1 {
     font-weight: normal;
 }
 
-h2, h3, h4, h5, h6 {
+html[lang="en"] h2, h3, h4, h5, h6 {
     font-family: 'Yeseva One';
 }
 
-p {
+html[lang="en"] p {
     font-family: 'Brandon';
+}
+
+html[lang="ja"] p {
+    font-family: 'Mincho';
 }
 
 .poem {
