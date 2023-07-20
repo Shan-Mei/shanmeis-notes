@@ -4,6 +4,25 @@ title: Math Journal 2023
 
 <body>
   <h2>Math Journal</h2>
+  <h3>Term 3</h3>
+  <h4>T3W1L3 - 6/20</h4>
+  <p>- Revising Trig and doing 6.02 on ms</p>
+  <h4>T3W1L4 - 7/20</h4>
+  <p>- Revising pythagoras and doing 7.09 on ms. Can also do trig applications</p>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Continued with solving linear equations. Doing the next Mathspace "taks"</p>
