@@ -6,7 +6,7 @@ title: English Journal 2023
   <h2>
     English Journal
   </h2>
-  <h3>Term 3</h3>
+  <h3>Term 3 - 19/7</h3>
   <h4>T3W1L2</h4>
   <p>- Did some debates on whether technology is a help or hindrance and a debate on whether humans are special.</p>
 
