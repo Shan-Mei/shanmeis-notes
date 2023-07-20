@@ -4,6 +4,28 @@ title: HaSS Journal 2023
 
 <body>
   <h2>HaSS Journal</h2>
+  <h3>Term 3</h3>
+  <h4>T3W1L3</h4>
+  <p>- Made an infographic on one of the 7 key concepts of geography</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- We didn't get to play the games as we were promised. We went through 8.1</p>
