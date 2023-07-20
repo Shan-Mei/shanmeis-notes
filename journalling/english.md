@@ -6,6 +6,40 @@ title: English Journal 2023
   <h2>
     English Journal
   </h2>
+  <h3>Term 3</h3>
+  <h4>T3W1L2</h4>
+  <p>- Did some debates on whether technology is a help or hindrance and a debate on whether humans are special.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L2 - 26/2</h4>
   <p>- We did an introduction to Shakespeare with lots of different activities including a party sim... it was most definitely a sad party</p>
