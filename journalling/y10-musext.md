@@ -5,6 +5,23 @@ title: Extention Music Journal 2023
 <body>
   <h2>Year Ten Music Ext Journal</h2>
   <p>Yes. I accelerated. I'm just that cool. (We don't talk about how I'm decelerating next year)</p>
+  <h3>Term 3</h3>
+  <h4>T3W1L3 - 20/7</h4>
+  <p>- Listened to a musical segue and sang autumn leaves</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Dang I was meant to miss this lesson because of the Anzac rehearsal. However we went to the rehearsal and Ms Christmass told us there was no point in rehearsing because the sound crew wasn't there.<br>- In class, we sang through the sing and sign assessment and Mr Rogers told us about our concert prac stuff. I have been allowed to do piano :D. Thinking of playing Prelude from Suite Bergamasque.</p>
