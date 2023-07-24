@@ -1,5 +1,5 @@
 ---
-title: Class notes: Y9 Geography
+title: Class notes - Y9 Geography
 ---
 
 ### Key concepts
