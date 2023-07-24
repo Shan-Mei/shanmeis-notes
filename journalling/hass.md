@@ -5,8 +5,10 @@ title: HaSS Journal 2023
 <body>
   <h2>HaSS Journal</h2>
   <h3>Term 3</h3>
-  <h4>T3W1L3 - 19/6</h4>
+  <h4>T3W1L3 - 19/7</h4>
   <p>- Made an infographic on one of the 7 key concepts of geography</p>
+  <h4>T3W1L4 - 20/7</h4>
+  <p>- Ellen joined our class and Miss Carter took us for relief.<br>- We learned about the four spheres of earth and the basics of an ecosystem.</p>
 
 
 
