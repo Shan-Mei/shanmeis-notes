@@ -9,6 +9,8 @@ title: Math Journal 2023
   <p>- Revising Trig and doing 6.02 on ms</p>
   <h4>T3W1L4 - 20/7</h4>
   <p>- Revising pythagoras and doing 7.09 on ms. Can also do trig applications</p>
+  <h4>T3W2L1 - 24/7</h4>
+  <p>- My group finally presented our presentation, and we did coding for the rest of the period.</p>
   
 
 
