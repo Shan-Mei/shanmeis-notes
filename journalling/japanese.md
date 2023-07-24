@@ -4,6 +4,27 @@ title: Japanese Journal 2023
 
 <body>
   <h2>Japanese Journal</h2>
+  <h3>Term 3</h3>
+  <h4>T3W2L1 - 24/7</h4>
+  <p>- Turns out there is a seating plan<br>- Doing iiTomo Pages 3 - 9<br>- We learnt some new kanji and practice our katakana then we watched a video on how Japanese kids get to school</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- I did the test I was meant to do last term. I- did not quite finish, unfortunately.<br>- I overheard my class talking about a speaking assessment, I will need to find out about it.</p>
