@@ -9,6 +9,8 @@ title: HaSS Journal 2023
   <p>- Made an infographic on one of the 7 key concepts of geography</p>
   <h4>T3W1L4 - 20/7</h4>
   <p>- Ellen joined our class and Miss Carter took us for relief.<br>- We learned about the four spheres of earth and the basics of an ecosystem.</p>
+  <h4>T3W2L1</h4>
+  <p>- We worked on 1.3 and 1.4. 1.4 needs to be done.</p>
 
 
 
