@@ -8,6 +8,8 @@ title: Extention Music Journal 2023
   <h3>Term 3</h3>
   <h4>T3W1L3 - 20/7</h4>
   <p>- Listened to a musical segue and sang autumn leaves</p>
+  <h4>T3W2L1 - 24/7</h4>
+  <p>- Went through some chords, we pestered Finn about his lack of wheel, we went through the assessment outline and revised period compositions.</p>
 
 
 
