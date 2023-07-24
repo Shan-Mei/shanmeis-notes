@@ -2,7 +2,7 @@
 title: Class notes - Y9 Geography
 ---
 
-### Key concepts
+### 1.1 - Key concepts
 #### Space
 Significance of location and spatial distribution  
 How people organise and manage the spaces  
@@ -30,7 +30,7 @@ The way geographical phenomena and problems can be examined at spatial levels
 #### Sustainability
 Capacity of the environment to continue supporting living things into the future
 
-### 4 Spheres of Earth
+### 1.2 - 4 Spheres of Earth
 #### Geosphere/Lithosphere
 Rocks and minerals of earth
 - If its made of solid earth, its part of the geosphere
@@ -59,7 +59,7 @@ Split into many different sub-spheres
 - Thermosphere
 - Exosphere
 
-### Ecosystems
+### 1.2 - Ecosystems
 A self-sustaining system of living organisms which interact with each other and non-living things
 - Tropical rainforest
 
@@ -88,3 +88,13 @@ Includes biogeochemical process
 
 #### Structure
 What makes up an ecosystem
+
+### 1.3 - Key terms in geography
+<img src="https://shanmeis-notes.toomwn.xyz/assets/hass/geography-key-terms.png">
+
+### 1.4 - Revision
+Outline the four main spheres of an ecosystem (2 marks): The four main spheres of an ecosystem is the lithosphere, the biosphere, the hydrosphere and the atmosphere. The lithosphere is comprised of solid, non living things. The biosphere is made of living things, the hydrosphere are liquids, and the atmosphere are the gasses.  
+Define the term ecosystem and outline the structure of an ecosystem. (2 marks): An ecosystem is a self-sustaining system of living organisms which interact with each other and non-living things. The structure of an ecosystem comprises of autotrophs, heterotrophs and saprotrophs  
+With reference to two components in the below diagram, outline the dynamics of an ecosystem and how components are interconnected: The components, fauna and vegetation, are interconnected in the dynamics of an ecosystem. Fauna will often eat vegetation that grows. All the components of the ecosystem dynamics are interconnected, by the components all directly effecting each other.  
+<img src="https://shanmeis-notes.toomwn.xyz/assets/hass/1.4-q3-geography.png">  
+Using examples, distinguish between the terms ‘abiotic’ and ‘biotic’. (3 marks): Abiotic factors are the non-living things that influence an ecosystem. Biotic factors are the living things within the ecosystem. Climate is part of the abiotic section, and animals and plants are part of the biotic section.
