@@ -11,6 +11,8 @@ title: Math Journal 2023
   <p>- Revising pythagoras and doing 7.09 on ms. Can also do trig applications</p>
   <h4>T3W2L1 - 24/7</h4>
   <p>- My group finally presented our presentation, and we did coding for the rest of the period.</p>
+  <h4>T3W2L2 - 25/7</h4>
+  <p>- Ms Liu drew a funny looking bird that looked like a fish for math today.<br>- Doing MS Applications to trig</p>
   
 
 
