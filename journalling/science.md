@@ -7,6 +7,37 @@ title: Science Journal 2023
   <h3>Term 3</h3>
   <h4>T3W2L1 - 24/7</h4>
   <p>- I caught up on Lewis dot diagrams and we learned coloured substances. We played Gimkit to practice finding colours.</p>
+  <h4>T3W2L2 - 25/7</h4>
+  <p>- We learnt about observations in reactions.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   <h3>Term 2</h3>
   <h4>T2W1L1 - 24/4</h4>
   <p>- Worked through osmosis and diffusion. Just took notes the whole of the class</p>
