@@ -12,4 +12,4 @@ title: Shan-Mei's Notes!
   <p>I am affiliated with the lovely <a href="https://shan-mei.github.io/shanmeis-notes/ranting/the-town.html">OOM Town.</a>
 
   <h3>Development Status</h3>
-  <p>24/6/23 - We moved to a custom subdomain woo! Everything now redirects to the new site.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here.</a></p>
+  <p>26/7/23 - I added a couple more sections. Behold the <a href="https://shanmeis-notes.toomwn.xyz/arts.html">arts section</a>, where I throw stuff that I create for fun (mostly composing) I also have a class notes section, this you'll have to find yourself since there are no links to it.<br>View full status <a href="https://shan-mei.github.io/shanmeis-notes/dev-stat.html">here.</a></p>
