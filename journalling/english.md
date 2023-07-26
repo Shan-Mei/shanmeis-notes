@@ -11,6 +11,8 @@ title: English Journal 2023
   <p>- Did some debates on whether technology is a help or hindrance and a debate on whether humans are special.</p>
   <h4>T3W2L1 - 25/7</h4>
   <p>- Started reading the time machine and going through a ppt</p>
+  <h4>T3W2L2 - 26/6</h4>
+  <p>- Going through the history of Sci Fi ppt and making a timeline on key texts</p>
 
 
 
