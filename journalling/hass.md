@@ -11,6 +11,10 @@ title: HaSS Journal 2023
   <p>- Ellen joined our class and Miss Carter took us for relief.<br>- We learned about the four spheres of earth and the basics of an ecosystem.</p>
   <h4>T3W2L1</h4>
   <p>- We worked on 1.3 and 1.4. 1.4 needs to be done.</p>
+  <h4>T3W2L2 - 25/7</h4>
+  <p>- We started on researching biomes in groups.</p>
+  <h4>T3W2L3 - 26/7</h4>
+  <p>- We finished off the biomes research and we did 2.2 and catch up.</p>
 
 
 
