@@ -10,6 +10,8 @@ title: Extention Music Journal 2023
   <p>- Listened to a musical segue and sang autumn leaves</p>
   <h4>T3W2L1 - 24/7</h4>
   <p>- Went through some chords, we pestered Finn about his lack of wheel, we went through the assessment outline and revised period compositions.</p>
+  <h4>T3W2L2 - 25/7</h4>
+  <p>- We composed period compositions. I need to watch the video that Mr Rogers sent us about sentence compositions.</p>
 
 
 
