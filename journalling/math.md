@@ -15,6 +15,8 @@ title: Math Journal 2023
   <p>- Ms Liu drew a funny looking bird that looked like a fish for math today.<br>- Doing MS Applications to trig</p>
   <h4>T3W2L3 - 26/7</h4>
   <p>- Ms Burnett took us for relief. We looked at angles of elevation and angles of depression.</p>
+  <h4>T3W2L4 - 27/7</h4>
+  <p>- Learnt about bearings and doing 6.06 MS</p>
   
 
 
