@@ -16,7 +16,7 @@ title: Math Journal 2023
   <h4>T3W2L3 - 26/7</h4>
   <p>- Ms Burnett took us for relief. We looked at angles of elevation and angles of depression.</p>
   <h4>T3W2L4 - 27/7</h4>
-  <p>- Learnt about bearings and doing 6.06 MS</p>
+  <p>- Learnt about bearings and doing 6.06 MS. Exercise 12C as homework</p>
   
 
 
