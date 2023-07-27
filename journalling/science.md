@@ -9,6 +9,8 @@ title: Science Journal 2023
   <p>- I caught up on Lewis dot diagrams and we learned coloured substances. We played Gimkit to practice finding colours.</p>
   <h4>T3W2L2 - 25/7</h4>
   <p>- We learnt about observations in reactions.</p>
+  <h4>T3W2L3 - 27/7</h4>
+  <p>- Continued going through observations and learnt theory. Also got a clearer explanation of additional actions.</p>
 
 
 
