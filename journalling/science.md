@@ -11,6 +11,8 @@ title: Science Journal 2023
   <p>- We learnt about observations in reactions.</p>
   <h4>T3W2L3 - 27/7</h4>
   <p>- Continued going through observations and learnt theory. Also got a clearer explanation of additional actions.</p>
+  <h4>T3W2L4 - 28/7</h4>
+  <p>- Still going through observations and theory...</p>
 
 
 
