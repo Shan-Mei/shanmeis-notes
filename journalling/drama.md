@@ -12,3 +12,6 @@ title: Drama Journal 2023
 - We have Mr Floyd on Mondays and Mr Papa on Thursdays
 - We started learning about Bertolt Brecht and his dramatic devices and rules for actors
 - We used this new information to create a short scene based on Brecht's devices and rules.
+
+#### T3W2L2 - 27/7
+- Had a bitm ore of a look on Brechtian theatre and made some tableau with talking.
