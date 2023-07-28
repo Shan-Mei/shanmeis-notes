@@ -13,8 +13,10 @@ title: English Journal 2023
   <p>- Started reading the time machine and going through a ppt</p>
   <h4>T3W2L2 - 26/6</h4>
   <p>- Going through the history of Sci Fi ppt and making a timeline on key texts</p>
-  <h4>T3W2L3</h4>
+  <h4>T3W2L3 - 27/7</h4>
   <p>- Continued making the timeline (I did catch up)</p>
+  <h4>T3W2L4 - 28/7</h4>
+  <p>- Reading a Bradbury short story and annotating it with sci fi evidence.</p>
 
 
 
