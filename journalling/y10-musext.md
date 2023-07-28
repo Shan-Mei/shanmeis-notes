@@ -14,6 +14,8 @@ title: Extention Music Journal 2023
   <p>- We composed period compositions. I need to watch the video that Mr Rogers sent us about sentence compositions.</p>
   <h4>T3W2L3 - 27/7</h4>
   <p>- Year 10s weren't here for the first half because of the assembly so we talked to Mrs Roy<br>- When the 10s did come back, we went through the course outline together and discussed stuff.</p>
+  <h4>T3W2L4 - 28/7</h4>
+  <p>- We sang a Beatles song and then talked about set works and chord progressions.</p>
 
 
 
