@@ -14,4 +14,7 @@ title: Drama Journal 2023
 - We used this new information to create a short scene based on Brecht's devices and rules.
 
 #### T3W2L2 - 27/7
-- Had a bitm ore of a look on Brechtian theatre and made some tableau with talking.
+- Had a bit more of a look on Brechtian theatre and made some tableau with talking.
+
+#### T3W3L1 - 31/7
+- Created a play on brechtian theatre

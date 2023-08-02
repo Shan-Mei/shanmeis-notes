@@ -15,6 +15,10 @@ title: HaSS Journal 2023
   <p>- We started on researching biomes in groups.</p>
   <h4>T3W2L3 - 26/7</h4>
   <p>- We finished off the biomes research and we did 2.2 and catch up.</p>
+  <h4>T3W3L1 - 31/7</h4>
+  <p>- Learnt more about climate and how it affects biomes.</p>
+  <h4>T3W3L3 - 2/8</h4>
+  <p>- Learnt about climate LAPDOG abbreviation</p>
 
 
 

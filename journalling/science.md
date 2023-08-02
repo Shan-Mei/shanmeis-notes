@@ -13,6 +13,8 @@ title: Science Journal 2023
   <p>- Continued going through observations and learnt theory. Also got a clearer explanation of additional actions.</p>
   <h4>T3W2L4 - 28/7</h4>
   <p>- Still going through observations and theory...</p>
+  <h4>T3W3L1 - 31/7</h4>
+  <p>- Did science experiment on neutralisation and carbonisation.</p>
 
 
 
