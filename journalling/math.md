@@ -19,6 +19,8 @@ title: Math Journal 2023
   <p>- Learnt about bearings and doing 6.06 MS. Exercise 12C as homework</p>
   <h4>T3W3L1 - 31/7</h4>
   <p>- Doing Mathspace applications to trig.</p>
+  <h4>T3W3L3 - 2/8</h4>
+  <p>- Doing trig in 3d</p>
 
   
 

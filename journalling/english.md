@@ -17,6 +17,8 @@ title: English Journal 2023
   <p>- Continued making the timeline (I did catch up)</p>
   <h4>T3W2L4 - 28/7</h4>
   <p>- Reading a Bradbury short story and annotating it with sci fi evidence.</p>
+  <h4>T3W3L2 - 2/8</h4>
+  <p>- I caught up with a booklet the class did on the Bradbury.</p>
 
 
 
