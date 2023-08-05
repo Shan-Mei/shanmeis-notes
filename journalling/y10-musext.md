@@ -18,7 +18,8 @@ title: Extention Music Journal 2023
   <p>- We sang a Beatles song and then talked about set works and chord progressions.</p>
   <h4>T3W3L1 - 31/7</h4>
   <p>- Talked more about set works and plans for the rest of the year</p>
-
+  <h4>T3W3L4 - 4/8</h4>
+  <p>- Went through a Jazz standard (Beyond the sea) and we took a look at everyones compositions.</p>
 
 
 

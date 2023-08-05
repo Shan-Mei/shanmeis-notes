@@ -9,6 +9,8 @@ title: Japanese Journal 2023
   <p>- Turns out there is a seating plan<br>- Doing iiTomo Pages 3 - 9<br>- We learnt some new kanji and practice our katakana then we watched a video on how Japanese kids get to school</p>
   <h4>T3W2L2 - 28/7</h4>
   <p>- Learnt some new vocab and adjective conjugations.</p>
+  <h4>T3W3L2 - 4/8</h4>
+  <p>- Did practice</p>
 
 
 

@@ -19,6 +19,8 @@ title: English Journal 2023
   <p>- Reading a Bradbury short story and annotating it with sci fi evidence.</p>
   <h4>T3W3L2 - 2/8</h4>
   <p>- I caught up with a booklet the class did on the Bradbury.</p>
+  <h4>T3W3L4 - 4/8</h4>
+  <p>- Continued booklet</p>
 
 
 
