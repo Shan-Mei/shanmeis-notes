@@ -11,6 +11,8 @@ title: Japanese Journal 2023
   <p>- Learnt some new vocab and adjective conjugations.</p>
   <h4>T3W3L2 - 4/8</h4>
   <p>- Did practice</p>
+  <h4>T3W4L1 - 7/8</h4>
+  <p>- Did more practice...</p>
 
 
 
