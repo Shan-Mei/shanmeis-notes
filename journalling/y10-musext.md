@@ -20,6 +20,8 @@ title: Extention Music Journal 2023
   <p>- Talked more about set works and plans for the rest of the year</p>
   <h4>T3W3L4 - 4/8</h4>
   <p>- Went through a Jazz standard (Beyond the sea) and we took a look at everyones compositions.</p>
+  <h4>T3W4L1 - 7/8</h4>
+  <p>Did some aural practice and listened to Tchaik violin concerto 1</p>
 
 
 

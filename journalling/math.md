@@ -21,6 +21,8 @@ title: Math Journal 2023
   <p>- Doing Mathspace applications to trig.</p>
   <h4>T3W3L3 - 2/8</h4>
   <p>- Doing trig in 3d</p>
+  <h4>T3W4L1 - 7/8</h4>
+  <p>- Learning about surveys and data, doing MS 10.01.<br>- If we don't get trig in 3d done by tomorrow = detention!!</p>
 
   
 

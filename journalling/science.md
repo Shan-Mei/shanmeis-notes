@@ -15,6 +15,8 @@ title: Science Journal 2023
   <p>- Still going through observations and theory...</p>
   <h4>T3W3L1 - 31/7</h4>
   <p>- Did science experiment on neutralisation and carbonisation.</p>
+  <h4>T3W4L1 - 7/8</h4>
+  <p>- Got a relief and did a worksheet on precipitates.</p>
 
 
 

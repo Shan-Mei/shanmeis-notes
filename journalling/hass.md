@@ -19,6 +19,8 @@ title: HaSS Journal 2023
   <p>- Learnt more about climate and how it affects biomes.</p>
   <h4>T3W3L3 - 2/8</h4>
   <p>- Learnt about climate LAPDOG abbreviation</p>
+  <h4>T3W4L1 - 7/8</h4>
+  <p>- Doing revision, turns out we don't need natural systems!</p>
 
 
 
