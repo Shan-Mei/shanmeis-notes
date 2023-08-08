@@ -23,6 +23,8 @@ title: Math Journal 2023
   <p>- Doing trig in 3d</p>
   <h4>T3W4L1 - 7/8</h4>
   <p>- Learning about surveys and data, doing MS 10.01.<br>- If we don't get trig in 3d done by tomorrow = detention!!</p>
+  <h4>T3W4L2 - 8/8</h4>
+  <p>- Coding/catchup day</p>
 
   
 

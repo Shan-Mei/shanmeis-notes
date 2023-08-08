@@ -21,7 +21,9 @@ title: Extention Music Journal 2023
   <h4>T3W3L4 - 4/8</h4>
   <p>- Went through a Jazz standard (Beyond the sea) and we took a look at everyones compositions.</p>
   <h4>T3W4L1 - 7/8</h4>
-  <p>Did some aural practice and listened to Tchaik violin concerto 1</p>
+  <p>- Did some aural practice and listened to Tchaik violin concerto 1</p>
+  <h4>T3W4L2 - 8/8</h4>
+  <p>- Answered questions on Handel's Messiah</p>
 
 
 

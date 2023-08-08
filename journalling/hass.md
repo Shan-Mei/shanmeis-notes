@@ -21,6 +21,8 @@ title: HaSS Journal 2023
   <p>- Learnt about climate LAPDOG abbreviation</p>
   <h4>T3W4L1 - 7/8</h4>
   <p>- Doing revision, turns out we don't need natural systems!</p>
+  <h4>T3W4L2 - 8/8</h4>
+  <p>- Doing more revision for the big day tomorrow.</p>
 
 
 

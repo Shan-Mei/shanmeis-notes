@@ -21,6 +21,8 @@ title: English Journal 2023
   <p>- I caught up with a booklet the class did on the Bradbury.</p>
   <h4>T3W3L4 - 4/8</h4>
   <p>- Continued booklet</p>
+  <h4>T3W4L1 - 8/8</h4>
+  <p>- Ms James came back and we went through generic conventions of sci fi.</p>
 
 
 

@@ -17,6 +17,8 @@ title: Science Journal 2023
   <p>- Did science experiment on neutralisation and carbonisation.</p>
   <h4>T3W4L1 - 7/8</h4>
   <p>- Got a relief and did a worksheet on precipitates.</p>
+  <h4>T3W4L2 - 8/8</h4>
+  <p>- Another relief, and did more worksheets but this time on acids and bases and their properties. Urgh textbook work.</p>
 
 
 
