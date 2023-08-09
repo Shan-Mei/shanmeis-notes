@@ -23,6 +23,8 @@ title: English Journal 2023
   <p>- Continued booklet</p>
   <h4>T3W4L1 - 8/8</h4>
   <p>- Ms James came back and we went through generic conventions of sci fi.</p>
+  <h4>T3W4L2 - 9/8</h4>
+  <p>- We are drawing comic strips on a new short story by Ray Bradbury</p>
 
 
 

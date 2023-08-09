@@ -22,8 +22,9 @@ title: HaSS Journal 2023
   <h4>T3W4L1 - 7/8</h4>
   <p>- Doing revision, turns out we don't need natural systems!</p>
   <h4>T3W4L2 - 8/8</h4>
-  <p>- Doing more revision for the big day tomorrow.</p>
-
+  <p>- Doing more revision for the big day tomorrow.<br>- Also Ms Pyper said something funny so go and check quotes</p>
+  <h4>T3W4L3 - 9/8</h4>
+  <p>- Did the test, it was ok I guess? Hopefully get the 75.</p>
 
 
 

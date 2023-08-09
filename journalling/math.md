@@ -25,6 +25,8 @@ title: Math Journal 2023
   <p>- Learning about surveys and data, doing MS 10.01.<br>- If we don't get trig in 3d done by tomorrow = detention!!</p>
   <h4>T3W4L2 - 8/8</h4>
   <p>- Coding/catchup day</p>
+  <h4>T3W4L3 - 9/8</h4>
+  <p>- Doing more surveys and we covered range today and Sigma sign. MS 10.02 + Ex 1.2 q1 (a+c), Q3 (a+b+), Q4 (b), Q5 (d), Q8-10</p>
 
   
 
