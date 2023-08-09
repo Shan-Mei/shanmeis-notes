@@ -115,6 +115,9 @@ Coastal
 Polar
 - Arctic and antarctic
 
+### Group Activity for biomes
+<img src="https://shanmeis-notes.toomwn.xyz/assets/hass/biomes-info.png">
+
 ### 2.3 - Spacial distribution of biomes
 
 Seasonal Savannah/forest runs along the equator up to 30 both north and south  
