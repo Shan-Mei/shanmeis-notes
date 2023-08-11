@@ -19,6 +19,10 @@ title: Science Journal 2023
   <p>- Got a relief and did a worksheet on precipitates.</p>
   <h4>T3W4L2 - 8/8</h4>
   <p>- Another relief, and did more worksheets but this time on acids and bases and their properties. Urgh textbook work.</p>
+  <h4>T3W4L3 - 10/8</h4>
+  <p>- More relief, this time doing textbook work</p>
+  <h4>T3W4L4 - 11/8</h4>
+  <p>- Mr Mort came back and we went through more acid and base properties...</p>
 
 
 

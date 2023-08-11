@@ -13,6 +13,8 @@ title: Japanese Journal 2023
   <p>- Did practice</p>
   <h4>T3W4L1 - 7/8</h4>
   <p>- Did more practice...</p>
+  <h4>T3W4L2 - 11/8</h4>
+  <p>- Relief work<br>- Booklet pg9-11 Q4-9 and pg13 Q9<br>- Workbook pg12 Q34a+35 and pg13 Q36+38<br>- EP</p>
 
 
 

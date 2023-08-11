@@ -25,6 +25,10 @@ title: English Journal 2023
   <p>- Ms James came back and we went through generic conventions of sci fi.</p>
   <h4>T3W4L2 - 9/8</h4>
   <p>- We are drawing comic strips on a new short story by Ray Bradbury</p>
+  <h4>T3W4L3 - 10/8</h4>
+  <p>- We are continuing drawing the comic - needs to be done for hw.<br>- Learning about film conventions.</p>
+  <h4>T3W4L4 - 11/8</h4>
+  <p>- Started taking notes on Back to the Future</p>
 
 
 

@@ -19,4 +19,9 @@ title: Drama Journal 2023
 #### T3W3L1 - 31/7
 - Created a play on brechtian theatre
 
-#### T3W4L1 - Started our assessment task on docudrama!
+#### T3W4L1 - 7/8
+- Started our assessment task on docudrama!
+
+#### T3W4L2 - 10/8
+- Continued doing so
+- Apparently we now have plot each other's lights and sound.

@@ -27,6 +27,8 @@ title: Math Journal 2023
   <p>- Coding/catchup day</p>
   <h4>T3W4L3 - 9/8</h4>
   <p>- Doing more surveys and we covered range today and Sigma sign. MS 10.02 + Ex 1.2 q1 (a+c), Q3 (a+b+), Q4 (b), Q5 (d), Q8-10</p>
+  <h4>T3W4L4 - 10/8</h4>
+  <p>- Doing 11.01 mathspace and learning about quartiles.</p>
 
   
 

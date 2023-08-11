@@ -24,6 +24,10 @@ title: Extention Music Journal 2023
   <p>- Did some aural practice and listened to Tchaik violin concerto 1</p>
   <h4>T3W4L2 - 8/8</h4>
   <p>- Answered questions on Handel's Messiah</p>
+  <h4>T3W4L3 - 10/8</h4>
+  <p>- We drew triads and spent the whole lesson checking them...<br>- Also sang through Haydn canon in C dorian.</p>
+  <h4>T3W4L4 - 11/8</h4>
+  <p>- Sang through a Jazz love song, Noah got kicked out of class again and did a period composition</p>
 
 
 

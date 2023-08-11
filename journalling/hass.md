@@ -25,6 +25,8 @@ title: HaSS Journal 2023
   <p>- Doing more revision for the big day tomorrow.<br>- Also Ms Pyper said something funny so go and check quotes</p>
   <h4>T3W4L3 - 9/8</h4>
   <p>- Did the test, it was ok I guess? Hopefully get the 75.</p>
+  <h4>T3W4L4 - 10/8</h4>
+  <p>- Took notes on a documentary about food security</p>
 
 
 
