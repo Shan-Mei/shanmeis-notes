@@ -23,6 +23,8 @@ title: Science Journal 2023
   <p>- More relief, this time doing textbook work</p>
   <h4>T3W4L4 - 11/8</h4>
   <p>- Mr Mort came back and we went through more acid and base properties...</p>
+  <h4>T3W5L1 - 14/8</h4>
+  <p>- Started our practice validations.</p>
 
 
 

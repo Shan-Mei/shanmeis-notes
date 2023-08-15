@@ -25,3 +25,6 @@ title: Drama Journal 2023
 #### T3W4L2 - 10/8
 - Continued doing so
 - Apparently we now have plot each other's lights and sound.
+
+#### T3WL1 - 14/8
+- Continued

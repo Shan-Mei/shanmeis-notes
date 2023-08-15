@@ -28,6 +28,8 @@ title: Extention Music Journal 2023
   <p>- We drew triads and spent the whole lesson checking them...<br>- Also sang through Haydn canon in C dorian.</p>
   <h4>T3W4L4 - 11/8</h4>
   <p>- Sang through a Jazz love song, Noah got kicked out of class again and did a period composition</p>
+  <h4>T3W5L1 - 14/8</h4>
+  <p>- Sang greenwood tree song and sang disonnant chords. Got a new (probably transition) kid in class</p>
 
 
 

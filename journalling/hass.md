@@ -27,6 +27,8 @@ title: HaSS Journal 2023
   <p>- Did the test, it was ok I guess? Hopefully get the 75.</p>
   <h4>T3W4L4 - 10/8</h4>
   <p>- Took notes on a documentary about food security</p>
+  <h4>T3W5L1 - 14/8</h4>
+  <p>- Had a relief and doing 4.2</p>
 
 
 
