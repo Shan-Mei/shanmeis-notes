@@ -29,6 +29,10 @@ title: English Journal 2023
   <p>- We are continuing drawing the comic - needs to be done for hw.<br>- Learning about film conventions.</p>
   <h4>T3W4L4 - 11/8</h4>
   <p>- Started taking notes on Back to the Future</p>
+  <h4>T3W5L1 - 15/8</h4>
+  <p>- Continued watching the movie and taking notes.</p>
+  <h4>T3W5L2 - 16/8</h4>
+  <p>- Continued</p>
 
 
 

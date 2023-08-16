@@ -29,6 +29,10 @@ title: HaSS Journal 2023
   <p>- Took notes on a documentary about food security</p>
   <h4>T3W5L1 - 14/8</h4>
   <p>- Had a relief and doing 4.2</p>
+  <h4>T3W5L2 - 15/8</h4>
+  <p>- More relief and doing 4.3</p>
+  <T3W5L3> - 16/8</h4>
+  <p>- Still had a relief and doing 4.6</p>
 
 
 

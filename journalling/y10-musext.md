@@ -30,6 +30,8 @@ title: Extention Music Journal 2023
   <p>- Sang through a Jazz love song, Noah got kicked out of class again and did a period composition</p>
   <h4>T3W5L1 - 14/8</h4>
   <p>- Sang greenwood tree song and sang disonnant chords. Got a new (probably transition) kid in class</p>
+  <h4>T3W5L2 - 15/8</h4>
+  <p>- I left early but handed in our handel booklets.</p>
 
 
 
