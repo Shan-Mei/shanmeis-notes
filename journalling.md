@@ -18,4 +18,4 @@ title: Journalling
   <p><a href="https://shanmeis-notes.toomwn.xyz/journalling/drama.html">Drama</a><p>
   <p><a href="https://shan-mei.github.io/shanmeis-notes/journalling/y10-musext.html">Year 10 Music Extention</a><p>
   <h4>Archived Journals</h4>
-  <p><a href="https://shanmeis-notes.toomwn.xyz/journalling/archive/aqu-rec-2023.html">Aquatic Recreation 2023</p>
+  <p><a href="https://shanmeis-notes.toomwn.xyz/journalling/archive/aqu-rec-2023.html">Aquatic Recreation 2023</a></p>
