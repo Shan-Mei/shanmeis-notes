@@ -35,6 +35,8 @@ title: Math Journal 2023
   <p>- Learning about data display and doing ms</p>
   <h4>T3W5L3 - 16/8</h4>
   <p>- Doing congruency revision.</p>
+  <h4>T3W5L4 - 17/8</h4>
+  <p>- Just messed around and caught up to mathspace because relief teacher + no lesson plan</p>
 
   
 

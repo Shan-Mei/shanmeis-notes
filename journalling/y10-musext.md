@@ -32,6 +32,8 @@ title: Extention Music Journal 2023
   <p>- Sang greenwood tree song and sang disonnant chords. Got a new (probably transition) kid in class</p>
   <h4>T3W5L2 - 15/8</h4>
   <p>- I left early but handed in our handel booklets.</p>
+  <h4>T3W5L3 - 17/8</h4>
+  <p>- Looked at Marsalis's interview</p>
 
 
 
