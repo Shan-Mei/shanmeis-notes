@@ -34,6 +34,10 @@ title: Extention Music Journal 2023
   <p>- I left early but handed in our handel booklets.</p>
   <h4>T3W5L3 - 17/8</h4>
   <p>- Looked at Marsalis's interview</p>
+  <h4>T3W6L1 - 21/8</h4>
+  <p>- Mr Rogers wasn't here. We were meant to have private study until Mrs Roy gave us worksheets...</p>
+  <h4>T3W6L2 - 22/8</h4>
+  <p>- Listened to a few classical period pieces and discussed them.</p>
 
 
 

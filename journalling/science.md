@@ -29,6 +29,10 @@ title: Science Journal 2023
   <p>- Checked through our work</p>
   <h4>T3W5L3 - 17/8</h4>
   <p>- Learnt about the solubility curve and saturation.</p>
+  <h4>T3W6L1 - 21/8</h4>
+  <p>- Did practical</p>
+  <h4>T3W6L2 - 22/8</h4>
+  <p>- Did validation.</p>
 
 
 

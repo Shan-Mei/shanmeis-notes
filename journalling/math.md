@@ -37,6 +37,8 @@ title: Math Journal 2023
   <p>- Doing congruency revision.</p>
   <h4>T3W5L4 - 17/8</h4>
   <p>- Just messed around and caught up to mathspace because relief teacher + no lesson plan</p>
+  <h4>T3W6L1 - 21/8</h4>
+  <p>- Continued our revision</p>
 
   
 

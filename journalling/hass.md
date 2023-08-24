@@ -35,6 +35,10 @@ title: HaSS Journal 2023
   <p>- Still had a relief and doing 4.6</p>
   <h4>T3W5L4 - 17/8</h4>
   <p>- Still relief and finishing 4.6</p>
+  <h4>T3W6L1 - 21/8</h4>
+  <p>- Reliefing and started our assignment</p>
+  <h4>T3W6L2 - 22/8</h4>
+  <p>- Ms Pyper came back! We are continuing our assessment task</p>
 
 
 

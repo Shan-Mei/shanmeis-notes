@@ -35,6 +35,8 @@ title: English Journal 2023
   <p>- Continued</p>
   <h4>T3W5L3 - 17/8</h4>
   <p>- Finished watching the movie and started rewatching.</p>
+  <h4>T3W6L1 - 22/8</h4>
+  <p>- Started analysing the opening scene for practice</p>
 
 
 
