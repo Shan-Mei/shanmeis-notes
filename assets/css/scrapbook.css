@@ -35,8 +35,8 @@ p {
 .dflower {
     position: absolute;
     z-index: -1;
-    top: 80px;
-    left: -10px;
+    top: 85px;
+    left: -5px;
 }
 
 .poem {
