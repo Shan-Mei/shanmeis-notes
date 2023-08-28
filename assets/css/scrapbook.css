@@ -35,7 +35,7 @@ p {
 .dflower {
     position: absolute;
     z-index: -1;
-    top: 40px
+    top: 60px
 }
 
 .poem {
@@ -48,7 +48,7 @@ iframe {
 }
 
 a {
-    background: url(https://shanmeis-notes.toomwn.xyz/assets/washi-tape.png);
+    background-image: url(https://shanmeis-notes.toomwn.xyz/assets/washi-tape.png);
     color: #785a43;
 }
 
@@ -57,7 +57,7 @@ a:hover {
 }
 .footer {
     font-size: smaller;
-    background-color: #FFFFFF;
+    background-color: rgb(242, 223, 203);
     text-align: center;
     font-family: Brandon;
     margin: 0px;
@@ -65,11 +65,11 @@ a:hover {
 .home {
     color: #6b4c30;
     font-weight: bold;
-    background-color: #FFFFFF;
+    background-color: rgb(242, 223, 203);
 }
 .home:hover{
     color: #452b13;
-    background-color: #FFFFFF;
+    background-color: rgb(242, 223, 203);
 }
 
 img {
