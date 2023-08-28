@@ -1,1 +1,88 @@
+@font-face {
+    font-family: Brandon;
+    src: url("../../assets/Brandon.ttf");
+}
+@font-face {
+    font-family: Yeseva One;
+    src: url("../../assets/YesevaOne-Regular.ttf");
+}
+@font-face {
+    font-family: Brightwall;
+    src: url("../../assets/Brightwall.ttf");
+}
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(242, 223, 203);
+}
 
+h1 {
+    font-family: 'Brightwall';
+    text-align: center;
+    color: #4f3112;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Yeseva One';
+}
+
+p {
+    font-family: 'Brandon';
+}
+
+.dflower {
+    position: absolute;
+    z-index: -1;
+    top: 40px
+}
+
+.poem {
+    text-align: center !important;
+}
+
+iframe {
+    width: 900px;
+    height: 500px;
+}
+
+a {
+    background: url(https://shanmeis-notes.toomwn.xyz/assets/washi-tape.png);
+    color: #785a43;
+}
+
+a:hover {
+    color: #4a382a;
+}
+.footer {
+    font-size: smaller;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: Brandon;
+    margin: 0px;
+}
+.home {
+    color: #6b4c30;
+    font-weight: bold;
+    background-color: #FFFFFF;
+}
+.home:hover{
+    color: #452b13;
+    background-color: #FFFFFF;
+}
+
+img {
+    width: 100px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+ul, ol {
+    font-family: 'Brandon';
+}
+
+.osmosis {
+    text-align: left;
+    width: 60%;
+}
