@@ -35,3 +35,7 @@ title: Drama Journal 2023
 #### T3W6L1 - 21/8
 - Still scripting, but now we got notified we have to put in sound
 - Script to be finished my next lesson (I'm doidng scene 6)
+
+#### T3W7L1 - 28/8
+- We learnt about lighting techniques
+- We read through our script

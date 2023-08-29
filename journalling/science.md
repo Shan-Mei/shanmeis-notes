@@ -33,6 +33,12 @@ title: Science Journal 2023
   <p>- Did practical</p>
   <h4>T3W6L2 - 22/8</h4>
   <p>- Did validation.</p>
+  <h4>T3W6L4 - 25/8</h4>
+  <p>- I caught up on the new stoichiometry topic and Mr Mort wasn't here</p>
+  <h4>T3W7L1 - 28/8</h4>
+  <p>- Still relief and doing a big fat worksheet about types of equations</p>
+  <h4>T3W7L2 - 29/8</h4>
+  <p>- Doing a STILE worksheet about balancing equations</p>
 
 
 

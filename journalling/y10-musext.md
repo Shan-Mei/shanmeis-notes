@@ -38,6 +38,10 @@ title: Extention Music Journal 2023
   <p>- Mr Rogers wasn't here. We were meant to have private study until Mrs Roy gave us worksheets...</p>
   <h4>T3W6L2 - 22/8</h4>
   <p>- Listened to a few classical period pieces and discussed them.</p>
+  <h4>T3W6L4 - 25/8</h4>
+  <p>- Watched a video on significant rock and roll people. Our homework is to research 2 of them.</p>
+  <h4>T3W7L1 - 28/8</h4>
+  <p>- We sang and wrote out a canon. Did more aural work.</p>
 
 
 

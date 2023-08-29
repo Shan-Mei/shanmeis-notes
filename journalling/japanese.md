@@ -19,6 +19,8 @@ title: Japanese Journal 2023
   <p>- Did some more practice for listening and started researching japanese festivals (We're doing shichi go san)</p>
   <h4>T3W6L1 - 21/8</h4>
   <p>- Did reading practice and some groups presented their presentations</p>
+  <h4>T3W6L2 - 25/8</h4>
+  <p>- Did practice reading and more groups presented</p>
 
 
 

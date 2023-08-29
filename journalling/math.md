@@ -39,6 +39,8 @@ title: Math Journal 2023
   <p>- Just messed around and caught up to mathspace because relief teacher + no lesson plan</p>
   <h4>T3W6L1 - 21/8</h4>
   <p>- Continued our revision</p>
+  <h4>T3W7L1 - 28/8</h4>
+  <p>- Learnt about double leaf stem and leaf plots</p>
 
   
 
