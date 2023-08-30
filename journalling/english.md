@@ -37,6 +37,10 @@ title: English Journal 2023
   <p>- Finished watching the movie and started rewatching.</p>
   <h4>T3W6L1 - 22/8</h4>
   <p>- Started analysing the opening scene for practice</p>
+  <h4>T3W6L4 - 25/8</h4>
+  <p>- Practiced analysing still scenes</p>
+  <h4>T3W7L1 - 29/8</h4>
+  <p>- We did the pain of the assessment. I didn't finish 5 questions. My battery was on 0% for 20 minutes of the assessment and I lost my pencil case (which I had my headphones in!). Not fun</p>
 
 
 

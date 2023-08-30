@@ -41,6 +41,10 @@ title: HaSS Journal 2023
   <p>- Ms Pyper came back! We are continuing our assessment task</p>
   <h4>T3W7L1 - 28/8</h4>
   <p>- Continued.</p>
+  <h4>T3W7L2 - 29/8</h4>
+  <p>- ...</p>
+  <h4>T3W7L3 - 30/8</h4>
+  <p>- Ms Pyper left so we got Ms Aram. Still going...</p>
 
 
 

@@ -41,6 +41,8 @@ title: Math Journal 2023
   <p>- Continued our revision</p>
   <h4>T3W7L1 - 28/8</h4>
   <p>- Learnt about double leaf stem and leaf plots</p>
+  <h4>T3W7L2 - 29/8</h4>
+  <p>- Did the test. Was pretty easy I guess?</p>
 
   
 
