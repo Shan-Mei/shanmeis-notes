@@ -41,6 +41,8 @@ title: English Journal 2023
   <p>- Practiced analysing still scenes</p>
   <h4>T3W7L1 - 29/8</h4>
   <p>- We did the pain of the assessment. I didn't finish 5 questions. My battery was on 0% for 20 minutes of the assessment and I lost my pencil case (which I had my headphones in!). Not fun</p>
+  <h4>T3W7L2 - 30/8</h4>
+  <p>- Started on a creative task of writing a screenplay</p>
 
 
 

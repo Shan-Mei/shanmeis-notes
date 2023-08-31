@@ -39,6 +39,8 @@ title: Science Journal 2023
   <p>- Still relief and doing a big fat worksheet about types of equations</p>
   <h4>T3W7L2 - 29/8</h4>
   <p>- Doing a STILE worksheet about balancing equations</p>
+  <h4>T3W7L3 - 30/8</h4>
+  <p>- Doing practice</p>
 
 
 
