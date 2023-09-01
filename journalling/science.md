@@ -41,6 +41,8 @@ title: Science Journal 2023
   <p>- Doing a STILE worksheet about balancing equations</p>
   <h4>T3W7L3 - 30/8</h4>
   <p>- Doing practice</p>
+  <h4>T3W7L4 - 1/9</h4>
+  <p>- Still revising and having no idea how to calculate moles, stoichiometry or anything other than reaction types</p>
 
 
 

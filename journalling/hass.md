@@ -45,6 +45,8 @@ title: HaSS Journal 2023
   <p>- ...</p>
   <h4>T3W7L3 - 30/8</h4>
   <p>- Ms Pyper left so we got Ms Aram. Still going...</p>
+  <h4>T3W7L4 - 31/8</h4>
+  <p>- We drew up some practice questions as a class</p>
 
 
 

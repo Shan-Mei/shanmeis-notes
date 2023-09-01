@@ -44,6 +44,10 @@ title: Extention Music Journal 2023
   <p>- We sang and wrote out a canon. Did more aural work.</p>
   <h4>T3W7L2 - 29/8</h4>
   <p>- Sat on the oval and listened to the pastoral symphony by Beethoven</p>
+  <h4>T3W7L3 - 31/8</h4>
+  <p>- Sang the Cherubini canon</p>
+  <h4>T3W7L4 - 1/9</h4>
+  <p>- Talked about setting lyrics to songs. We need to obtain a set of lyrics by next week.</p>
 
 
 

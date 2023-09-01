@@ -45,6 +45,8 @@ title: Math Journal 2023
   <p>- Did the test. Was pretty easy I guess?</p>
   <h4>T3W7L3 - 30/8</h4>
   <p>- Did coding and got our marks back</p>
+  <h4>T3W7L4 - 31/8</h4>
+  <p>- Attempted to do something with our calculators but it didn't work</p>
 
   
 

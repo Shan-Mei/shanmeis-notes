@@ -39,3 +39,6 @@ title: Drama Journal 2023
 #### T3W7L1 - 28/8
 - We learnt about lighting techniques
 - We read through our script
+
+#### T3W7L2 - 31/8
+- Blocking

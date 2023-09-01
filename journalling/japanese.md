@@ -17,10 +17,12 @@ title: Japanese Journal 2023
   <p>- Relief work<br>- Booklet pg9-11 Q4-9 and pg13 Q9<br>- Workbook pg12 Q34a+35 and pg13 Q36+38<br>- EP</p>
   <h4>T3W5L1 - 14/8</h4>
   <p>- Did some more practice for listening and started researching japanese festivals (We're doing shichi go san)</p>
-  <h4>T3W6L1 - 21/8</h4>
+  <h4>T3W6L2 - 21/8</h4>
   <p>- Did reading practice and some groups presented their presentations</p>
-  <h4>T3W6L2 - 25/8</h4>
-  <p>- Did practice reading and more groups presented</p>
+  <h4>T3W7L1 - 25/8</h4>
+  <p>- Did listening reading and more groups presented</p>
+  <h4>T3W7L2 - 1/9</h4>
+  <p>- Did the test. It wasn't as hard as the practice so it was ok.</p>
 
 
 
