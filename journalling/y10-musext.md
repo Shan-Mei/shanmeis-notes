@@ -48,6 +48,8 @@ title: Extention Music Journal 2023
   <p>- Sang the Cherubini canon</p>
   <h4>T3W7L4 - 1/9</h4>
   <p>- Talked about setting lyrics to songs. We need to obtain a set of lyrics by next week.</p>
+  <h4>T3W8L1 - 4/9</h4>
+  <p>- We talked about the whole tone scale</p>
 
 
 

@@ -47,6 +47,8 @@ title: HaSS Journal 2023
   <p>- Ms Pyper left so we got Ms Aram. Still going...</p>
   <h4>T3W7L4 - 31/8</h4>
   <p>- We drew up some practice questions as a class</p>
+  <h4>T3W8L1 - 4/9</h4>
+  <p>- We got some Bob Hawke relief teacher this time and we continued working on it</p>
 
 
 

@@ -20,9 +20,11 @@ title: Japanese Journal 2023
   <h4>T3W6L2 - 21/8</h4>
   <p>- Did reading practice and some groups presented their presentations</p>
   <h4>T3W7L1 - 25/8</h4>
-  <p>- Did listening reading and more groups presented</p>
+  <p>- Did te form and kanji and more groups presented</p>
   <h4>T3W7L2 - 1/9</h4>
   <p>- Did the test. It wasn't as hard as the practice so it was ok.</p>
+  <h4>T3W8L1 - 4/9</h4>
+  <p>- Finished Godan verbs and my partner and I presented. Finally</p>
 
 
 

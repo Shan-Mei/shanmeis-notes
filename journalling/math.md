@@ -47,6 +47,9 @@ title: Math Journal 2023
   <p>- Did coding and got our marks back</p>
   <h4>T3W7L4 - 31/8</h4>
   <p>- Attempted to do something with our calculators but it didn't work</p>
+  <h4>T3W8L1 - 4/9</h4>
+  <p>- We were meant to do some stile task but Ms Liu wasn't here and everyone wanted to study</p>
+  
 
   
 

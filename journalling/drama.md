@@ -42,3 +42,6 @@ title: Drama Journal 2023
 
 #### T3W7L2 - 31/8
 - Blocking
+
+#### T3W8L1 - 4/9
+- Still blocking, but we finished blocking this time.
