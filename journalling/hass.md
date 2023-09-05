@@ -49,6 +49,8 @@ title: HaSS Journal 2023
   <p>- We drew up some practice questions as a class</p>
   <h4>T3W8L1 - 4/9</h4>
   <p>- We got some Bob Hawke relief teacher this time and we continued working on it</p>
+  <h4>T3W8L2 - 5/9</h4>
+  <p>- Ms Pyper is still not here and Ms Aram is back. Last lesson to continue</p>
 
 
 

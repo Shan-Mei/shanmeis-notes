@@ -49,6 +49,8 @@ title: Math Journal 2023
   <p>- Attempted to do something with our calculators but it didn't work</p>
   <h4>T3W8L1 - 4/9</h4>
   <p>- We were meant to do some stile task but Ms Liu wasn't here and everyone wanted to study</p>
+  <h4>T3W8L2 - 5/9</h4>
+  <p>- We did more standard deviation stuff but I did mine by hand...</p>
   
 
   

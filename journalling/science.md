@@ -45,6 +45,8 @@ title: Science Journal 2023
   <p>- Still revising and having no idea how to calculate moles, stoichiometry or anything other than reaction types</p>
   <h4>T3W8L1 - 4/9</h4>
   <p>- Got our CATs back and we spammed Mr Mort with question</p>
+  <h4>T3W8L2 - 5/9</h4>
+  <p>- Did the test. It was awful</p>
 
 
 

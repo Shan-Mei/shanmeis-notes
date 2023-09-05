@@ -15,6 +15,13 @@ body {
     margin-right: 100px;
 }
 
+.dflower {
+    position: absolute !important;
+    z-index: -1 !important;
+    top: 85px;
+    left: 40px;
+}
+
 h1 {
     font-family: 'Brightwall';
     text-align: center;

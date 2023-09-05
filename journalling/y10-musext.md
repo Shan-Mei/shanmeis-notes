@@ -50,7 +50,8 @@ title: Extention Music Journal 2023
   <p>- Talked about setting lyrics to songs. We need to obtain a set of lyrics by next week.</p>
   <h4>T3W8L1 - 4/9</h4>
   <p>- We talked about the whole tone scale</p>
-
+  <h4>T3W8L2 - 5/9</h4>
+  <p>- Looked more at Beethoven and homework is to analyse the K545</p>
 
 
 
