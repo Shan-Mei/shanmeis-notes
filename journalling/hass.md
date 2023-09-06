@@ -51,6 +51,8 @@ title: HaSS Journal 2023
   <p>- We got some Bob Hawke relief teacher this time and we continued working on it</p>
   <h4>T3W8L2 - 5/9</h4>
   <p>- Ms Pyper is still not here and Ms Aram is back. Last lesson to continue</p>
+  <h4>T3W8L3 - 6/9</h4>
+  <p>- Did the hass test, it was supposed to be easy.</p>
 
 
 

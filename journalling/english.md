@@ -49,6 +49,8 @@ title: English Journal 2023
   <p>- We got a relief (even though I saw Ms James today) and we continued working at our creative tasks</p>
   <h4>T3W8L1 - 5/9</h4>
   <p>- Started our assessment task in groups and also got the creative from last term back :O</p>
+  <h4>T3W8L2 - 6/9</h4>
+  <p>- Read for longer than normal and continued working on the task</p>
 
 
 
