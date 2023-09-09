@@ -25,8 +25,8 @@ body {
 .dpetals {
     position: absolute !important;
     z-index: -2 !important;
-    top: 1000px;
-    left: 20px;
+    top: 500px;
+    left: 500px;
     width: 30%;
 }
 
