@@ -52,6 +52,10 @@ title: Extention Music Journal 2023
   <p>- We talked about the whole tone scale</p>
   <h4>T3W8L2 - 5/9</h4>
   <p>- Looked more at Beethoven and homework is to analyse the K545</p>
+  <h4>T3W8L3 - 7/9</h4>
+  <p>- Composed with a relief teacher</p>
+  <h4>T3W8L4 - 8/9</h4>
+  <p>- "Private study" with the same relief teacher but I left halfway through to practice oboe</p>
 
 
 

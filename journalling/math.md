@@ -51,6 +51,10 @@ title: Math Journal 2023
   <p>- We were meant to do some stile task but Ms Liu wasn't here and everyone wanted to study</p>
   <h4>T3W8L2 - 5/9</h4>
   <p>- We did more standard deviation stuff but I did mine by hand...</p>
+  <h4>T3W8L3 - 6/9</h4>
+  <p>- We looked at bivariate relationships</p>
+  <h4>T3W8L4 - 7/0</h4>
+  <p>- Continud looking at bivariate relationships</p>
   
 
   

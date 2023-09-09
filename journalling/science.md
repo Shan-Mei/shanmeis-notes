@@ -47,6 +47,10 @@ title: Science Journal 2023
   <p>- Got our CATs back and we spammed Mr Mort with question</p>
   <h4>T3W8L2 - 5/9</h4>
   <p>- Did the test. It was awful</p>
+  <h4>T3W8L3 - 7/9</h4>
+  <p>- Started on Ecology and started Stile 1.1</h4>
+  <h4>T3W8L4 - 8/9</h4>
+  <p>- Mr Mort was away again and we did Stile 1.2</p>
 
 
 

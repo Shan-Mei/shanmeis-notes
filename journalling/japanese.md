@@ -25,6 +25,8 @@ title: Japanese Journal 2023
   <p>- Did the test. It wasn't as hard as the practice so it was ok.</p>
   <h4>T3W8L1 - 4/9</h4>
   <p>- Finished Godan verbs and my partner and I presented. Finally</p>
+  <h4>T3W8L2 - 8/9</h4>
+  <p>- Got our writing prepared text and looked at Ichidan and irregular te form verbs</p>
 
 
 

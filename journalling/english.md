@@ -51,6 +51,10 @@ title: English Journal 2023
   <p>- Started our assessment task in groups and also got the creative from last term back :O</p>
   <h4>T3W8L2 - 6/9</h4>
   <p>- Read for longer than normal and continued working on the task</p>
+  <h4>T3W8L3 - 7/9</h4>
+  <p>- Continued and Ms James forgot to let us out early :/</p>
+  <h4>T3W8L4 - 8/9</h4>
+  <p>- Continued and Ms James came very late because she was at improv</p>
 
 
 
