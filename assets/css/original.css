@@ -22,6 +22,13 @@ body {
     left: 40px;
 }
 
+.dpetals {
+    position: absolute !important;
+    z-index: -1 !important;
+    top: 600px;
+    left: 700px;
+}
+
 h1 {
     font-family: 'Brightwall';
     text-align: center;
