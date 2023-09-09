@@ -6,6 +6,7 @@ title: Letter to you
   .dflower {
     left: 400px
   }
+</style>
 
 <body>
   <h2 class="poem">Letter to you</h2>
