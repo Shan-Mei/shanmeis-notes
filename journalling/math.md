@@ -53,8 +53,10 @@ title: Math Journal 2023
   <p>- We did more standard deviation stuff but I did mine by hand...</p>
   <h4>T3W8L3 - 6/9</h4>
   <p>- We looked at bivariate relationships</p>
-  <h4>T3W8L4 - 7/0</h4>
+  <h4>T3W8L4 - 7/9</h4>
   <p>- Continud looking at bivariate relationships</p>
+  <h4>T3W9L1 - 11/9</h4>
+  <p>- Installing git and doing the mathspace investigation</p>
   
 
   

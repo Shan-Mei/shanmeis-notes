@@ -51,6 +51,8 @@ title: Science Journal 2023
   <p>- Started on Ecology and started Stile 1.1</h4>
   <h4>T3W8L4 - 8/9</h4>
   <p>- Mr Mort was away again and we did Stile 1.2</p>
+  <h4>T3W9L1 - 11/9</h4>
+  <p>- We could have gotten our marks back by doing stile, but I didn't want them back so I just didn't finish the stile. <br>- We are doing 1.3 and 1.4</p>
 
 
 
