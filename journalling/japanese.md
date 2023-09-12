@@ -27,6 +27,8 @@ title: Japanese Journal 2023
   <p>- Finished Godan verbs and my partner and I presented. Finally</p>
   <h4>T3W8L2 - 8/9</h4>
   <p>- Got our writing prepared text and looked at Ichidan and irregular te form verbs</p>
+  <h4>T3W9L1 - 11/9</h4>
+  <p>- We got our tests back and continued with revision</p>
 
 
 

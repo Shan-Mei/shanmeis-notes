@@ -57,6 +57,8 @@ title: Math Journal 2023
   <p>- Continud looking at bivariate relationships</p>
   <h4>T3W9L1 - 11/9</h4>
   <p>- Installing git and doing the mathspace investigation</p>
+  <h4>T3W9L2 - 12/9</h4>
+  <p>- Started on probability unit</p>
   
 
   

@@ -55,6 +55,8 @@ title: HaSS Journal 2023
   <p>- Did the hass test, it was supposed to be easy.</p>
   <h4>T3W8L4 - 7/9</h4>
   <p>- Everyone came really late because the bell didn't go so we just watched a video</p>
+  <h4>T3W9L1 - 11/9</h4>
+  <p>- I got there with 10 minutes to spare but we are doing 1.1 economics</p>
 
 
 

@@ -53,6 +53,8 @@ title: Science Journal 2023
   <p>- Mr Mort was away again and we did Stile 1.2</p>
   <h4>T3W9L1 - 11/9</h4>
   <p>- We could have gotten our marks back by doing stile, but I didn't want them back so I just didn't finish the stile. <br>- We are doing 1.3 and 1.4</p>
+  <h4>T3W9L2 - 12/9</h4>
+  <p>- Got our marks back and we are doing 2.1 stile</p.>
 
 
 

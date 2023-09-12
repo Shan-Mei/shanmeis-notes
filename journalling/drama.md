@@ -48,3 +48,6 @@ title: Drama Journal 2023
 
 #### T3W8L2 - 7/9
 - Started adding cues
+
+#### T3W9L1 - 11/9
+- Doing lighting cues
