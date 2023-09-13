@@ -57,6 +57,10 @@ title: HaSS Journal 2023
   <p>- Everyone came really late because the bell didn't go so we just watched a video</p>
   <h4>T3W9L1 - 11/9</h4>
   <p>- I got there with 10 minutes to spare but we are doing 1.1 economics</p>
+  <h4>T3W9L2 - 12/9</h4>
+  <p>- 1.1 is homework<br>- Doing 1.2</p>
+  <h4>T3W9L3 - 13/9</h4>
+  <p>- Rest of 1.1 and 1.2 for hw</p>
 
 
 

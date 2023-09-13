@@ -55,6 +55,10 @@ title: English Journal 2023
   <p>- Continued and Ms James forgot to let us out early :/</p>
   <h4>T3W8L4 - 8/9</h4>
   <p>- Continued and Ms James came very late because she was at improv</p>
+  <h4>T3W9L1 - 12/9</h4>
+  <p>- Continued</p>
+  <h4>T3W9L2 - 13/9</h4>
+  <p>- And still going</p>
 
 
 

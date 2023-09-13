@@ -58,6 +58,8 @@ title: Extention Music Journal 2023
   <p>- "Private study" with the same relief teacher but I left halfway through to practice oboe</p>
   <h4>T3W9L1 - 11/9</h4>
   <p>- Continued analysing the C major sonata and talked about the test after I went to my audition</p>
+  <h4>T3W9L2 - 12/9</h4>
+  <p>- Did some stuff on Cottontail</p>
 
 
 

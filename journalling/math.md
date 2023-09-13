@@ -59,6 +59,8 @@ title: Math Journal 2023
   <p>- Installing git and doing the mathspace investigation</p>
   <h4>T3W9L2 - 12/9</h4>
   <p>- Started on probability unit</p>
+  <h4>T3W9L3 - 13/9</h4>
+  <p>- Doing tree diagrams and we also got a OneNote :O<br>- Doing 12D on textbook</p>
   
 
   
