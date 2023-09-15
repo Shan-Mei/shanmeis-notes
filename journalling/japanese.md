@@ -29,6 +29,8 @@ title: Japanese Journal 2023
   <p>- Got our writing prepared text and looked at Ichidan and irregular te form verbs</p>
   <h4>T3W9L1 - 11/9</h4>
   <p>- We got our tests back and continued with revision</p>
+  <h4>T3W9L2 - 15/9</h4>
+  <p>- Last lesson before test, we just did a whole bunch of practice stuff</p>
 
 
 

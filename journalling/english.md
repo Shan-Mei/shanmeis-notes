@@ -59,6 +59,10 @@ title: English Journal 2023
   <p>- Continued</p>
   <h4>T3W9L2 - 13/9</h4>
   <p>- And still going</p>
+  <h4>T3W9L3 - 14/9</h4>
+  <p>- And going</p>
+  <h4>T3W9L4 - 15/9</h4>
+  <p>- Last lesson. Ms James questioned why I had my colour sheet from chem out :') (I needed it to look at which gasses are purple, green and blue)</p>
 
 
 

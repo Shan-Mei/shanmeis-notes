@@ -61,6 +61,8 @@ title: Math Journal 2023
   <p>- Started on probability unit</p>
   <h4>T3W9L3 - 13/9</h4>
   <p>- Doing tree diagrams and we also got a OneNote :O<br>- Doing 12D on textbook</p>
+  <h4>T3W9L4 - 14/9</h4>
+  <p>- I don't even know what's going on anymore</p>
   
 
   

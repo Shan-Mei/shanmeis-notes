@@ -51,3 +51,6 @@ title: Drama Journal 2023
 
 #### T3W9L1 - 11/9
 - Doing lighting cues
+
+#### T3W9L2 - 14/9
+- Continuing to fix cues and blocking and stuff

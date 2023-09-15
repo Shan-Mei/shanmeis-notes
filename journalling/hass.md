@@ -61,6 +61,8 @@ title: HaSS Journal 2023
   <p>- 1.1 is homework<br>- Doing 1.2</p>
   <h4>T3W9L3 - 13/9</h4>
   <p>- Rest of 1.1 and 1.2 for hw</p>
+  <h4>T3W9L4 - 14/9</h4>
+  <p>- Doing free trade and also got the essay back. Class average was 12/20...</p>
 
 
 

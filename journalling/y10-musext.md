@@ -60,6 +60,10 @@ title: Extention Music Journal 2023
   <p>- Continued analysing the C major sonata and talked about the test after I went to my audition</p>
   <h4>T3W9L2 - 12/9</h4>
   <p>- Did some stuff on Cottontail</p>
+  <h4>T3W9L3 - 14/9</h4>
+  <p>- Did the literal most scuffed aural test ever</p>
+  <h4>T3W9L4 - 15/9</h4>
+  <p>- Did the theory test but also listened to Happy Go Lucky by Ellington before we started it. Petition for Jazz 1 to play this!</p>
 
 
 

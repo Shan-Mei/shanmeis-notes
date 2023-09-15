@@ -55,6 +55,10 @@ title: Science Journal 2023
   <p>- We could have gotten our marks back by doing stile, but I didn't want them back so I just didn't finish the stile. <br>- We are doing 1.3 and 1.4</p>
   <h4>T3W9L2 - 12/9</h4>
   <p>- Got our marks back and we are doing 2.1 stile</p.>
+  <h4>T3W9L3 - 14/9</h4>
+  <p>- Got an actual lesson</p>
+  <h4>T3W9L4 - 15/9</h4>
+  <p>- Doing the stile and blooket</p>
 
 
 
