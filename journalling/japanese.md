@@ -31,6 +31,8 @@ title: Japanese Journal 2023
   <p>- We got our tests back and continued with revision</p>
   <h4>T3W9L2 - 15/9</h4>
   <p>- Last lesson before test, we just did a whole bunch of practice stuff</p>
+  <h4>T3W10L1 - 18/9</h4>
+  <p>- Did the writing test, was a lot easier than expected. My first 90+?</p>
 
 
 

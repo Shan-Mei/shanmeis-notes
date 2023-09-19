@@ -54,3 +54,6 @@ title: Drama Journal 2023
 
 #### T3W9L2 - 14/9
 - Continuing to fix cues and blocking and stuff
+
+#### T3W10L1 - 18/9
+- Helped different groups block lights

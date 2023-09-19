@@ -59,6 +59,8 @@ title: Science Journal 2023
   <p>- Got an actual lesson</p>
   <h4>T3W9L4 - 15/9</h4>
   <p>- Doing the stile and blooket</p>
+  <h4>T3W10L1 - 18/9</h4>
+  <p>- Started our germination cat</p>
 
 
 

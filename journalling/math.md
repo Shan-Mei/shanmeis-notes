@@ -62,7 +62,9 @@ title: Math Journal 2023
   <h4>T3W9L3 - 13/9</h4>
   <p>- Doing tree diagrams and we also got a OneNote :O<br>- Doing 12D on textbook</p>
   <h4>T3W9L4 - 14/9</h4>
-  <p>- I don't even know what's going on anymore</p>
+  <p>- I don't even know what's going on anymore, but we did independant andd dependant events</p>
+  <h4>T3W10L1 - 18/9</h4>
+  <p>- Did conditional probability, and it is due Friday</p>
   
 
   
