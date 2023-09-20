@@ -66,6 +66,8 @@ title: Extention Music Journal 2023
   <p>- Did the theory test but also listened to Happy Go Lucky by Ellington before we started it. Petition for Jazz 1 to play this!</p>
   <h4>T3W10L1 - 18/9</h4>
   <p>- Got aural and theory tests back</p>
+  <h4>T3W10L2 - 19/9</h4>
+  <p>- Went through the theory test and also sang What a Wonderful World</p>
 
 
 

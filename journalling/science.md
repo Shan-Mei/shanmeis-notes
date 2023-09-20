@@ -61,6 +61,8 @@ title: Science Journal 2023
   <p>- Doing the stile and blooket</p>
   <h4>T3W10L1 - 18/9</h4>
   <p>- Started our germination cat</p>
+  <h4>T3W10L2 - 19/9</h4>
+  <p>- Got our groups for the cat and we have Mungbeans</p>
 
 
 

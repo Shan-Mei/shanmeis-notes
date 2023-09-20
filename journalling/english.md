@@ -63,6 +63,8 @@ title: English Journal 2023
   <p>- And going</p>
   <h4>T3W9L4 - 15/9</h4>
   <p>- Last lesson. Ms James questioned why I had my colour sheet from chem out :') (I needed it to look at which gasses are purple, green and blue)</p>
+  <h4>T3W10L1 - 19/9</h4>
+  <p>- Did the validation and also got our marks for the guided analysis back</p>
 
 
 

@@ -57,3 +57,6 @@ title: Drama Journal 2023
 
 #### T3W10L1 - 18/9
 - Helped different groups block lights
+
+#### Assessment - 19/9
+- Did lighting and sound for all the groups, kinda flopped my own play by forgetting lines (and missing a bunch of cue lines).
