@@ -65,6 +65,8 @@ title: HaSS Journal 2023
   <p>- Doing free trade and also got the essay back. Class average was 12/20...</p>
   <h4>T3W10L1 - 18/9</h4>
   <p>- I was deployed to go work with one of the boy groups to research China</p>
+  <h4>T3W10L3 - 20/9</h4>
+  <p>- Continuing 1.3 and all the extention work</p>
 
 
 

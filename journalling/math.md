@@ -67,6 +67,8 @@ title: Math Journal 2023
   <p>- Did conditional probability, and it is due Friday</p>
   <h4>T3W10L2 - 19/9</h4>
   <p>- Doing 10.5 ms</p>
+  <h4>T3W10L3 - 20/9</h4>
+  <p>- Coding</p>
   
 
   
