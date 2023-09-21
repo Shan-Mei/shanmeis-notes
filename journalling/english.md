@@ -67,6 +67,8 @@ title: English Journal 2023
   <p>- Did the validation and also got our marks for the guided analysis back</p>
   <h4>T3W10L2 - 20/9</h4>
   <p>- Did the Time Machine Validation</p>
+  <h4>T3W10L3 - 21/9</h4>
+  <p>- Made a model time machine</p>
 
 
 

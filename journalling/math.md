@@ -69,6 +69,8 @@ title: Math Journal 2023
   <p>- Doing 10.5 ms</p>
   <h4>T3W10L3 - 20/9</h4>
   <p>- Coding</p>
+  <h4>T3W10L4 - 21/9</h4>
+  <p>- Did more coding</p>
   
 
   

@@ -60,3 +60,6 @@ title: Drama Journal 2023
 
 #### Assessment - 19/9
 - Did lighting and sound for all the groups, kinda flopped my own play by forgetting lines (and missing a bunch of cue lines).
+
+#### T3W10L2 - 21/9
+- Still doing assessments, went into the end of school by 30 minutes

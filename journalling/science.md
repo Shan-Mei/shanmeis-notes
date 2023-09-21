@@ -63,6 +63,8 @@ title: Science Journal 2023
   <p>- Started our germination cat</p>
   <h4>T3W10L2 - 19/9</h4>
   <p>- Got our groups for the cat and we have Mungbeans</p>
+  <h4>T3W10L3 - 21/9</h4>
+  <p>- Continued working at it and went through food chains and webs ppt</p>
 
 
 

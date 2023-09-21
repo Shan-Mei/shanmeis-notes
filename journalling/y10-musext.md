@@ -68,6 +68,8 @@ title: Extention Music Journal 2023
   <p>- Got aural and theory tests back</p>
   <h4>T3W10L2 - 19/9</h4>
   <p>- Went through the theory test and also sang What a Wonderful World</p>
+  <h4>T3W10L3 - 21/9</h4>
+  <p>- Went through Yesterday and Imagine and finished the term off with some composing</p>
 
 
 

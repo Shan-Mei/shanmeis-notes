@@ -67,6 +67,8 @@ title: HaSS Journal 2023
   <p>- I was deployed to go work with one of the boy groups to research China</p>
   <h4>T3W10L3 - 20/9</h4>
   <p>- Continuing 1.3 and all the extention work</p>
+  <h4>T3W10L4 - 21/9</h4>
+  <p>- Continued doing 1.3 and the extention</p>
 
 
 
