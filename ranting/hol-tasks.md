@@ -10,14 +10,15 @@ title: Holiday Tasks
 ☐ Class composition  
 ☐ Rach 2 arrangement  
 ☐ Mathspace catch-up  
-☐ Econs oneNote catch up
+☐ Econs oneNote catch up  
+☐ Japanese Speaking
 
 #### Can do
 ☐ Upload notes math  
 ☐ Upload notes science  
 ☐ Upload notes hass  
 ☐ Upload notes japanese  
-☐ Upload notes music
+☐ Upload notes music  
 ☐ Update css  
 ☐ Celtic forest  
 ☐ Morning  
