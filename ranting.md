@@ -13,6 +13,8 @@ title: Ranting
   <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/palmtree.html">How to survive the wilderness. A set of plays</a><br><a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">Quotes</a><br><a href="https://shanmeis-notes.toomwn.xyz/ranting/really-cool.html">Really Cool Pieces</a></p>
   <h4>Incomplete ones</h4>
   <p><a href="https://shan-mei.github.io/shanmeis-notes/ranting/parents.html">Parental Greed and Hypocricy</a></p>
+  <h4>The Goals and Tasks</h4>
+  <p><a href="https://shanmeis-notes.toomwn.xyz/ranting/hol-tasks.html">Holiday Tasks (last updated 22/9)</a></p>
   <h4>News articles</h4>
   <p>View all articles <a href="https://shan-mei.github.io/shanmeis-notes/ranting/news.html">here.</a></p>
   <h4>Lists of Pieces</h4>
