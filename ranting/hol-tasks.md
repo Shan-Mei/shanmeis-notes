@@ -19,7 +19,7 @@ title: Holiday Tasks
 ☐ Upload notes hass  
 ☐ Upload notes japanese  
 ☐ Upload notes music  
-☐ Update css  
+☑ HTML-ify website  
 ☐ Celtic forest  
 ☐ Morning  
 ☐ J and H
