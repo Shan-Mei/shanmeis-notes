@@ -72,7 +72,6 @@ The Seduction of Andalucia by **Amanda Handel**
 
 #### AMusA (Associate)
 "Pathetique" Sonata by **Beethoven**  
-Sinfonia from *Partita 2* by **JS Bach**  
 Troika - November from *The Seasons* by **Tchaikovsky**  
 The Lark by **Glinka-Balikirev**  
 Minuet from *Suite Bergamasque* by **Debussy**  

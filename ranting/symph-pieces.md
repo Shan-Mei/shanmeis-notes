@@ -26,3 +26,9 @@ A town with an ocean view
 One summer's day  
 
 #### Term 3
+Coriolan Overture  
+Pastorale Symphony  
+Sicilienne  
+Valse Triste  
+Plink Plank Plunk  
+Merry-Go-Round of Life

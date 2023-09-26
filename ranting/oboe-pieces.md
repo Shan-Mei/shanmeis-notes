@@ -27,7 +27,12 @@ Allegro duet by **Mozart**
 
 ##### Grade 3
 Toreador's song from *Carmen* by **Bizet** arr **Steven Hodgson**  
-Theme from *Variations on "La ci darem la mano"* from *Mozart's Don Giovanni* by **Beethoven** arr **David Howell**  
+Theme from *Variations on "La ci darem la mano"* from *Mozart's Don Giovanni* by **Beethoven** arr **David Howell**
 
 ##### Grade 4
 Le Petit Negre in A major by **Debussy**
+Siciliano by **Pergolesi**  
+Largo e Allegretto by **Marcello** arr **Evelyn Rothwell**
+
+##### Grade 5
+Chanson from *2 Pices* by **Gliere**
