@@ -12,6 +12,7 @@ title: Holiday Tasks
 ☐ Mathspace catch-up  
 ☐ Econs oneNote catch up  
 ☐ Japanese Speaking
+☐ Watch a David Attenborough documentary
 
 #### Can do
 ☐ Upload notes math  
