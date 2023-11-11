@@ -63,3 +63,6 @@ title: Drama Journal 2023
 
 #### T3W10L2 - 21/9
 - Still doing assessments, went into the end of school by 30 minutes
+
+#### T4W5L2 - 10/11
+- Talked more about Laban techniques
