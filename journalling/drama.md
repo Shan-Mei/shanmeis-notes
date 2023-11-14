@@ -66,3 +66,7 @@ title: Drama Journal 2023
 
 #### T4W5L2 - 10/11
 - Talked more about Laban techniques
+
+#### T4W6L1 - 13/11
+- Talked more about Laban techniques
+- Scripts down for thursday
