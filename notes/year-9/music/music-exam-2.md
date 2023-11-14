@@ -59,6 +59,7 @@ Note:
 
 You need to know instrumentation and orchestration
 - Naming instruments in score order 👀
+
 #### Jazz
 Jazz
 - Originated in New Orleans
@@ -83,6 +84,7 @@ Basic makeup of big band
 	- Trumpets
 	- Trombones
 - Rhythm
+
 #### Contemporary
 - Stand by me
 - Baby it's you
