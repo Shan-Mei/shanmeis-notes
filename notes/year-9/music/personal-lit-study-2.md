@@ -2,7 +2,6 @@
 title: Personal Lit Study 2 - Music Exam Sem 2
 ---
 
-## Personal Lit Study 2 - Music Exam Sem 2
 ### WAM
 #### Definitions
 Melody
@@ -71,6 +70,56 @@ Classical:
 - Melodies were shorter than baroque, clear phrases, clear cadences
 - Larger orchestras with a more predominant woodwind section
 - Harpsichord fell out of use and replaced with the fortepiano
+
+#### Beethoven's Pastorale
+From the late classical period
+
+Sonata form
+- Exposition
+	- Subject 1/principle theme
+	- Bridge/connecting episode - usually helps move keys. Contrasts to S1
+		- This doesn't have to exist
+	- Subject 2/subordinate theme - Must contrast to bridge and S1 - generally in a different key which is related
+	- Codetta - ends the section in a different key - often dominant
+	- Whole section is usually repeated
+- Development
+	- Variations to the themes in the exposition
+	- Composing techniques for development
+		- Sequencing
+		- Imitation
+		- Augmentation and diminution
+		- Modulation
+		- Inversion
+		- New rhythms
+- Recapitulation
+	- Exposition repeated with some changes
+		- Generally significant changes
+	- 2nd theme in tonic key
+	- Ornamentation to alter lengths of themes
+	- Usually will have a bridge present
+	- Coda
+		- Clear and memorable finish
+	- Not repeated!
+
+Symphony
+- Usually has 4 movements where Pastorale has **5**
+	- Movement 1
+		- Generally in allegro rondo form
+	- Movement 2
+		- Adagio, lyrical
+	- Movement 3
+		- Minuet and trio, dance-like
+			- Kind of like rondo form
+	- Movement 4
+		- Fast
+		- Sonata form
+		- Sonata rondo form
+			- A B A C A B A
+
+##### Analysis
+
+
+#### Beethoven
 
 ### Jazz
 #### Jazz
