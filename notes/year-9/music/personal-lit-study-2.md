@@ -2,6 +2,7 @@
 title: Personal Lit Study 2 - Music Exam Sem 2
 ---
 
+## Personal Lit Study Sem 2 Exam
 ### WAM
 #### Definitions
 Melody
@@ -185,7 +186,7 @@ Features of classical period
 - Clear cadences
 - Inclusion of some brass in orchestra
 
-#### Beethoven
+##### Beethoven
 1770 - 1827
 
 Contemporaries
@@ -311,7 +312,7 @@ Coda 121 - 130
 - 4 bars before end recap of A3
 - Pedal note hold for end.
 
-#### Glenn Miller
+##### Glenn Miller
 1904 - disappeared 1944
 
 Recorded as part of Glenn Miller and His Orchestra
@@ -325,186 +326,196 @@ Recorded as part of Glenn Miller and His Orchestra
 
 
 ### Contemporary
-#### Hound Dog (I'm not actually sure if we need this)
+#### The Shirelles's Baby it's You
+##### Doo Wop Period
+Doo wop period
+- 1952 - commercially viable early 1960's
+- African-american community origin
+- Vocal group harmony with little to no instrumental support
+- Simple lyrics often about love
+- Primary singer with background vocals
+- Simple beat
+- Softer, less aggressive style
+
+Doo wop groups
+- Girl
+	- The Chantels
+	- The Shirelles
+	- The Supremes
+	- The Crystals
+- Boy
+	- The Teenagers
+	- The Drifters
+	- The Platters
+
 ##### Song Info
-Song and Lyrics written by Jerry Leiber and Mike Stoller
-Released 1953 (BMT recording)
-- By Peacock
+Baby it's you was release 1961
+- Also performed by the Beatles in 1969
 
-Originally written for Big Mama Thornton
-- She couldn't successfully sing anything else
-- They wanted a song to suit her style
-- Commissioned by Johnny Otis
+Composed by Burt Bacharach
 
-Elvis's best song
-- Released 1956
-- Recorded the day after he was on the Steve Allen Show in July 1956
+##### Analysis
+Intro 1 - 6
+- Sha-la-la theme from group
+- Alternating between G69 chord and Em chords
 
-##### Popularity of Elvis
-Considered the king of rock and roll
-He was often called a threat to white-American youth as he sung songs of black people, and he danced in ways people did not like.
-Many coloured people respected him
-He was considered to be very attractive - by both men and women
-- Sexual image
+A1 and A2 7 - 14
+- Period form (A B A1 C)
+- Alternating between C and G chord (where G is tonic)\
 
-##### Big Mama Thornton  Ver  v Elvis Ver
-###### BMT
-Less popular
-- Sung by black person
-- Black people are still disadvantaged
-- Her only hit song - song was originally recorded by her
+B1 an B2 15 - 28
+- 8 bars with 4 bar tail/coda
+	- Coda is reminiscent of  the intro
 
-###### Elvis
-More popular
-- Sung by white person
-- Exposes black cultures
-- Benefiting Elvis
+Guitar/synth solo 29 - 36
+- 8 bar solo
+- C D G G C D G G
 
-##### Form
-Head structure:
-- 1<sup>7</sup> for 4 bars, 4<sup>7</sup> for 2 bars, 1 for 2 bars, 5<sup>7</sup> for 1 bar, 4<sup>7</sup> for 1 bar, 1 for 2 bars
-- 12 bars in total
+Coda 38 - 43
+- Uses intro chords
+- Fade out
+- Lyrics are very coda-like (summative)
 
-###### Big Mama Thornton
-Chorus: 1 head
-Verse 1 (You told me you was high classed): 1 head
-Chorus: 1 head
-Guitar solo: 3 heads
-- Thornton calls out some things about the hound dog
+The structure is as follows:
+1. Intro
+2. A1
+3. B1
+4. A2
+5. B2
+6. Solo
+7. B2
+8. Coda
 
-Verse 2 (You made me feel so blue): 1 head
-Chorus: 1 head
-Outro (Awoo)
+##### The Shirelles
+Founded 1947 - disbanded 1982
+- Founded as part of a high school talent show
+- Many used strings in accompaniment
+- Name was based of Shirley's first name and the -el of The Chantels
 
-###### Elvis
-Chorus: 1 head
-Verse 1: 1 head
-Chorus: 1 head
-Guitar solo: 1 head
-- Backing choir
+Famous recordings
+- Will you love me tomorrow
+- Tonight's the night
+- I met him on a sunday
 
-Verse 1: 1 head
-Guitar solo: 1 head
-- Backing choir
+Consisted of
+- Addie Harris
+- Shirley Owens
+- Berverly Lee
+- Doris Coley
+- They sometimes had members drop out an come back at 
 
-Verse 1: 1 head
-Chorus: 1 head
+##### G<sup>6</sup><sub>9</sub> chord
+![g69 chord](https://shanmeis-notes.toomwn.xyz/assets/music/G69.png)
+- G major chord with added 6 and 9
+- Not figured bass!!!
 
-##### Lyrics
-###### Big Mama Thornton
-**Chorus**  
-You ain't nothin' but a hound dog
-- Lowly husband
+#### Ben E King's Stand by Me
+##### Early Rock and Roll
+Early rock and roll
+- Late 1940s - early 1950s
+- Originated from african american music
+	- Jazz
+	- RnB
+	- Boogie woogie
+	- Gospel
+	- Jump blues
+- Dance rhythm
+- Accentuated backbeat
+	- Snare drum
 
-Been snoopin' 'round my door
-- Husband manipulating her
+Rock and roll common instrumentation
+- Two electric guitars
+	- One lead
+	- One rhythm
+- Double bass/electric bass
+- Drumkit
 
-You ain't nothin' but a hound dog  
-Been snoopin' 'round my door  
-You can wag your tail  
-But I ain't gonna feed you no more  
-
-**Verse 1**  
-You told me you was high class
-- Husband tricking wife
-
-But I could see through that
-- Discovered he was lying
-
-Yes, you told me you was high class  
-But I could see through that  
-And daddy I know  
-You ain't no real cool cat  
-- She doesn't like her husband
-
-**Guitar Solo**  
-Oh, play that thing, boy!  
-Aw listen, isn't that them old hound dog? (Oh-woo!)  
-Oh, play it, it's all right up here  
-And listen to that old hound dog howl (Ooo-wo!)  
-- She is spiting her husband
-
-Oh, play it boy, play it  
-Oh, you make me feel good  
-Oh, do not mess around any longer daddy  
-Now wag your tail  
-
-Oh, get it  
-Oh, get it now, get it, get it, get it  
-Oh, you old hound dog  
-- Called blues talk
-
-**Verse 2**  
-You made me feel so blue
-- Husband made her sad
-
-You made me weep and moan  
-You made me feel so blue  
-Yeah you made me weep and moan  
-Cause you ain't looking for a woman  
-All you're lookin' is for a home  
-- Using her for his own gain
-
-**Outro**  
-Awoo!  
-(Bark, bark, bark, bark!)
-
-##### Elvis Presley
-**Chorus**  
-You ain't nothin' but a hound dog
-- Elvis is actually singing to a dog
-- He called it the stupidest thing he'd ever done
-
-Cryin' all the time  
-You ain't nothin' but a hound dog  
-Cryin' all the time  
-Well, you ain't never caught a rabbit  
-And you ain't no friend of mine  
-- Stupid dog
-
-**Verse 1**  
-Well, they said you was high-classed  
-Well, that was just a lie  
-- People said he was a good dog but actually isn't
-
-Yeah, they said you was high-classed  
-Well, that was just a lie  
-Yeah, you ain't never caught a rabbit  
-And you ain't no friend of mine  
-
-##### Genre - Rock and Roll
-Origins
-- Rhythm and Blues
-
-Characteristics
-- Vocal, with a hard driving beat
-- Often having electric guitar accompaniment
-- Heavily amplified sound
-- Folklike, guitar based style
-- Common instrumentation
-	- 2 electric guitars
-	- Electric bass
-	- Percussion
-	- Keyboard instruments
-	- Sometimes includes hons
-- Singing style is from black, folk and country-and-western music
-	- Shouting, crying, wailing, growling, guttural sounds
-	- Falsetto
-	- Nonsense syllables
-	- Repeated chance (Yeah! Yeah! Yeah!)
-- Often in $$\frac{4}{4}$$ time
-	- Often subdivided to 8
-	- Drummer often emphasises the "ands"
-- Often in 12 bar blues form
-- Often in AABA
-
-Famous people
-- Little Richard
+Early rock and roll musicians
 - Chuck Berry
-- Platters (vocal group)
-- Elvis Presley
-- Bill Haley and His Comets
-	- Rock around the clock
-- Bob Dylan
-	- Blowin' in the Wind
-- Beatles
+	- Died of cardiac arrest
+	- Was performing until death
+- Little Richard
+	- 1957 - Quit rock and roll for secular music and religion
+- Bo Diddley
+	- 2007 - after a stroke
+- Jerry Lee Lewis
+- Gene Vincent
+
+##### Rock and Roll musicians and what happened to them
+Eddie van Halen
+- Personal life
+	- Full name is Edward Lodewijk Van Halen
+	- Born Jan 26 1955, died October 6 2020
+	- American musician
+	- Also played clarinet and saxophone
+	- English second language
+	- Didn't read music
+	- Was an alcoholic, drug abuser and a smoker (since 12 years old) before entering rehab
+		- Had tongue cancer which he blamed on holding metal guitar picks in his mouth
+	- Died of a stroke
+- Career
+	- Plays guitar, keyboard, is a backup singer and primary songwriter for the band Van Halen (made by him and his brother)
+	- Van Halen was formed in 1972
+		- Originally called Mammoth
+	- Collaborated with Michael Jackson as temporary guitarist
+- Legacy
+	- Known as one of the greatest guitarists in rock history
+	- Guitar tapping technique and 2-handed arpeggios
+- Songs
+	- Jump (1984)
+	- Thriller (with Michael Jackson, guitar soloist)
+	- Eruption (1978)
+
+Hank Ballard
+- Personal life
+	- Real name is John Henry Kendricks
+	- November 18, 1927 – March 2, 2003
+	- American
+	- Died of throat cancer
+- Career
+	- Singer and songwriter for The Midnighters
+	- Joined the Royals in 1953, renamed to The Midnighters
+	- Group disbanded in 1965 and Ballard started solo work
+- Legacy
+	- Rock and Roll Hall of Fame in 1990
+- Songs
+	- Work with me Annie (1954)
+	- The Twist (1959)
+	- When You Haven't Cut Your Process Yet (1968)
+
+##### Piece info
+Performed 1961 by King  
+Written by King, Jerry Leiber and Mike Stoller
+
+##### Analysis
+Verses
+- Based around turnaround progression (1 6 4 5 1)
+- Each 8 bars long
+- Sometimes finishes with "So, darling, darling" to lead into chorus
+
+Chorus
+- Also turnaround progression
+
+Structure (written) - AAB form - repeated bar form - repeated 12 bar form (augmented)
+1. A1
+2. A2
+3. C
+4. A3
+5. A4
+6. C
+
+##### Ben E. King
+Born 1938 - died 2015
+- Was part of the doo wop group "The Drifters"
+- Performed soul, RnB and doo wop
+- Sung and played piano
+
+Recording output
+- Solo
+	- Stand by me
+	- There goes my baby
+	- Spanish harlem
+- The Drifters 1959 - 1960 (King left) - present day
+	- Save the last dance for me
+	- This magic moment
+	- Under the broadwalk
