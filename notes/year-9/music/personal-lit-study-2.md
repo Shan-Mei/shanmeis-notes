@@ -519,3 +519,16 @@ Recording output
 	- Save the last dance for me
 	- This magic moment
 	- Under the broadwalk
+
+### Score PDFS
+#### Pastorale
+<iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/pastorale.pdf"></iframe>
+
+#### In the Mood
+<iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/in-the-mood.pdf"></iframe>
+
+#### Baby it's You
+<iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/baby-its-you.pdf"></iframe>
+
+#### Stand By Me
+<iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/stand-by-me.pdf"></iframe>
