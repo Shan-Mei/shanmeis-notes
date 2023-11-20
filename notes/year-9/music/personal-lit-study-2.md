@@ -161,7 +161,7 @@ Development b139 - 311
 	- Reaffirming F major
 	- Motifs
 
-Exposition 312 - 512
+Recapitulation 312 - 512
 - S1 312 - 327
 	- Coming back very powerful with flute, oboe and violins taking melody
 - Bridge 328 - 371
@@ -196,11 +196,10 @@ Contemporaries
 Compositional output
 - 9 symphonies
 	- Eroica
+	- 5th
+	- 9th (incl ode to joy)
 - 9 concertos
 	- Emperor piano concerto
-- Other orchestral music
-	- 5th
-	- 9th, includes Ode to Joy
 - Piano sonatas
 	- Moonlight
 	- Pathetique
@@ -337,6 +336,7 @@ Doo wop period
 - Primary singer with background vocals
 - Simple beat
 - Softer, less aggressive style
+- Often used turnaround progression (1 6 4 5)
 
 Doo wop groups
 - Girl
@@ -388,7 +388,7 @@ The structure is as follows:
 8. Coda
 
 ##### The Shirelles
-Founded 1947 - disbanded 1982
+Founded 1957 - disbanded 1982
 - Founded as part of a high school talent show
 - Many used strings in accompaniment
 - Name was based of Shirley's first name and the -el of The Chantels
@@ -431,58 +431,15 @@ Rock and roll common instrumentation
 - Double bass/electric bass
 - Drumkit
 
-Early rock and roll musicians
-- Chuck Berry
-	- Died of cardiac arrest
-	- Was performing until death
+Early rock and roll musicians (thanks Finn)
 - Little Richard
 	- 1957 - Quit rock and roll for secular music and religion
-- Bo Diddley
-	- 2007 - after a stroke
+- Elvis Presley
+	- 1958 - Service in army
 - Jerry Lee Lewis
-- Gene Vincent
-
-##### Rock and Roll musicians and what happened to them
-Eddie van Halen
-- Personal life
-	- Full name is Edward Lodewijk Van Halen
-	- Born Jan 26 1955, died October 6 2020
-	- American musician
-	- Also played clarinet and saxophone
-	- English second language
-	- Didn't read music
-	- Was an alcoholic, drug abuser and a smoker (since 12 years old) before entering rehab
-		- Had tongue cancer which he blamed on holding metal guitar picks in his mouth
-	- Died of a stroke
-- Career
-	- Plays guitar, keyboard, is a backup singer and primary songwriter for the band Van Halen (made by him and his brother)
-	- Van Halen was formed in 1972
-		- Originally called Mammoth
-	- Collaborated with Michael Jackson as temporary guitarist
-- Legacy
-	- Known as one of the greatest guitarists in rock history
-	- Guitar tapping technique and 2-handed arpeggios
-- Songs
-	- Jump (1984)
-	- Thriller (with Michael Jackson, guitar soloist)
-	- Eruption (1978)
-
-Hank Ballard
-- Personal life
-	- Real name is John Henry Kendricks
-	- November 18, 1927 – March 2, 2003
-	- American
-	- Died of throat cancer
-- Career
-	- Singer and songwriter for The Midnighters
-	- Joined the Royals in 1953, renamed to The Midnighters
-	- Group disbanded in 1965 and Ballard started solo work
-- Legacy
-	- Rock and Roll Hall of Fame in 1990
-- Songs
-	- Work with me Annie (1954)
-	- The Twist (1959)
-	- When You Haven't Cut Your Process Yet (1968)
+	- 1958 - Scandal of marrying his 13 year old cousin
+- Buddy Holly, The Big Bopper, Ritchie Valens
+	- 1959 - Plane crash
 
 ##### Piece info
 Performed 1961 by King  
@@ -521,10 +478,9 @@ Recording output
 	- This magic moment
 	- Under the broadwalk
 
-### Score PDFS
+### Annotated Scores
 #### Pastorale
 <iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/pastorale.pdf"></iframe>
-
 #### In the Mood
 <iframe src="https://shanmeis-notes.toomwn.xyz/assets/music/in-the-mood.pdf"></iframe>
 
