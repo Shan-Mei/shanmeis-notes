@@ -222,7 +222,8 @@ Blues scale
 - Starts on doh
 
 #### Glenn Miller's In the Mood
-Recorded 1939
+Recorded 1939  
+By Wingy Manone
 
 Big band swing
 - Smooth, easy listening, relatively simple
