@@ -74,3 +74,6 @@ title: Drama Journal 2023
 #### T4W6L2 - 16/11
 - Rehearsing stuff
 - My group looked for costumes!
+
+#### T4W8L1 - 27/11
+- Performed our performances.
