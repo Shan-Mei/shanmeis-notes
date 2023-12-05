@@ -77,3 +77,6 @@ title: Drama Journal 2023
 
 #### T4W8L1 - 27/11
 - Performed our performances.
+
+#### T4W9L1 - 4/12
+- Was meant to do some research thing but Vrystal and I messed around instead
