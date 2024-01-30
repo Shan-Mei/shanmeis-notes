@@ -14,7 +14,7 @@ title: Year 10 Notes
 [Music](https://shanmeis-notes.toomwn.xyz/notes/year-10/music.html) 
 
 ## Holidays
-[The y10 chemistry study that I did without a proper tutor](https://shanmeis-notes.toomwn.xyz/notes/year-10/10chemistry.html)
+[The y10 chemistry study that I did without a proper tutor](https://shanmeis-notes.toomwn.xyz/notes/year-10/y10chem.html)
 
 ### Reflection
 Coming (not really) soon!
