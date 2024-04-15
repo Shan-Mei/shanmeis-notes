@@ -3,6 +3,7 @@ title: 2024 Science Journal
 ---
 
 ## 2024 Science Journal
+### Term 1
 #### Before the course even started
 - Was notified that I was to get kicked out of year 11 chem and moved back to year 10 science
 
@@ -15,3 +16,8 @@ title: 2024 Science Journal
 - Second last lesson before test!!!
 - Finished off all the content
 - Going through all the objectives
+
+### Term 2
+#### T2W1L1 - 15/4
+- Learnt redox reactions
+- Finished the old reactions worksheet
