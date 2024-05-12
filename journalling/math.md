@@ -21,3 +21,9 @@ title: 2024 Math Journal
 #### T2W1L1 - 15/4
 - We obtained a Mr Young
 - Doing algebra practice because our class is incompetent
+
+#### T2W1L2 - 16/4
+- Started our big masterclass on quadratics
+
+#### T2W1L4 - 18/4
+- Did 6b in sadler

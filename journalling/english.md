@@ -17,3 +17,7 @@ title: 2024 English Journal
 ### Term 2
 #### T2W1L1 - 15/4
 - Started the presentation panel task
+
+#### T2W1L3 - 18/4
+- Had relief
+- Continued work on presentation panel.

@@ -15,3 +15,7 @@ title: 2024 Music Journal
 #### T2W1L1 - 15/4
 - Mr Rogers talked about how coughing and clearing your throat is bad for singing
 - Verbally quizzes us on Haydn's trumpet concerto
+
+#### T2W1L2 - 16/4
+- Finn and Max mixed up their roster dates and got Mr Rogers 2 coffees in total
+- Did some aural inspired by Haydn's trumpet concerto

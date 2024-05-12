@@ -21,3 +21,6 @@ title: 2024 Science Journal
 #### T2W1L1 - 15/4
 - Learnt redox reactions
 - Finished the old reactions worksheet
+
+#### T2W1L3 - 18/4
+- Went through quantative chemistry ppt
