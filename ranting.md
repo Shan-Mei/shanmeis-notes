@@ -21,8 +21,8 @@ They are divided into complete, ongoing and incomplete, and are listed in order 
 
 #### Poetry
 <a href="/ranting/letter-to-you.html">Letter to you</a>  
-<a href="https://shanmeis-notes.toomwn.xyz/ranting/stressed.md">I am very stressed</a>  
-<a href="https://shanmeis-notes.toomwn.xyz/ranting/desolation.md">Desolation</a>
+<a href="https://shanmeis-notes.toomwn.xyz/ranting/stressed.html">I am very stressed</a>  
+<a href="https://shanmeis-notes.toomwn.xyz/ranting/desolation.html">Desolation</a>
 
 #### The ongoing (ones that will be updated periodically)
 <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">Quotes</a>  

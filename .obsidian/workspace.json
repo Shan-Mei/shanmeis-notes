@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ranting.md",
+                "file": "ranting/desolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ranting.md",
+                "file": "ranting/desolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ranting.md",
+                "file": "ranting/desolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ranting.md"
+                "file": "ranting/desolation.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "1f5a1716cc4c6314",
   "lastOpenFiles": [
-    "ranting/fix-sleep-schedule.md",
     "ranting.md",
+    "ranting/fix-sleep-schedule.md",
     "ranting/desolation.md",
     "ranting/stressed.md",
     "ranting/sinf-pieces.md",
