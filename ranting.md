@@ -16,9 +16,13 @@ They are divided into complete, ongoing and incomplete, and are listed in order 
 <a href="https://shan-mei.github.io/shanmeis-notes/ranting/luvenia.html">Dedication 1 - Luvenia Yeo</a>  
 <a href="https://shanmeis-notes.toomwn.xyz/ranting/hol-goals-1.html">2023 Term 2 - 3 Holiday Goals</a>  
 <a href="/ranting/fix-sleep-schedule.html">How to fix sleep schedule</a>  
-<a href="/ranting/letter-to-you.html">Letter to you</a>  
 <a href="https://shanmeis-notes.toomwn.xyz/ranting/i-rank-instruments.html">I rank instruments</a>  
-<a href="https://shan-mei.github.io/shanmeis-notes/ranting/palmtree.html">How to survive the wilderness. A set of plays</a>
+<a href="https://shan-mei.github.io/shanmeis-notes/ranting/palmtree.html">How to survive the wilderness. A set of plays</a>  
+
+#### Poetry
+<a href="/ranting/letter-to-you.html">Letter to you</a>  
+<a href="https://shanmeis-notes.toomwn.xyz/ranting/stressed.md">I am very stressed</a>  
+<a href="https://shanmeis-notes.toomwn.xyz/ranting/desolation.md">Desolation</a>
 
 #### The ongoing (ones that will be updated periodically)
 <a href="https://shan-mei.github.io/shanmeis-notes/ranting/quotes.html">Quotes</a>  
