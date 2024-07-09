@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb658cbea7736bb6",
+        "id": "b7ad3db89fa8c8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5a1716cc4c6314",
+            "id": "2ef3dd782f21b22d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ranting/desolation.md",
+                "file": "notes/theory-and-general-knowledge/bach-sinfonia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ranting/desolation.md",
+                "file": "notes/theory-and-general-knowledge/bach-sinfonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ranting/desolation.md",
+                "file": "notes/theory-and-general-knowledge/bach-sinfonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ranting/desolation.md"
+                "file": "notes/theory-and-general-knowledge/bach-sinfonia.md"
               }
             }
           }
@@ -146,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f5a1716cc4c6314",
+  "active": "2ef3dd782f21b22d",
   "lastOpenFiles": [
-    "ranting.md",
-    "ranting/fix-sleep-schedule.md",
+    "notes/music-theory/grade-5/modulation.md",
+    "notes/music-theory/grade-5/set-works.md",
+    "notes/theory-and-general-knowledge/bach-sinfonia.md",
+    "notes/theory-and-general-knowledge",
     "ranting/desolation.md",
+    "ranting.md",
+    "ranting/piano-pieces.md",
+    "ranting/melbourne.md",
+    "ranting/fix-sleep-schedule.md",
     "ranting/stressed.md",
     "ranting/sinf-pieces.md",
     "ranting/i-rank-instruments.md",
@@ -162,17 +168,12 @@
     "ranting/symph-pieces.md",
     "ranting/vln-pieces.md",
     "ranting/really-cool.md",
-    "ranting/piano-pieces.md",
     "ranting/oboe-pieces.md",
     "ranting/news.md",
     "ranting/hol-tasks.md",
     "ranting/hol-goals-1.md",
     "ranting/schoenberg-theory-of-harmony.md",
     "journalling/drama.md",
-    "ranting/here-for-evermore.md",
-    "README.md",
-    "journalling/ensembles.md",
-    "2024-05-26.md",
-    "arts/music/compositions-and-arrangements/aimons-nous-et-dormons.md"
+    "ranting/here-for-evermore.md"
   ]
 }

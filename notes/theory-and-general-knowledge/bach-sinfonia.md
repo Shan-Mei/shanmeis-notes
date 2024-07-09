@@ -1,0 +1,84 @@
+---
+title: Bach's Sinfonia
+---
+## Bach's Sinfonia
+#### Bach
+General knowledge
+- 1685 - 1750 Baroque
+- Virtuoso organist
+- Born in Eisenach, Thuringia (east germany)
+- Musical family
+- Chorister scholarship at Michaelisschule in Luneberg
+	- Was in the Matins Choir which was usually made up of poor boys. Until his voice broke into a bass baritone
+- Employed at a minor Weimar court as musician with bad pay at 17 (1703)
+- Appointed organist of the new Church in Arnstadt (1703 Aug)
+- Appointment as organist of Blasiuskirche in Muhlhausen 1707 for just over a year
+	- Wrote his first cantatas
+	- Married his first wife Maria Barbara Bach - a distant cousin of his
+- Appointment at the court of the duke of weimar 1708 as a court organist
+	- Under Duke Wilhelm Ernst of Saxe-Weimar
+- Became Konzertmeister in 1714 (newly made position) until 1717
+- Wrote organ music, harsichord toccatas and catatas for Ducal chapel
+- Writing a birthday cantata for Duke Christian of Weissenfels started his association with them until 1736
+- 6 children during weimar period
+- Kapellmeister to Prince Leopold in dec 1717
+	- He encouraged bach to write all kinds of music
+	- Last child under Leopold and named after him
+	- sonatas for violin and harpsichord, unaccompanied solos for violin and cello, six "brandenburg" concertos, first book of well tempered clavier, and many vocal works for the Prince's birthday and his devotion to him every year
+	- His wife died in 1720
+	- He wasn't able to become organist of the Jacobikirche in Hamburg because he was unwilling or unable to donate the large number of church funds
+	- Leopold married his cousin in 1721 who wasn't artistically inclined
+	- In 1721, bach married Anna Magdalena
+		- Also the child of a chief trumpeter
+		- Professional singer
+- Kantor of Thomasschule - second most important post behind Kantor of Hamburg
+	- town's most important musician
+- Until 1726, composed elaborate music for his first choir (12-16 best singers)
+- In dispute with church authorities again in 1728
+- In 1729 was Kapellmeister of Saxe-Wessenfels and also returned to Cothen to perform funeral music for Prince Leopold
+- Returning to leipzig he became director of collegium musicum (founded by telemann)
+	- Wrote more secular music which was more declamatory
+- Wrote Kyrie and Gloria of his B minor mass during 5 month mourning period on death of Elector Friedrich August 1 of Saxony in 1933
+- 1737 resigned from collegium musicum
+	- Keyboard music - Well tempered clavier and clavier ubung
+	- Private teaching
+- Collegium Musicum again in 1739 - 1741 when Gottfried Zimmermann, the coffee-house owner where the collegium performed died
+- 1741 present goldberg variations to Johann Gottlieb Goldberg
+- 1742 onwards
+	- Peasant Cantata - last secular work
+	- Concentration on performances of his major works and those of other composers (handel and telemann)
+- When returning to leipzig after visiting frederick the great, started writing down and working on King of Prussia's fugue theme
+	- Turned this into larger work called musical offering and dedicated to frederick
+- Failing eyesight in declining years
+- Last communion on 22 July and died 28 July 1750 in his home after a stroke
+
+Fun facts
+- Adopted by his eldest brother (Christoph)
+	- "Skilled organist and profound composer" although probably meant improviser (no known works)
+	- Taught him how to play keyboard instruments
+- Studied Latin, Lutheranism, arithmetic, history, geography, German poetry, physics, heraldry and genealogy
+- His employers at the church in arnstadt were unhappy with him
+	- His playing was too involved for chorales
+	- Took a very long leave which was originally 4 weeks turned into 3 months
+	- They complained about a stranger maiden in organ gallery (although she had permission to be there) - was going to be his future wife
+	- Was offered an important organist post and Halle when Handel's teacher, Zachow died. Declined because when asking for permission to leave Weimar, the Duke created the Konzertmeister
+		- Halle employers couldn't match the salary
+		- Although he remained on good terms with Halle and was even called "the famous Weimar organist" in print
+- Bach and a french pianist, Louis Marchand were invited to be in a harsichord competition when they were both in Dresden. But Marchand left Dresden and it was a sign to many that german music was superior to french
+	- 1717
+- Bach's last year with Weimar was bad
+	- Family feuds and unsavoury manipulation to find a new kapellmeister
+	- When Bach was offered a place from Prince Leopold of Anhalt-Cothen, he was refused
+	- When asking again, he got place into house arrest for a month from November to december, then dismissed in disgrace
+- In 1747 was invited to visit court of frederick the great
+	- Began with piano exercise in fugal improvisation on a theme given by the king
+	- Organ and chamber music recital the next day where bach improvd again
+- Went to see english eye specialist, john taylor in 1749
+	- First operation was partly successful
+	- Second operation left him very weak
+	- May 1750 he took his last pupil Johann Gottfried Muthel
+- Bach left a modest estate which was divided against his widow and 9 surviving children
+- Wife died in poverty
+- His music became unfashionable before he died and for 50 years nothing of his was published
+	- Mozart and Beethoven was both seen to admire his music
+	- Mendelssohn from 1829 truly revived his music
