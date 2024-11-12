@@ -2,7 +2,8 @@
 title: Bach's Sinfonia
 ---
 ## Bach's Sinfonia
-#### Bach
+### Bach
+#### Great Composers book
 General knowledge
 - 1685 - 1750 Baroque
 - Virtuoso organist
@@ -82,3 +83,243 @@ Fun facts
 - His music became unfashionable before he died and for 50 years nothing of his was published
 	- Mozart and Beethoven was both seen to admire his music
 	- Mendelssohn from 1829 truly revived his music
+
+#### Dictionary
+Bach revival
+- First half of 19th cen
+	- Romantic movement
+- Works mainly shared by his pupils
+- Germany and austria
+	- Later part of his career music became "old fashioned"
+		- He was a conservative composer
+		- Music was insulted by Scheibe in 1737
+			- "excess of art"
+			- "turgid and confused style"
+	- Compositions in last few year
+		- Mass in B minor
+		- Musical offering (collection of keyboard canons and fugues)
+		- Art of Fugue
+- England
+	- Lacked Bach pupils
+	- English suites for an english nobleman
+		- His music discovery in england
+
+Bach
+- Eisenach, 21march 1685 - leipzig 28 july 1750
+	- Baptised on same day
+	- Birthday carefully recorded in his lexicon
+- Composer and organist
+- Most important member of the family
+- Parents were Johann Ambrosius Bach and Maria Elisabeth Lammerhirt
+	- Last of 3 sons
+- Not much is known about his Eisanach career
+	- Attended school there and had crap attendance
+- 9 year old bach met pachelbel
+	- His brother's teacher
+	- Brother was organist at ohrdruf
+- Ohrdruf
+	- Lyceum school
+		- Stayed until 1700 due to the good curriculum (religion, reading, writing, math, singing, history, natural science)
+		- Left "for lack of board and lodging"
+	- Not very much is known
+- Luneburg 1700
+	- Self taught composition via copying while in luneburg and copying his brother's music by moonlight (while in ohrdruf)
+	- Kantor of school was August Braun - bach may have learned some stuff from him
+	- Organist Georg Bohm - also agreed that bach learned a lot from him
+	- **Bach named bohm as his horthern agent for the sale of partitas no 2 and 3**
+	- Left probably easter 1702
+- Arnstadt
+	- Bach examined the new organ (that was renamed after bach in 1935)
+		- Only one named and paid
+		- First to play the organ
+	- Didn't put on any elaborate music then
+	- Geyersbach
+		- Bach insulted him and his bassoon
+		- At a christening feast, geyersbach asked bach why he insulted him and the struck him in the face with a stick
+		- Bach drew his sword but another student separated them
+		- Bach complained that he couldn't walk to streets safely if Geyersbach wasn't punished
+		- The consistory said that bach shouldn't have insulted him
+		- So bach left for lubeck cos he was mad
+		- Consistory asked bach why his leave was so long and his replies were unsatisfactory and were barely civil
+		- They then complained that his accompaniments were too elaborate and not good for congregational singing
+		- He still refused to collaborate with students in producing cantatas
+			- Couldn't provide a kapellmeister for him
+		- Bach asked again for a musical director
+		- Asked to apologise within 8 days
+		- 8 months later bach answered in writing
+		- Consistory accused him of inviting a "stranger maiden" to make music
+			- He got the parson's permission though
+			- Not his future wife or cousin
+	- Bach became more known and was offered lots of posts
+- Muhlhausen
+	- Maternal uncle died in 1707 and left bach 50 gulden (more than half his salary)
+		- So he married maria barbara
+	- Bach gained pupils during this time
+	- Repaired and tested more organs
+	- Played before the reigning of Duke of Weimar
+	- Salary there was better and wife was also pregnant
+	- Church in Weimar didn't really like the music that he was trying to introduce
+		- The "choicest sacred music"
+- Weimar
+	- Became court organist
+	- Became konzartmeister in 1714
+		- 250 florins
+		- Write a cantata every 4 weeks
+	- Wrote most of his organ works here
+	- Had 6 children
+		- Telemann was godfather to one of his kids (Emanuel)
+	- 1709 and 1710 bach paid for repairing harpsichords
+	- Became "the famous Weimar organist"
+	- Was offered Kapellmeister by Prince Leopold of Cothen
+		- Brother in law to duke ernst
+		- 1717
+- Cothen
+	- Prince Leopold was a young man who loved and understood music (according to bach)
+	- Salary was 400 thaler
+		- second highest salary
+	- Had a child named after leopold
+		- Last child with first wife
+			- She died and was already buried when he came home from berlin
+	- Wrote Brandenburg Concertos, dedicated on 1721 to margrave christian ludwig
+		- Played with him in berlin while negotiating for new cothen harpsichord
+		- Met Anna Magdalena 1721 and married 1721
+			- Court singer
+	- Works
+		- Clavierbuchlein for Anna
+		- Well tempered Clavier bk 1 1722 (but dated 1732 at end of the book)
+		- Inventions and Sinfonias (1723)
+		- Clavier-buchlein 1720
+		- Bach was chosen as Kantor in Leipzig
+			- But he didn't teach latin nor organise the city church music
+- Leipzig
+	- Became "Cantor zu St. Thomae et Director Musices Lipseinsis"
+		- Most important musician in town
+		- Responsible for the music of four principal leipzig churches
+	- Music jobs
+		- Sunday services and feasts
+		- Weddings and funerals
+			- Extra income
+		- Kantor
+			- 87 thaler and 12 groschen
+		- Annually more than 700 thaler if all income added together
+		- Musical director to the uni 1723
+	- Works
+		- 5 cycles of cantatas (60 x 5)
+		- St Matthew's passion
+			- For double choir to a libretto by PIcader
+			- Good friday
+			- Important
+		- St John Passion
+		- A second Clavierbuchlein for anna
+		- Easter oratorio
+		- Trauder ode
+			- Important
+			- Cantata no 198
+		- Instrumental works retreated to the background while he was in leipzig
+	- Got a new organ 1723
+	- Went to cothen 1725 for guest appearance as performer
+		- Regained Court Kapellmeister there until Leonard died (1728)
+		- Visited Cothen several more times, often with anna as a soprano
+	- Fav instrument in Lepzig was great organ of Pailinerkirche build by Johann Scheive in 1716
+		- 53 stops
+		- 3 manuals
+		- Pedals
+		- Bach was one of the examiners in 1717
+	- 1728 hymns dispute
+		- Subdeacon gaudlitz demanded that he could choose the hymns sung before and after the sermon at Vespers
+		- Gaudlitz won
+		- Relations with the town council and teachers of thomasschule went less smooth
+	- About half of bach's surviving corresnpondence is concerned with generally trivial but often protracted disputes over rights
+	- 1729 became court kapellmeister of saxe-weissenfels (until 1736)
+- Leipzig 1729 - 1739
+	- Became collegium musician founded by Telemann in 1702
+		- Had a good instrumental ensemble and good teachers at his disposal
+		- Establish wholly independent musical praxis
+			- With his own ideas
+		- Ordinaire weekly concerts
+			- Orchestral suites
+			- Violin concertos
+			- Flute sonatas
+			- 7 Harpsichord concertos
+	- Anna had a child every year but not many survived infancy
+		- Early years
+		- 13 children
+			- His family could form a vocal and instrumental concert ensemble
+	- Left collegium for a bit in 1737 summer
+	- 80 private pupils over the years
+	- Definition of harmony as an accumulation of counterpoint
+		- Bach helped develop
+- Leipzig 1739 - 50
+	- Resumed collegium
+	- Withdrew 1741
+		- Coffee-house owner Gottfried Zimmermann died and collegium lost landlord and and organiser and couldn't continue
+	- Went to berlin 1741
+		- Prob to visit CPE bach
+			- Appointed court harpsichord player to Crown Prince Frederick of Prussia (Frederick the Great)
+	- Examined 2 important organs in 1746
+	- 1747
+		- Visited Frederick the Great (one of the more "interesting events")
+	- The art of fugue from 1740
+		- 14 movements (12 fugues 2 canons)
+	- Final years difficulties with eyes
+		- Became total blindness
+		- Composed nothing after autumn 1749
+		- Last samples of his handwriting was irregular, clumsy and showed cramping in 1749
+		- Probably untreated and untreatable diabetes
+			- Neuropathy
+			- Degenerative brain disease
+	- The eye operation end of march
+		- Under John Taylor
+			- Also did Handel
+		- Partially successful
+		- Had to repeat in april
+			- Unsuccessful
+			- He became very weak
+	- Johann Gottfried Muthel went to Bach's house to become his last pupil
+	- Died of a stroke
+		- Left modest estate of
+			- Securities
+			- Cash
+			- Silver vessels
+			- Instruments
+				- 8 harpsochords
+				- 2 lute-harpsichords
+				- 10 string instruments (with a valuable stainer violin)
+				- Lute
+				- Spinet
+			- Other goods
+			- 1122 thaler and 22 groschen
+	- Anna died in poverty in 1760
+
+Post death
+- 
+
+### Bach Partitas
+#### Dictionary
+Publishing
+- Partita 1 published singly under the general time of clavier ubung
+- Followed by no 2 and 3 1727
+- Then 4 
+- Then 5
+- Then 6
+- Originally planned to include 7 partitas
+- Partitas 3 and 6 had early versions in second book for anna magdalena (1725)
+
+Writing style
+- No limits to his keyboard skills
+- Freely improvisatory
+	- Prelude
+	- Toccata
+	- Fantasia
+- Imitative and strict
+	- Fugue
+	- Fantasia
+	- Ricercar
+	- Conzona
+	- Capriccio
+	- Invention
+- Combinatory
+	- Multi-part preludes
+	- Prelude and fugue
+
+20240707_162022

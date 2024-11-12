@@ -4,7 +4,7 @@ title: English Creative Sem 1 2024
 
 ## Creative Assignment - Aestheticism
 #### Autumn
-
+![Autumn Poem](https://shanmeis-notes.toomwn.xyz/assets/english/autumn-poem.png)
 
 #### Winter
 Soft, white cumulous clouds,  

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78bae0d2dade1e3b",
+        "id": "71af8f126adcfe2b",
         "type": "tabs",
         "children": [
           {
-            "id": "19f4c6999158b818",
+            "id": "8b3816d7cb5faa72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/year-10/english.md",
+                "file": "notes/year-10/science/t4w4l42024.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "t4w4l42024"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/year-10/english.md",
+                "file": "notes/year-10/science/t4w2l42024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for t4w2l42024"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/year-10/english.md",
+                "file": "notes/year-10/science/t4w2l42024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from t4w2l42024"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/year-10/english.md"
-              }
+                "file": "notes/year-10/science/t4w2l42024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of t4w2l42024"
             }
           }
         ]
@@ -146,34 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19f4c6999158b818",
+  "active": "8b3816d7cb5faa72",
   "lastOpenFiles": [
-    "notes/year-10/english/t3w6l12024.md",
-    "notes/year-10/english/t3w6l32024.md",
-    "notes/year-10/music/t3w4l42024.md",
-    "notes/year-10/english.md",
-    "journalling/english.md",
-    "notes/year-10/english/t2w5l42024.md",
-    "notes/year-10/music/t3w3l42024.md",
-    "notes/year-10/music/t3w2l42024.md",
-    "notes/year-10/music/t3w3l12024.md",
-    "notes/year-10/music.md",
-    "notes.md",
-    "notes/year-9/hass/geography-pt-1.md",
-    "notes/year-9/hass/geography.md",
-    "notes/year-9/music/term-3.md",
-    "ranting/melbourne.md",
-    "notes/year-10/music/t2w5l32024.md",
-    "notes/year-10/music/t2w6l22024.md",
-    "notes/year-10/music/t2w5l12024.md",
-    "notes/year-10/music/t2w5l22024.md",
-    "notes/year-10/music/t2w5l42024.md",
-    "crude-documentary.md",
-    "notes/year-10/english/english-creative-sem1.md",
-    "notes/year-10/english/README.md",
-    "notes/year-10.md",
+    "notes/year-10/science/t4w5l22024.md",
+    "notes/year-10/science/t4w7-82024.md",
+    "notes/year-10/science/t4w4l42024.md",
+    "notes/year-10/science/t4w3l32024.md",
+    "notes/year-10/science/t4w3l22024.md",
+    "notes/year-10/science/t4w2l22024.md",
+    "notes/year-10/science/t4w2l42024.md",
+    "notes/year-10/science/t4w2l12024.md",
+    "notes/year-10/science/t4w1l42024.md",
+    "notes/year-10/science/t3w6l42024.md",
+    "ranting.md",
+    "notes/year-10/y10chem.md",
     "notes/theory-and-general-knowledge/bach-sinfonia.md",
-    "notes/music-theory/grade-5/modulation.md",
+    "notes/year-10/english/t4w5l22024.md",
+    "notes/year-10/english/t4w3l22024.md",
+    "notes/year-9/science/chem-val.md",
+    "notes/year-9/science/chem.md",
+    "notes/year-10/english/t4w2l22024.md",
+    "notes/year-10/music/t4w3l32024.md",
+    "Pasted image 20241023135519.png",
+    "notes/year-10/english.md",
+    "notes/year-10/music/t4w1l22024.md",
+    "notes/year-10/japanese/t4w2l32024.md",
+    "notes/year-10/english/t4w2l12024.md",
+    "notes/year-10/music/t3w9l42024.md",
+    "notes/year-10/music/t3w4l42024.md",
+    "notes/year-10/music/t3w3l42024.md",
+    "Pasted image 20240917152943.png",
+    "assets/english/autumn-poem.png",
+    "notes/year-7/science",
     "notes/theory-and-general-knowledge"
   ]
 }
